@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-11-16T12:00:00Z",
+  "entries": [
+    {
+      "id": "update-2026-11-16T12:00:00Z",
+      "type": "update",
+      "date": "2026-11-16",
+      "generatedAt": "2026-11-16T12:00:00Z",
+      "title": "Midday Update · 16 November 2026",
+      "items": [
+        {
+          "headline": "Iran strikes at Bahrain again as peace talks stall",
+          "summary": "Iran launched a drone attack on Bahrain on Sunday, its second in three days, ending a roughly two-month lull.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.aa.com.tr/en/americas/uss-theodore-roosevelt-to-join-2-us-aircraft-carriers-in-middle-east-within-next-day-report/4125964"
+        },
+        {
+          "headline": "Iran reports three tankers struck by mines near Hormuz",
+          "summary": "Iran's Revolutionary Guard says tankers caught fire after hitting mines. Reuters could not verify the reports.",
+          "category": "world",
+          "badge": "unconfirmed",
+          "sourceUrl": "https://www.jpost.com/middle-east/iran-news/article-914859"
+        },
+        {
+          "headline": "Italy fines Meta €805m over Android data access",
+          "summary": "Italy's data protection authority says Meta accessed photos, videos and metadata on Android phones without informed consent.",
+          "category": "world",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+        },
+        {
+          "headline": "Government looks for a high-profile chair for an electoral reform commission",
+          "summary": "Ministers want a well-known figure to lead a commission on how the UK votes. Nothing is decided yet.",
+          "category": "uk",
+          "badge": "proposal",
+          "sourceUrl": "https://www.politicshome.com/news/article/government-eyes-high-profile-figure-chair-electoral-reform-commission"
+        },
+        {
+          "headline": "IMD: Bay of Bengal low to become a cyclonic storm by Monday evening",
+          "summary": "A severe cyclonic storm is expected around 18 Nov, possibly near the Andhra Pradesh–Odisha coast.",
+          "category": "india",
+          "badge": "developing",
+          "sourceUrl": "https://www.dtnext.in/news/tamilnadu/bay-of-bengal-system-likely-to-intensify-into-cyclone-by-november-16-imd"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-morning",
+      "type": "briefing",
+      "edition": "morning",
+      "date": "2026-11-16",
+      "generatedAt": "2026-11-16T06:45:04Z",
+      "title": "Morning Briefing · 16 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/2cKesHqxE44Jr1NTt7DChu",
+      "headlines": [
+        "Gulf tensions flare again",
+        "Nvidia shock hits Asian chip stocks",
+        "Immigration and Asylum Bill returns to the Commons",
+        "Modi in Manila for the ASEAN Summit",
+        "India take ODI series in New Zealand; England win in Madrid"
+      ]
+    },
+    {
+      "id": "2026-11-15-evening",
+      "type": "briefing",
+      "edition": "evening",
+      "date": "2026-11-15",
+      "generatedAt": "2026-11-15T18:48:46Z",
+      "title": "Evening Briefing · 15 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/FuyogeXVp3HAJDL8xBTZfk",
+      "headlines": [
+        "Gulf flare-up: Iran says mines hit two tankers near Hormuz and it fired drones at a US radar in Bahrain",
+        "Trump, Xi and Putin to meet in Shenzhen on Thursday",
+        "About 75 Labour MPs oppose the Rosebank oilfield, the first big revolt of Burnham's premiership",
+        "India beat New Zealand by 22 runs to win the ODI series 3-1",
+        "ULA's Vulcan rocket failed about 10 minutes after launch, losing 40 Amazon Leo satellites"
+      ]
+    },
+    {
+      "id": "2026-11-15-morning",
+      "type": "briefing",
+      "edition": "morning",
+      "date": "2026-11-15",
+      "generatedAt": "2026-11-15T06:45:31Z",
+      "title": "Morning Briefing · 15 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/GUgd9dEFFaxbJNTU53Xaff",
+      "headlines": [
+        "SpaceX catches a Starship upper stage for the first time",
+        "Iran says three more tankers hit mines near Hormuz",
+        "US flight disruption runs into a third day",
+        "Kremlin says Putin, Xi and Trump will meet on 19 Nov",
+        "Bay of Bengal low set to become a cyclone by Monday"
+      ]
+    }
+  ]
+}

@@ -6,6 +6,7 @@ Locked on 16 Nov 2026. The website and the apps read this, and the scheduled bri
 
 - `feed/latest.json`: the last 48 hours. This is the only file the app loads on open.
 - `feed/archive/YYYY-MM-DD.json`: one file per UK calendar day, same shape, for older entries.
+- `feed/sample.json`: design and test data, the same shape as `latest.json`. The app never loads it and the scheduled tasks never write to it. The briefing entries hold real titles, links and headlines. The hourly update entry is made up for illustration, built from real stories.
 
 ## Top level
 
