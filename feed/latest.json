@@ -17,6 +17,43 @@
         "Immigration and Asylum Bill faces final Commons stages on Tuesday",
         "Indian shares rebound while Wall Street and London slip"
       ],
+      "categories": [
+        {
+          "key": "markets",
+          "label": "Markets",
+          "count": 3
+        },
+        {
+          "key": "world",
+          "label": "World",
+          "count": 6
+        },
+        {
+          "key": "uk",
+          "label": "UK",
+          "count": 2
+        },
+        {
+          "key": "india",
+          "label": "India",
+          "count": 3
+        },
+        {
+          "key": "immigration",
+          "label": "UK immigration",
+          "count": 3
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "count": 3
+        },
+        {
+          "key": "space",
+          "label": "Space",
+          "count": 2
+        }
+      ],
       "stories": [
         {
           "headline": "FTSE 100 edges lower as miners and US tech weigh",
@@ -192,6 +229,43 @@
         "Immigration and Asylum Bill returns to the Commons",
         "Modi in Manila for the ASEAN Summit",
         "India take ODI series in New Zealand; England win in Madrid"
+      ],
+      "categories": [
+        {
+          "key": "world",
+          "label": "World",
+          "count": 4
+        },
+        {
+          "key": "uk",
+          "label": "UK",
+          "count": 3
+        },
+        {
+          "key": "india",
+          "label": "India",
+          "count": 3
+        },
+        {
+          "key": "immigration",
+          "label": "UK immigration",
+          "count": 3
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "count": 2
+        },
+        {
+          "key": "space",
+          "label": "Space",
+          "count": 2
+        },
+        {
+          "key": "markets",
+          "label": "Markets",
+          "count": 2
+        }
       ],
       "stories": [
         {

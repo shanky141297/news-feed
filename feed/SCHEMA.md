@@ -28,7 +28,18 @@ Locked on 16 Nov 2026 and amended the same day to add `stories` to briefings, be
 | `title` | string | `Morning Briefing · 16 November 2026` (day without a leading zero, full month name) |
 | `artifactUrl` | string | Must start with `https://claude.ai/artifact/` |
 | `headlines` | string[] | The five must-know headlines, plain text |
+| `categories` | Category[] | The categories used by this briefing's `stories`, in order of first appearance, with counts. See below |
 | `stories` | Story[] | Every story in the briefing, in the briefing's order, most important first within each category |
+
+### Category (used by a briefing's `categories`)
+
+| Field | Type | Notes |
+| --- | --- | --- |
+| `key` | string | One of `world`, `uk`, `india`, `immigration`, `sport`, `space`, `markets` |
+| `label` | string | Display label, always the same for a key: `World`, `UK`, `India`, `UK immigration`, `Sport`, `Space`, `Markets` |
+| `count` | number | How many of this briefing's stories have this category. The counts add up to the number of stories |
+
+Only categories with at least one story are listed. "All" is not a category; the app adds it, with the total number of stories.
 
 ## Entry: `"type": "update"` (hourly, planned)
 
@@ -52,11 +63,12 @@ Locked on 16 Nov 2026 and amended the same day to add `stories` to briefings, be
 | `badge` | string | Optional. One of `breaking`, `developing`, `confirmed`, `proposal`, `unconfirmed`, `status`, `update` |
 | `sourceUrl` | string | Must start with `https://` |
 
-The category filter in the app is built from the categories that appear in `stories`. "All" is the unfiltered view, not a stored category.
+The category filter in the app is built from the briefing's `categories` list. "All" is the unfiltered view, not a stored category.
 
 ## Rules for writers
 
 - Write only under `feed/`.
 - Skip the write if an entry with the same `id` exists.
+- Build a briefing's `categories` from its `stories` after the stories are final, so the keys, order and counts always match them.
 - Move entries older than 48 hours into that day's archive file.
 - All text is plain text: no HTML, no Markdown. The app renders everything as text, never as HTML.
