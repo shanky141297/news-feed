@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-11-16T06:45:04Z",
+  "entries": [
+    {
+      "id": "2026-11-16-morning",
+      "type": "briefing",
+      "edition": "morning",
+      "date": "2026-11-16",
+      "generatedAt": "2026-11-16T06:45:04Z",
+      "title": "Morning Briefing · 16 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/2cKesHqxE44Jr1NTt7DChu",
+      "headlines": [
+        "Gulf tensions flare again",
+        "Nvidia shock hits Asian chip stocks",
+        "Immigration and Asylum Bill returns to the Commons",
+        "Modi in Manila for the ASEAN Summit",
+        "India take ODI series in New Zealand; England win in Madrid"
+      ],
+      "categories": [
+        {
+          "key": "world",
+          "label": "World",
+          "count": 4
+        },
+        {
+          "key": "uk",
+          "label": "UK",
+          "count": 3
+        },
+        {
+          "key": "india",
+          "label": "India",
+          "count": 3
+        },
+        {
+          "key": "immigration",
+          "label": "UK immigration",
+          "count": 3
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "count": 2
+        },
+        {
+          "key": "space",
+          "label": "Space",
+          "count": 2
+        },
+        {
+          "key": "markets",
+          "label": "Markets",
+          "count": 2
+        }
+      ],
+      "stories": [
+        {
+          "headline": "Iran strikes at Bahrain again as peace talks stall",
+          "summary": "Iran launched a drone attack on Bahrain on Sunday, ending a roughly two-month lull.",
+          "whyItMatters": "Renewed Gulf fighting feeds straight into oil prices and UK inflation.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.aa.com.tr/en/americas/uss-theodore-roosevelt-to-join-2-us-aircraft-carriers-in-middle-east-within-next-day-report/4125964"
+        },
+        {
+          "headline": "Iran says two tankers hit mines in Hormuz",
+          "summary": "Iran's Revolutionary Guards say two tankers struck mines and caught fire, and that one sank. There is no independent confirmation.",
+          "whyItMatters": "About a fifth of seaborne oil passes through the strait.",
+          "category": "world",
+          "badge": "unconfirmed",
+          "sourceUrl": "https://www.aa.com.tr/en/middle-east/iran-says-2-oil-tankers-hit-mines-catch-fire-in-strait-of-hormuz/4126136"
+        },
+        {
+          "headline": "Houthi drones and missiles fired at Saudi cities",
+          "summary": "The Saudi-led coalition says it shot down drones over Mecca and Medina and two missiles aimed at Riyadh. The Houthis dispute its account.",
+          "whyItMatters": "Strikes near the holy cities widen the conflict.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-4-drones-over-mecca-medina-amid-escalation-with-houthis/4125851"
+        },
+        {
+          "headline": "Estonia to shut all Russia border crossings from 1 December",
+          "summary": "Estonia will close the crossings after what it calls a failed sabotage attempt on a defence firm.",
+          "whyItMatters": "Europe is hardening its response to Russian hybrid activity.",
+          "category": "world",
+          "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+        },
+        {
+          "headline": "Busy week at Westminster: immigration bill, PMQs and a UK–EU summit",
+          "summary": "The Visitor Levy Bill is debated today, the Immigration and Asylum Bill returns on Tuesday, and the UK–EU summit is on Friday.",
+          "whyItMatters": "Tuesday's vote is the bill's last Commons hurdle before the Lords.",
+          "category": "uk",
+          "sourceUrl": "https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-16-november-2026"
+        },
+        {
+          "headline": "UK joins allies urging Israel to let winter shelter into Gaza",
+          "summary": "The UK, Australia, Canada and Italy called on Israel to allow 150,000 tents into Gaza now.",
+          "whyItMatters": "It adds diplomatic pressure on Israel over aid access.",
+          "category": "uk",
+          "sourceUrl": "https://www.aa.com.tr/en/americas/australia-canada-italy-uk-urge-israel-to-allow-immediate-entry-of-150-000-tents-aid-into-gaza/4126027"
+        },
+        {
+          "headline": "Edinburgh protest against planned AI data centres",
+          "summary": "Thousands marched in Edinburgh against plans for large AI data centres in Scotland.",
+          "whyItMatters": "Power and water concerns are a growing obstacle to AI growth zones.",
+          "category": "uk",
+          "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+        },
+        {
+          "headline": "PM Modi at the ASEAN Summit in Manila, 16–18 Nov",
+          "summary": "Modi is at the 49th ASEAN Summit, with trade and maritime security on the agenda.",
+          "whyItMatters": "India is deepening ties in Southeast Asia while maritime tensions with China stay unresolved.",
+          "category": "india",
+          "sourceUrl": "https://www.careerindia.com/news/school-assembly-news-headlines-today-november-16-2026-national-international-education-sports-068703.html"
+        },
+        {
+          "headline": "Election Commission eases voter-roll revision for movers",
+          "summary": "Voters who missed the enumeration forms can now submit them from where they currently live.",
+          "whyItMatters": "It answers part of the concern that migrant workers could be dropped from the rolls.",
+          "category": "india",
+          "sourceUrl": "https://www.careerindia.com/news/school-assembly-news-headlines-today-november-16-2026-national-international-education-sports-068703.html"
+        },
+        {
+          "headline": "Inflation above the RBI's band raises rate-hike talk",
+          "summary": "October retail inflation came in at 6.09%, above the RBI's 6% upper limit.",
+          "whyItMatters": "A rate hike would raise EMIs and borrowing costs.",
+          "category": "india",
+          "sourceUrl": "https://upstox.com/news/market-news/stocks/gift-nifty-signals-positive-start-for-indian-markets-on-nov-16-key-things-to-know-before-the-opening-bell/article-203473/"
+        },
+        {
+          "headline": "No new Immigration Rules this week",
+          "summary": "No new Immigration Rules were laid in the past week. The latest Statement of Changes is still HC 584 (3 Sep 2026).",
+          "category": "immigration",
+          "badge": "status",
+          "sourceUrl": "https://www.gov.uk/government/collections/immigration-rules-statement-of-changes"
+        },
+        {
+          "headline": "Earned settlement: 10-year default route to ILR",
+          "summary": "Settlement becomes 10 years by default, 5 years above £50,271 or in public-service roles, and 3 years at £125,141. Rules are expected from December 2026.",
+          "whyItMatters": "There is no general exemption for people already in the UK, so the rules in force when you apply decide your route.",
+          "category": "immigration",
+          "badge": "proposal",
+          "sourceUrl": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk"
+        },
+        {
+          "headline": "B2 English requirement expected from 26 March 2027",
+          "summary": "A law firm reports that the higher B2 English level is due for applications from 26 March 2027.",
+          "whyItMatters": "Anyone applying for an extension or ILR in 2027 should check which level applies on their date.",
+          "category": "immigration",
+          "badge": "proposal",
+          "sourceUrl": "https://www.lewissilkin.com/insights/2026/11/03/home-office-sets-out-revised-earned-settlement-framework-102o7co"
+        },
+        {
+          "headline": "India win ODI series in New Zealand 3–1",
+          "summary": "India took the series under stand-in captain Shreyas Iyer.",
+          "whyItMatters": "Top-order form is a worry heading towards the 2027 ODI World Cup.",
+          "category": "sport",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.mykhel.com/news/sports-bulletin-nov-16-india-nz-series-win-icc-global-cricket-calendar-2035-england-beat-spain-news-459085.html"
+        },
+        {
+          "headline": "England beat Spain 3–2 in Madrid",
+          "summary": "England won despite a red card, ending Spain's 43-match unbeaten run and topping their Nations League group.",
+          "category": "sport",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.mykhel.com/news/sports-bulletin-nov-16-india-nz-series-win-icc-global-cricket-calendar-2035-england-beat-spain-news-459085.html"
+        },
+        {
+          "headline": "Voyager 1 reaches one light-day from Earth on Wednesday",
+          "summary": "NASA says the probe crosses one light-day, about 26 billion km, at 10:16 GMT on 18 Nov.",
+          "whyItMatters": "It is the first human-made object to get that far.",
+          "category": "space",
+          "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
+        },
+        {
+          "headline": "ULA Vulcan loses 40 Amazon Leo satellites",
+          "summary": "A Vulcan rocket failed shortly after lift-off and did not put 40 Amazon Leo satellites into orbit.",
+          "whyItMatters": "It sets back Amazon's race with Starlink and may ground Vulcan.",
+          "category": "space",
+          "badge": "breaking",
+          "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+        },
+        {
+          "headline": "FTSE 100 at a three-month high on a defensive rotation",
+          "summary": "Money moved out of AI-linked stocks into energy, healthcare and utilities on Friday.",
+          "category": "markets",
+          "sourceUrl": "https://www.marketscreener.com/news/ftse-100-closes-at-3-month-high-as-energy-and-defensive-stocks-rise-ce785ed9d08ef125"
+        },
+        {
+          "headline": "India: Sensex and Nifty up as money rotates out of Asian tech",
+          "summary": "Indian shares rose while Taiwan, the Kospi and the Nikkei fell. Foreign investors have bought over $8bn of Indian shares this month.",
+          "category": "markets",
+          "badge": "developing",
+          "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-november-16-126111600051_1.html"
+        }
+      ]
+    }
+  ]
+}
