@@ -1,7 +1,206 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-19T06:46:45Z",
+  "lastUpdated": "2026-11-19T18:48:18Z",
   "entries": [
+    {
+      "id": "2026-11-19-evening",
+      "type": "briefing",
+      "edition": "evening",
+      "date": "2026-11-19",
+      "generatedAt": "2026-11-19T18:48:18Z",
+      "title": "Evening Briefing · 19 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/LHz42JJpyPjPE9aBnxUHNz",
+      "headlines": [
+        "World Court rules Myanmar committed genocide against the Rohingya, the first such finding against a state",
+        "Trump, Xi and Putin end their Shenzhen summit with a broad peace declaration that leaves out Ukraine and Iran",
+        "Anthropic opens at 111.50 dollars against an 83 dollar IPO price as Wall Street slides, Dow down about 1.6%",
+        "Cyclone Akvan due to cross the coast near Gopalpur by noon Friday; more than 105,000 evacuated in Odisha",
+        "Andy Burnham heads to Brussels for Friday's UK-EU summit on security, migration and food trade"
+      ],
+      "categories": [
+        {
+          "key": "world",
+          "label": "World",
+          "count": 4
+        },
+        {
+          "key": "uk",
+          "label": "UK",
+          "count": 3
+        },
+        {
+          "key": "india",
+          "label": "India",
+          "count": 2
+        },
+        {
+          "key": "immigration",
+          "label": "UK immigration",
+          "count": 3
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "count": 2
+        },
+        {
+          "key": "space",
+          "label": "Space",
+          "count": 1
+        },
+        {
+          "key": "markets",
+          "label": "Markets",
+          "count": 4
+        }
+      ],
+      "stories": [
+        {
+          "headline": "World Court finds Myanmar committed genocide against the Rohingya",
+          "summary": "The International Court of Justice ruled on Thursday, by nine votes of 15, that Myanmar committed genocide against the Rohingya and failed to prevent it. It ordered Myanmar to stop the violence, prosecute those responsible, enable safe and voluntary return and report back within two years. The judgment is final and cannot be appealed.",
+          "whyItMatters": "It is the first time the court has found a state responsible for genocide. The ICJ cannot enforce its rulings, so The Gambia could take the matter to the UN Security Council.",
+          "category": "world",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+        },
+        {
+          "headline": "Trump-Xi-Putin summit ends with a broad declaration and few specifics",
+          "summary": "The first three-way meeting of the US, Chinese and Russian leaders lasted just over an hour on the APEC sidelines in Shenzhen. Their peace declaration backs UN reform, more oil supply and lower nuclear risks, but does not mention Ukraine or Iran. Trump said he and Xi agree Iran must fully reopen the Strait of Hormuz.",
+          "whyItMatters": "AP found no sign that Trump won help from Beijing or Moscow on ending the Iran war, so the summit changes little on the ground for now.",
+          "category": "world",
+          "badge": "update",
+          "sourceUrl": "https://www.yahoo.com/news/politics/articles/takeaways-historic-summit-between-trump-154351292.html"
+        },
+        {
+          "headline": "Ukraine's allies meet in Berlin on security guarantees",
+          "summary": "About 30 leaders, including Zelensky, Merz, Macron and Burnham, met in Berlin for the Coalition of the Willing alongside US envoys Witkoff and Kushner, NATO and the European Commission. They discussed a 45 billion euro EU package for Ukraine's 2027 needs, winter air defence and preparing legally binding guarantees for after any ceasefire. No signed guarantee was announced.",
+          "whyItMatters": "The meeting ran in parallel with the Shenzhen summit, as Europe tries to keep a say in any settlement. Putin said again on Thursday that Russia will not give up territory it holds.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://eualive.net/coalition-of-the-willing-meets-in-berlin-as-counterweight-to-putin-trump-diplomacy/"
+        },
+        {
+          "headline": "Gulf war: Riyadh tower damaged and another tanker hit near Oman",
+          "summary": "Debris from an intercepted Houthi missile damaged the tower housing Saudi Arabia's sovereign wealth fund in Riyadh on Thursday, the Saudi-led coalition said. A tanker was hit in its engine room about 6 nautical miles north of Khasab, Oman, late on Wednesday; the crew are safe. Reports say a joint US-Israeli strike on Iran is still being considered, with no decision made.",
+          "whyItMatters": "Attacks on shipping around Hormuz keep energy markets on edge; the IEA has called the crisis the largest threat to energy security on record.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://gulfnews.com/world/mena/middle-east-war-riyadh-skyscraper-damaged-tanker-hit-near-oman-as-trump-weighs-fresh-iran-strikes-1.500752996"
+        },
+        {
+          "headline": "Burnham goes to Brussels for the second UK-EU summit on Friday",
+          "summary": "Prime Minister Andy Burnham meets Antonio Costa and Ursula von der Leyen in Brussels on Friday 20 November. The government says it wants practical next steps on security, illegal migration and crime, and less red tape and lower costs for farmers and food businesses. Correction: this morning's briefing wrongly named Keir Starmer as the UK leader attending.",
+          "whyItMatters": "A food and farm trade deal would be the most concrete gain from the post-Brexit reset so far, after Burnham said this week that Brexit has cost the UK more than it gained.",
+          "category": "uk",
+          "badge": "update",
+          "sourceUrl": "https://www.gov.uk/government/news/prime-minister-to-attend-uk-eu-summit-in-brussels-on-20-november"
+        },
+        {
+          "headline": "National Grid says a viral blackout warning is fake",
+          "summary": "A mocked-up poster claiming a critical fault would cause blackouts from 4pm on Thursday was viewed more than a million times on social media. National Grid said no outage was expected and asked people to report the post and check its official channels.",
+          "whyItMatters": "No blackout happened. The hoax followed the government's Be Ready preparedness campaign, which has made such claims more likely to spread.",
+          "category": "uk",
+          "sourceUrl": "https://ladbible.com/news/uk-news/national-grid-issue-statement-hoax-major-blackout-warning-goes-viral-928262-20261119"
+        },
+        {
+          "headline": "Commons Library sets out the UK response to Argentina's push against Falklands oil",
+          "summary": "A new House of Commons Library briefing covers Argentina's legal, economic and diplomatic campaign against the Sea Lion oil project north of the Falklands, including sanctions on about 60 people and firms. A tribunal in Hamburg is due to give its order on the project on 28 November, and drilling is expected from January 2027.",
+          "whyItMatters": "The dispute is becoming a live diplomatic issue for London, with the tribunal order next week.",
+          "category": "uk",
+          "sourceUrl": "https://en.mercopress.com/2026/11/19/uk-parliament-briefing-details-london-s-response-to-argentina-s-offensive-against-sea-lion"
+        },
+        {
+          "headline": "Cyclone Akvan: landfall near Gopalpur by noon Friday",
+          "summary": "IMD's latest update has the severe cyclonic storm crossing the north Andhra and south Odisha coast between Narsapur and Puri, close to east of Gopalpur, by noon on 20 November, with winds of 90 to 100 km/h gusting to 110 km/h. Odisha says about 105,300 people have been moved to 9,299 shelters across 20 districts, and 31 NDRF teams are deployed in five states.",
+          "whyItMatters": "The track has shifted north since earlier in the week, putting Odisha's Ganjam and Puri coasts in the firing line. Heavy rain is forecast for Kolkata and south Bengal until 21 November.",
+          "category": "india",
+          "badge": "developing",
+          "sourceUrl": "https://www.etvbharat.com/en/bharat/live-blog--cyclone-akvan-live-imd-forecasts-heavy-rain-in-kolkata-south-bengal-districts-till-nov-21-enn26111905027"
+        },
+        {
+          "headline": "India-Japan 2+2: Japan to test-fire missiles at Indian ranges from 2027",
+          "summary": "At the fourth 2+2 in Tokyo, Rajnath Singh and S Jaishankar signed a letter of intent letting Japanese forces use Indian firing ranges such as Chandipur from 2027, including surface-to-ship missile drills. The two sides also agreed to speed up work on stealth naval masts, underwater systems, joint shipbuilding and mine countermeasures.",
+          "whyItMatters": "It is the deepest step yet in India-Japan defence ties and fits Jaishankar's stated aim of a multipolar Asia.",
+          "category": "india",
+          "badge": "update",
+          "sourceUrl": "https://www.business-standard.com/external-affairs-defence-security/news/japan-to-use-indian-firing-ranges-for-surface-to-ship-missile-tests-in-2027-126111901349_1.html"
+        },
+        {
+          "headline": "No new Immigration Rules today",
+          "summary": "GOV.UK shows no new Statement of Changes and no visa, settlement or fee announcement on 18 or 19 November; the Home Office's latest items are dated 17 November. HC 584 of 3 September remains the latest rules change.",
+          "category": "immigration",
+          "badge": "status",
+          "sourceUrl": "https://www.gov.uk/government/organisations/home-office"
+        },
+        {
+          "headline": "Student funds requirement rises on 30 November",
+          "summary": "Under HC 584, from 30 November the money a student must show for living costs rises to 1,570 pounds a month in London (from 1,529) and 1,203 pounds a month elsewhere (from 1,171). Applications made before 30 November are decided under the current amounts. A separate Appendix EU change on proof of identity takes effect on 9 December.",
+          "whyItMatters": "Indian students and families applying for January intakes should check their bank evidence meets the new figures if they apply on or after 30 November.",
+          "category": "immigration",
+          "badge": "confirmed",
+          "sourceUrl": "https://assets.publishing.service.gov.uk/media/6a96e37b01bbff0bf8f97c35/E03678010__HC_584__-_Immigration_Rules_Changes__Print_Ready_.pdf"
+        },
+        {
+          "headline": "Earned settlement: December rules still awaited",
+          "summary": "The plan announced on 2 November makes 10 years the default route to ILR, with 5 years for those earning at least 50,271 pounds in three of five years, but it is policy, not law. Lewis Silkin expects at least part of it in the December rules, which must be laid by 17 December before Parliament's Christmas recess. The rise from B1 to B2 English for settlement applications made on or after 26 March 2027 is already in the rules.",
+          "whyItMatters": "Skilled Worker visa holders near the five-year mark should watch for the December statement, which will set start dates and any transitional protection.",
+          "category": "immigration",
+          "badge": "proposal",
+          "sourceUrl": "https://www.lewissilkin.com/insights/2026/11/18/tactics-for-dealing-with-the-earned-settlement-policy-102oa3g"
+        },
+        {
+          "headline": "Wellington Test: day two starts at 22:00 GMT tonight",
+          "summary": "New Zealand resume on 243 for 5, with Henry Nicholls on 113 not out and Glenn Phillips on 94 not out after a stand of 173 from 70 for 5. Jasprit Bumrah took 3 for 52 on his return to Test cricket. Day two begins at 22:00 GMT, 03:30 IST on Friday.",
+          "whyItMatters": "India need early wickets to stop New Zealand building a big first-innings total in this World Test Championship series.",
+          "category": "sport",
+          "badge": "update",
+          "sourceUrl": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-test-1539442/match-report"
+        },
+        {
+          "headline": "Pochettino's first Manchester United game is at Anfield on Sunday",
+          "summary": "Mauricio Pochettino, who started work this week, takes charge of United for the first time away at Liverpool on Sunday. On Saturday the leaders Arsenal play at Newcastle at 17:30.",
+          "category": "sport",
+          "sourceUrl": "https://www.101greatgoals.com/football/premier-league/new-manchester-united-boss-mauricio-pochettino-doesnt-need-too-much-preparation-for-liverpool-test/"
+        },
+        {
+          "headline": "A quiet day in space; December milestones ahead",
+          "summary": "We found no major new announcement from ISRO or NASA today. ISRO still targets December for the uncrewed Gaganyaan G1 flight, NASA's Terra satellite stops science work on 1 December, and the Roman Space Telescope's first images are due on 7 December.",
+          "category": "space",
+          "badge": "status",
+          "sourceUrl": "https://www.nasa.gov/news/recently-published/"
+        },
+        {
+          "headline": "Wall Street slides as the Anthropic debut fails to lift tech",
+          "summary": "Live and still trading at 13:33 ET (18:33 GMT): Dow 49,401.25 (-1.59%), S&P 500 7,231.25 (-1.26%), Nasdaq Composite 24,110.25 (-1.31%). AMD fell about 8% after a short-seller report on its China ties, chip stocks gave up early gains and investors sold industrial and consumer names.",
+          "whyItMatters": "The S&P 500 is heading for a sixth straight fall, with the AI trade under pressure after last week's Nvidia leadership upheaval and this week's hawkish Fed minutes.",
+          "category": "markets",
+          "badge": "developing",
+          "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+        },
+        {
+          "headline": "Anthropic opens 34% above its IPO price, then gives back some gains",
+          "summary": "Anthropic's shares first traded on Nasdaq at 111.50 dollars at 16:50 GMT, against an IPO price of 83 dollars, in a record 81 billion dollar raise. By 13:33 ET they were at 97.33 dollars, still 17% above the offer price.",
+          "whyItMatters": "It is the largest IPO on record, and the stock's early fade added to doubts about how much investors will pay for AI.",
+          "category": "markets",
+          "badge": "update",
+          "sourceUrl": "https://www.koreatimes.co.kr/world/20261120/wall-st-falls-sharply-as-anthropic-debut-fails-to-reignite-ai-trade"
+        },
+        {
+          "headline": "FTSE 100 closes lower for a fourth day",
+          "summary": "The FTSE 100 closed at 10,541.12, down 10 points or 0.1%, after touching a six-week low intraday; it is now 3.3% below last Friday's high. Babcock rose 8.3% on strong results, while Investec fell 7.4% and JD Sports 4.8%. Defensive stocks and weak UK consumer confidence weighed.",
+          "whyItMatters": "UK shares lagged a tech-led rally in Europe as energy-driven inflation worries persist after October's 3.6% CPI.",
+          "category": "markets",
+          "sourceUrl": "https://www.share-talk.com/ftse-100-falls-for-fourth-straight-session/"
+        },
+        {
+          "headline": "Sensex jumps 990 points and Nifty closes above 25,500",
+          "summary": "Closes at 15:30 IST: Sensex 83,021.75 (+989.94, +1.21%) and Nifty 50 25,514.30 (+286.35, +1.14%). Autos led with the Nifty Auto index up 4.4% as copper and aluminium prices eased, and bank indices hit records, while IT fell 1.1% on expectations of higher US rates.",
+          "whyItMatters": "Record foreign inflows in November and cheaper crude are supporting Indian shares even as US markets weaken.",
+          "category": "markets",
+          "sourceUrl": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-ipo-today-126111900101_1.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-19-morning",
       "type": "briefing",
@@ -568,494 +767,6 @@
           "whyItMatters": "New US licence rules for AI-chip exports to five countries, and Nvidia's outlook excluding China, are limiting the lift for Asian chipmakers.",
           "category": "markets",
           "sourceUrl": "https://finance.yahoo.com/technology/articles/asia-tech-shares-turn-mixed-032547363.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-17-evening",
-      "type": "briefing",
-      "edition": "evening",
-      "date": "2026-11-17",
-      "generatedAt": "2026-11-17T18:47:40Z",
-      "title": "Evening Briefing · 17 November 2026",
-      "artifactUrl": "https://claude.ai/artifact/X9aPwzYoxyjyb39w3so97z",
-      "headlines": [
-        "Stocks slide ahead of Nvidia results",
-        "Ukraine strike damages the Kerch Bridge",
-        "UK sanctions eight Israeli settlement builders",
-        "Cyclone Akvan strengthens in the Bay of Bengal",
-        "Iran says it targeted a US radar in Bahrain"
-      ],
-      "categories": [
-        {
-          "key": "world",
-          "label": "World",
-          "count": 6
-        },
-        {
-          "key": "uk",
-          "label": "UK",
-          "count": 3
-        },
-        {
-          "key": "india",
-          "label": "India",
-          "count": 3
-        },
-        {
-          "key": "immigration",
-          "label": "UK immigration",
-          "count": 2
-        },
-        {
-          "key": "sport",
-          "label": "Sport",
-          "count": 3
-        },
-        {
-          "key": "space",
-          "label": "Space",
-          "count": 2
-        },
-        {
-          "key": "markets",
-          "label": "Markets",
-          "count": 3
-        }
-      ],
-      "stories": [
-        {
-          "headline": "Kerch Bridge damaged in Ukrainian operation",
-          "summary": "Zelenskyy praised an operation that damaged the bridge linking Russia to occupied Crimea. Images reportedly show a span in the water, which has not been independently verified, and the Kremlin says it will rebuild.",
-          "whyItMatters": "The bridge is a key supply route for Russian forces in southern Ukraine, and the strike comes days before new talks.",
-          "category": "world",
-          "badge": "developing",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo"
-        },
-        {
-          "headline": "Ukraine security talks planned in Berlin on Thursday",
-          "summary": "US envoys Witkoff and Kushner are due to meet Ukrainian and European officials on 19 November on security guarantees and reconstruction. Moscow says it has not agreed to European participation in the next round.",
-          "whyItMatters": "It is the next concrete step on the peace track, and Russia's objection shows friction over who takes part.",
-          "category": "world",
-          "badge": "developing",
-          "sourceUrl": "https://www.axios.com/2026/11/17/witkoff-kushner-ukraine-europe-russia-berlin-meeting"
-        },
-        {
-          "headline": "Iran claims drone attack on a US radar in Bahrain",
-          "summary": "The IRGC said it targeted a radar at the Sheikh Isa air base. Bahrain says the drones were intercepted with no casualties or damage.",
-          "whyItMatters": "A claimed strike on a US facility raises the risk of escalation in the Gulf and keeps oil prices on edge.",
-          "category": "world",
-          "badge": "developing",
-          "sourceUrl": "https://www.justsecurity.org/164914/early-edition-november-17-2026/"
-        },
-        {
-          "headline": "Mongolia's president says he will resign",
-          "summary": "President Khurelsukh announced he will step down after a former Ulaanbaatar mayor accused him of receiving $25m linked to a railway project. He denies wrongdoing and the claim is unproven.",
-          "whyItMatters": "It opens a leadership transition in a country balanced between Russia and China.",
-          "category": "world",
-          "badge": "breaking",
-          "sourceUrl": "https://apnews.com/article/mongolia-president-corruption-allegations-9542b2bf7536db6ae65b371aac07bbf4"
-        },
-        {
-          "headline": "Canada and China agree further tariff cuts",
-          "summary": "Xi and Carney agreed that China will ease tariffs on about $280m of Canadian exports, while Canada extends exemptions on some Chinese steel and aluminium for two years.",
-          "whyItMatters": "It continues the thaw in Canada-China trade amid wider tariff tension with the US.",
-          "category": "world",
-          "badge": "confirmed",
-          "sourceUrl": "https://apnews.com/article/apec-china-canada-xi-carney-1427deb4175e27c61efec6ee8eef36e8"
-        },
-        {
-          "headline": "Israel: allegations of election-day meddling",
-          "summary": "Reports allege Netanyahu's camp passed on information that led to the arrest of Arab party workers on election day. Prime Minister-elect Gadi Eisenkot has called for an investigation, and the claims are not officially confirmed.",
-          "whyItMatters": "The allegations could overshadow the transfer of power after Israel's election.",
-          "category": "world",
-          "badge": "unconfirmed",
-          "sourceUrl": "https://www.washingtonpost.com/world/2026/11/16/after-claiming-election-stolen-netanyahu-allies-face-their-own-meddling-allegations/"
-        },
-        {
-          "headline": "UK sanctions Israeli settlement builders and aid-blocking activists",
-          "summary": "The government is sanctioning eight Israeli construction firms building in West Bank settlements, along with an activist group that obstructs aid into Gaza. Foreign Secretary Ed Miliband announced the measures.",
-          "whyItMatters": "It is one of the UK's toughest steps yet on settlements and puts the Burnham government at odds with Israel's government.",
-          "category": "uk",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.reuters.com/world/uk/britain-sanctions-israeli-settlement-builders-gaza-aid-blocking-activists-2026-11-17/"
-        },
-        {
-          "headline": "Burnham says Brexit has cost the UK more than it gained",
-          "summary": "In his Lord Mayor's Banquet speech, Andy Burnham argued for closer EU ties and said he will talk with EU leaders after Friday's UK-EU reset summit, while hinting at a slower timeline.",
-          "whyItMatters": "It is the clearest sign yet of how far the new prime minister wants to move on EU relations.",
-          "category": "uk",
-          "badge": "developing",
-          "sourceUrl": "https://www.politico.eu/article/andy-burnham-brexit-diminished-britain-pushes-closer-eu-ties-lord-mayors-speech/"
-        },
-        {
-          "headline": "Russia warns the UK over its 2027 G20 summit",
-          "summary": "After London said Putin will not attend the summit it hosts during its 2027 G20 presidency, Russia's G20 envoy warned of serious consequences if he is kept out.",
-          "whyItMatters": "The row could complicate the UK's G20 year before it begins.",
-          "category": "uk",
-          "badge": "developing",
-          "sourceUrl": "https://www.reuters.com/world/europe/russia-warns-uk-over-g20-presidency-after-london-says-putin-wont-come-its-summit-2026-11-16/"
-        },
-        {
-          "headline": "Cyclone Akvan strengthens, Andhra landfall expected on 20 November",
-          "summary": "IMD placed the storm about 610 km east of Chennai on Tuesday morning and expects it to become a very severe cyclonic storm by the evening of 19 November, crossing the Andhra Pradesh-Yanam coast around noon on 20 November. Odisha has begun evacuating vulnerable areas and five Andhra districts are on orange alert.",
-          "whyItMatters": "Coastal Andhra and Odisha face heavy rain, strong winds and disruption to travel and farming later this week.",
-          "category": "india",
-          "badge": "developing",
-          "sourceUrl": "https://www.outlookindia.com/international/india-news-live-updates-17-november-2026-cyclone-akvan-storm-intensifies-landfall-expected-on-andhra-coast-odisha-begins-evacuation-news-latest-updates"
-        },
-        {
-          "headline": "Delhi air stays very poor as GRAP Stage III continues",
-          "summary": "Delhi's AQI read 288 overnight, with some stations above 300, and the early-warning system forecasts very poor air for about six more days. Stage III restrictions remain in force across the NCR.",
-          "whyItMatters": "Construction curbs and health advisories are likely to stay in place into next week.",
-          "category": "india",
-          "badge": "status",
-          "sourceUrl": "https://www.outlookindia.com/national/delhi-aqi-today-november-17-2026-air-quality-forecast-very-poor-pollution-grap-stage-3-restrictions"
-        },
-        {
-          "headline": "Modi addresses the ASEAN-India Summit in Manila",
-          "summary": "At the 23rd ASEAN-India Summit, Modi linked India's growth to ASEAN's prosperity, tying ASEAN Vision 2045 to India's 2047 goals and pointing to Act East outcomes.",
-          "whyItMatters": "It frames India's push for deeper trade and security ties in Southeast Asia.",
-          "category": "india",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.outlookindia.com/international/india-news-live-updates-17-november-2026-cyclone-akvan-storm-intensifies-landfall-expected-on-andhra-coast-odisha-begins-evacuation-news-latest-updates"
-        },
-        {
-          "headline": "No new Immigration Rules changes this week",
-          "summary": "GOV.UK shows no new Statement of Changes, fee change, or Skilled Worker or Graduate rule change between 10 and 17 November. The latest Statement of Changes is still HC 584, published on 3 September 2026.",
-          "whyItMatters": "There is nothing new for people on work visas to act on today; the sponsor register had a routine update on 12 November.",
-          "category": "immigration",
-          "badge": "status",
-          "sourceUrl": "https://www.gov.uk/government/collections/immigration-rules-statement-of-changes"
-        },
-        {
-          "headline": "Earned settlement: start date still not set",
-          "summary": "The Home Secretary's 2 November announcement, updated on 13 November, sets settlement at 3 years for top earners, 5 years above £50,271 and for some public-service workers, a 10-year default, and 20 years or more for rule breakers. GOV.UK gives no rules reference or start date yet.",
-          "whyItMatters": "Many Skilled Worker visa holders on the 5-year ILR path could be affected, so watch for a Statement of Changes with transition rules.",
-          "category": "immigration",
-          "badge": "proposal",
-          "sourceUrl": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk"
-        },
-        {
-          "headline": "Santner ruled out of the New Zealand-India Tests",
-          "summary": "New Zealand captain Mitchell Santner has a hand fracture and misses the two-Test series against India, with Dean Foxcroft called up. The first Test starts at the Basin Reserve in Wellington on 19 November.",
-          "whyItMatters": "It weakens New Zealand's spin attack after India's white-ball leg finished on 15 November.",
-          "category": "sport",
-          "badge": "developing",
-          "sourceUrl": "https://www.pro-ace-predictions.co.uk/cricket-news-today-17-november-2026/"
-        },
-        {
-          "headline": "Jay Shah re-appointed ICC chair until 2030",
-          "summary": "Shah was returned unopposed at the ICC Board meetings in Bali.",
-          "whyItMatters": "It keeps Indian leadership at the top of world cricket through the 2030 cycle.",
-          "category": "sport",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.pro-ace-predictions.co.uk/cricket-news-today-17-november-2026/"
-        },
-        {
-          "headline": "Nations League: home nations in action tonight",
-          "summary": "Wales v Portugal, Republic of Ireland v Kosovo, Hungary v Northern Ireland and Ukraine v Georgia all kick off at 19:45 GMT. England finished their window in Spain on Sunday, and England's third ODI against Australia is in Hobart on 18 November.",
-          "whyItMatters": "Tonight's results settle group placings before club football returns this weekend.",
-          "category": "sport",
-          "badge": "status",
-          "sourceUrl": "https://readeverton.com/everton-international-fixtures-november-2026/"
-        },
-        {
-          "headline": "Sentinel-6B cleared as the sea-level reference satellite",
-          "summary": "NASA says Sentinel-6B has been calibrated and passed its initial checks, ready to take over the long-running ocean height record.",
-          "whyItMatters": "Its data underpins the global sea-level rise measurements used in climate planning.",
-          "category": "space",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.nasa.gov/news/recently-published/"
-        },
-        {
-          "headline": "ISRO's Gaganyaan-1 still targeted for this quarter",
-          "summary": "The uncrewed Gaganyaan-1 flight carrying the Vyommitra robot is still planned for the fourth quarter of 2026, but no launch date has been announced.",
-          "whyItMatters": "It is the key test before India's first crewed spaceflight.",
-          "category": "space",
-          "badge": "status",
-          "sourceUrl": "https://www.isro.gov.in/"
-        },
-        {
-          "headline": "FTSE 100 falls 1.8% ahead of Nvidia",
-          "summary": "London closed at 10,689.87, down 191.68 points (−1.8%), and the FTSE 250 fell 1.2%. Tech losses, hotter-than-expected US import and export prices and a pullback in defence stocks such as BAE (−2.5%) weighed.",
-          "category": "markets",
-          "badge": "confirmed",
-          "sourceUrl": "https://uk.finance.yahoo.com/news/stocks-close-lower-ahead-nvidia-172844663.html"
-        },
-        {
-          "headline": "Sensex and Nifty extend gains as Bank Nifty hits a record",
-          "summary": "The Sensex closed at 82,532.19 (+0.52%) and the Nifty 50 at 25,387.40 (+0.38%), with Bank Nifty up 1.13% to a record 62,273. Brent easing to around $92, strong foreign buying and money moving out of global tech helped, while IT stocks fell about 0.9%.",
-          "category": "markets",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.indiainfoline.com/news/markets/closing-bell-nifty-gains-to-25387-as-bank-nifty-hits-record-high-crude-eases-near-92"
-        },
-        {
-          "headline": "Wall Street lower in the Nvidia countdown",
-          "summary": "At 13:03 ET the S&P 500 was at 7,331.04 (−1.15%), the Dow at 50,835.79 (−1.50%) and the Nasdaq Composite at 24,233.91 (−1.13%). October retail sales rose 0.2%, homebuilder sentiment hit its lowest since 2012, and Disney and Home Depot beat forecasts.",
-          "whyItMatters": "Nvidia reports after the bell, its first quarter without Jensen Huang as CEO, setting the tone for Asia and Europe on Wednesday.",
-          "category": "markets",
-          "badge": "developing",
-          "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-17-morning",
-      "type": "briefing",
-      "edition": "morning",
-      "date": "2026-11-17",
-      "generatedAt": "2026-11-17T06:48:37Z",
-      "title": "Morning Briefing · 17 November 2026",
-      "artifactUrl": "https://claude.ai/artifact/SHUFn9EnX9z9TPau5zfALN",
-      "headlines": [
-        "Trump starts Asia trip: Quad in Manila, then Xi and Putin in China",
-        "Third US carrier reaches the Middle East as Iran talks stall",
-        "Wall Street drops about 2% on AI and chip fears before Nvidia's results",
-        "Ukraine hits the Kerch Bridge in an overnight drone attack",
-        "England win 3-2 in Spain; India take ODI series in New Zealand 3-1"
-      ],
-      "categories": [
-        {
-          "key": "world",
-          "label": "World",
-          "count": 6
-        },
-        {
-          "key": "uk",
-          "label": "UK",
-          "count": 3
-        },
-        {
-          "key": "india",
-          "label": "India",
-          "count": 4
-        },
-        {
-          "key": "immigration",
-          "label": "UK immigration",
-          "count": 3
-        },
-        {
-          "key": "sport",
-          "label": "Sport",
-          "count": 4
-        },
-        {
-          "key": "space",
-          "label": "Space",
-          "count": 3
-        },
-        {
-          "key": "markets",
-          "label": "Markets",
-          "count": 3
-        }
-      ],
-      "stories": [
-        {
-          "headline": "Trump heads to Manila for ASEAN and the Quad, then APEC in China",
-          "summary": "Trump left for the Philippines on Tuesday for ASEAN and the first Quad leaders' meeting in about two years, alongside Japan, Australia and India. He then travels to APEC in Shenzhen, where the Kremlin expects a three-way meeting with Xi and Putin on Thursday 19 November.",
-          "whyItMatters": "The Quad agenda covers maritime security, export controls, critical minerals and AI, all of direct interest to India. A Trump, Xi and Putin meeting would be a first.",
-          "category": "world",
-          "badge": "developing",
-          "sourceUrl": "https://www.reuters.com/world/china/trump-kick-off-asia-trip-with-quad-talks-manila-ahead-china-visit-2026-11-17/"
-        },
-        {
-          "headline": "Third US aircraft carrier arrives near Iran as talks stall",
-          "summary": "The USS Theodore Roosevelt has joined two other US carriers in the Middle East while talks on ending hostilities with Iran and reopening the Strait of Hormuz remain stuck. JD Vance said Trump will not let it become a long war, and an Iranian deputy foreign minister warned Tehran would not wait to be struck first.",
-          "whyItMatters": "The build-up raises the risk of renewed fighting. Disruption at Hormuz has kept Brent crude above $90, which feeds UK and Indian inflation.",
-          "category": "world",
-          "badge": "developing",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume"
-        },
-        {
-          "headline": "Ukrainian drones hit the Kerch Bridge to Crimea",
-          "summary": "Ukraine struck the bridge between Russia and occupied Crimea overnight and traffic was briefly restricted. The Kremlin said it was assessing minor damage, while Russian air raids killed at least seven people in Kyiv.",
-          "whyItMatters": "The bridge is a key Russian supply route, and the strike comes as Kyiv says European officials have joined settlement negotiating teams for the first time. Accounts of the damage differ.",
-          "category": "world",
-          "badge": "breaking",
-          "sourceUrl": "https://www.bbc.com/news/articles/ckx27v6dpjz0o"
-        },
-        {
-          "headline": "Japan scrambles jets as Russian aircraft enter its airspace",
-          "summary": "Two suspected Russian military aircraft entered Japanese airspace near Okinoshima early on Tuesday and Tokyo lodged a protest. South Korea also scrambled fighters when Russian planes entered its air defence zone, though not its territory.",
-          "whyItMatters": "It raises tension in North-East Asia days before Putin visits China and during Trump's trip to the region.",
-          "category": "world",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.japantimes.co.jp/news/2026/11/17/japan/russia-japan-airspace-violation-defense/"
-        },
-        {
-          "headline": "Houthis reported to control the Bab al-Mandab area",
-          "summary": "The BBC reports that Iran-backed Houthis have gained ground on the Red Sea coast after Saudi-backed government forces pulled back to defend Aden. Full Houthi control of the strait has not been independently confirmed.",
-          "whyItMatters": "About 12% of world trade passes through the strait, so together with Hormuz restrictions both Gulf shipping routes would be squeezed.",
-          "category": "world",
-          "badge": "unconfirmed",
-          "sourceUrl": "https://www.bbc.com/news/articles/cmy97qperq9eo"
-        },
-        {
-          "headline": "Five EU states explore a Rwanda return hub for rejected asylum seekers",
-          "summary": "Austria, Denmark, Germany, Greece and the Netherlands say they are negotiating a hub in Rwanda, aiming for first transfers in 2027 with room for about 100 people at first. Rights groups condemned the plan.",
-          "whyItMatters": "It revives an offshore model the UK abandoned and could shape European asylum policy, though nothing has been agreed.",
-          "category": "world",
-          "badge": "proposal",
-          "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-17-2026/4127219"
-        },
-        {
-          "headline": "UK jobs data today and inflation tomorrow, with rate rises in play",
-          "summary": "Official labour market figures are due on Tuesday morning and October CPI follows on Wednesday, with forecasts around 3.7% against 3.5% in September. Bank of England chief economist Huw Pill has signalled more rate rises may be needed.",
-          "whyItMatters": "A hot inflation reading would strengthen bets on a December hike, pushing mortgage and borrowing costs higher.",
-          "category": "uk",
-          "badge": "developing",
-          "sourceUrl": "https://www.share-talk.com/ftse-100-closes-lower-amid-us-technology-sell-off/"
-        },
-        {
-          "headline": "Peers say the UK is seriously underprepared for emergencies",
-          "summary": "A House of Lords committee says the UK is not ready for major emergencies and threats, and calls for a cabinet-level resilience minister within six months, changes to stockpiling and new stress-testing duties. The Cabinet Office said it would consider the report.",
-          "whyItMatters": "It adds pressure on the Burnham government over civil preparedness amid Middle East conflict and energy shocks.",
-          "category": "uk",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.itv.com/news/2026-11-16/uk-seriously-underprepared-for-emergencies-and-threats-peers-warn"
-        },
-        {
-          "headline": "Burnham expected to make the case for closer EU trade ties",
-          "summary": "A business news round-up says the Prime Minister will use his Lord Mayor's Banquet speech to argue for closer trading links with the EU, ahead of a UK-EU summit on Friday 20 November. The report comes from a single secondary source.",
-          "whyItMatters": "A shift on EU trade would be one of the new government's biggest policy signals.",
-          "category": "uk",
-          "badge": "unconfirmed",
-          "sourceUrl": "https://cpa.co.uk/uk-business-news-today-16-november-2026-economy-markets-insolvencies/"
-        },
-        {
-          "headline": "Modi expected to meet Trump at the Quad in Manila",
-          "summary": "Modi travels to Manila for ASEAN meetings and the Quad summit, where he is expected to hold talks with Trump shortly before the US president meets Xi and Putin. Trade and maritime security are likely to top the agenda.",
-          "whyItMatters": "It is a chance to make progress with Washington on trade and tariffs, and to gauge India's position ahead of the US, China and Russia meeting.",
-          "category": "india",
-          "badge": "developing",
-          "sourceUrl": "https://indianexpress.com/article/india/narendra-modi-asean-manila-visit-quad-summit-10964513/lite/"
-        },
-        {
-          "headline": "Opposition asks Supreme Court to let it question the Election Commission over SIR",
-          "summary": "Rahul Gandhi and other opposition leaders want the Supreme Court's permission to serve 48 formal written questions on the Election Commission about the Special Intensive Revision of voter rolls, with answers from named officials.",
-          "whyItMatters": "The voter-roll revision is a central political dispute, and the court's answer will decide how closely the Commission's process can be examined.",
-          "category": "india",
-          "badge": "developing",
-          "sourceUrl": "https://theprint.in/judiciary/rahul-gandhi-co-want-to-serve-48-interrogatories-on-eci-over-sir-seek-answers-from-specific-officers/3100297/"
-        },
-        {
-          "headline": "India raises windfall tax on diesel and jet fuel exports",
-          "summary": "The government has increased the windfall gains tax on exports of diesel and aviation turbine fuel, while the export duty on petrol remains zero.",
-          "whyItMatters": "With global fuel prices high, the tax keeps more supply at home and raises revenue, but it weighs on export-heavy refiners.",
-          "category": "india",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.etvbharat.com/en/business/windfall-gains-tax-hiked-on-diesel-atf-exports-duty-on-petrol-exports-retained-at-zero-enn26111700769"
-        },
-        {
-          "headline": "India votes against UN call for a global death-penalty moratorium",
-          "summary": "India voted against a UN General Assembly resolution urging a worldwide pause on executions, consistent with its past votes.",
-          "whyItMatters": "India continues to treat capital punishment as a matter for its own laws despite international pressure.",
-          "category": "india",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.thehindu.com/news/international/india-votes-against-unga-resolution-calling-for-global-moratorium-on-death-penalty/article71704094.ece/amp/"
-        },
-        {
-          "headline": "No new Immigration Rules changes since last week",
-          "summary": "No new Immigration Rules changes have been published since last week. The latest Statement of Changes is still HC 584 (3 September 2026), and earned settlement rules are due in a December Statement of Changes.",
-          "category": "immigration",
-          "badge": "status",
-          "sourceUrl": "https://www.gov.uk/government/collections/immigration-rules-statement-of-changes"
-        },
-        {
-          "headline": "Earned settlement: announced, not yet in force",
-          "summary": "The Home Secretary set out the final design on 2 November: a 10-year default route to ILR, cut to 5 years for people earning at least £50,271 in three of the last five years or in eligible public-service jobs, and to 3 years at £125,141 or more. Graduate and Student time would not count.",
-          "whyItMatters": "For Skilled Workers, earnings history will matter more than current salary, and B2 English is expected from March 2027. Wait for the December rules and guidance before acting.",
-          "category": "immigration",
-          "badge": "proposal",
-          "sourceUrl": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk"
-        },
-        {
-          "headline": "Immigration and Asylum Bill listed for final Commons stages today",
-          "summary": "The Commons schedule lists the bill's report stage and third reading for Tuesday 17 November, after which it moves to the Lords.",
-          "whyItMatters": "Amendments today could change asylum and enforcement law, though settlement thresholds sit in the Immigration Rules, not this bill.",
-          "category": "immigration",
-          "badge": "developing",
-          "sourceUrl": "https://chriskanemp.substack.com/p/westminster-report-16-november-2026"
-        },
-        {
-          "headline": "India beat New Zealand by 22 runs to take the ODI series 3-1",
-          "summary": "India defended their total in the fifth ODI at Mount Maunganui on 15 November, with Arshdeep Singh and Axar Patel leading the bowling.",
-          "whyItMatters": "The win builds momentum before the two-Test series, which starts at the Basin Reserve in Wellington on Thursday 19 November.",
-          "category": "sport",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-5th-odi-1539441/match-report"
-        },
-        {
-          "headline": "England win 3-2 away to Spain in the Nations League",
-          "summary": "England beat the world champions in Madrid on Sunday, following a 2-1 home win over Croatia on Thursday. It reverses September's 3-2 defeat to Spain at Wembley.",
-          "whyItMatters": "Two wins in four days leave England well placed in Nations League Group A3.",
-          "category": "sport",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results"
-        },
-        {
-          "headline": "Crystal Palace appoint Thomas Frank as manager",
-          "summary": "The former Brentford and Tottenham manager has signed until June 2029, replacing Pierre Sage, who was sacked on 12 November with Palace bottom of the Premier League.",
-          "whyItMatters": "Palace need a quick turnaround to avoid relegation when the league resumes after the international break.",
-          "category": "sport",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-17-2026/4127219"
-        },
-        {
-          "headline": "UEFA backs Philippe Diallo to challenge Infantino for FIFA president",
-          "summary": "European football's governing body unanimously backed the French federation president, who has accepted. The FIFA election is on 18 March 2027 in Rabat.",
-          "whyItMatters": "It is the first serious challenge to Infantino in years and puts UEFA at odds with FIFA's leadership.",
-          "category": "sport",
-          "badge": "developing",
-          "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-17-2026/4127219"
-        },
-        {
-          "headline": "ULA Vulcan failure destroys 40 Amazon Leo satellites",
-          "summary": "A Vulcan Centaur failed about 10 minutes after lift-off from Cape Canaveral on 15 November, and all 40 Amazon Leo broadband satellites on board were lost.",
-          "whyItMatters": "It sets back Amazon's challenge to Starlink and ULA's launch schedule, including US government missions.",
-          "category": "space",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch"
-        },
-        {
-          "headline": "Starship Flight 15: conflicting reports on the tower catches",
-          "summary": "SpaceX flew Starship Flight 15 on 14 November. Space.com reports the launch tower caught the upper stage for the first time, but another report says the booster catch was called off, and details are not yet confirmed.",
-          "whyItMatters": "Catching both stages is key to fast, cheap reuse, which NASA's lunar lander plans depend on.",
-          "category": "space",
-          "badge": "unconfirmed",
-          "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14"
-        },
-        {
-          "headline": "ISRO: no launch this week, Gaganyaan G1 still due by year end",
-          "summary": "ISRO has no launch scheduled this week, and the first uncrewed Gaganyaan test flight (G1) is still listed for the last quarter of 2026. The Leonid meteor shower peaks on the nights of 17 and 18 November.",
-          "whyItMatters": "G1 is the last major step before India's first crewed spaceflight.",
-          "category": "space",
-          "badge": "status",
-          "sourceUrl": "https://www.isro.gov.in/"
-        },
-        {
-          "headline": "Wall Street drops on AI and chip fears before Nvidia",
-          "summary": "On Monday the S&P 500 closed at 7,416.59 (−1.92%), the Dow at 51,608.17 (−1.41%) and the Nasdaq Composite at 24,509.76 (−2.49%). Chipmakers led the fall, with Nvidia −1.9%, AMD −3.8% and Intel −5.9%, on worries about AI valuations and tighter US curbs on Chinese access to Nvidia computing.",
-          "whyItMatters": "Nvidia reports after the US close on Tuesday under interim leadership following Jensen Huang's resignation. Asian markets were lower on Tuesday morning.",
-          "category": "markets",
-          "sourceUrl": "https://hdfcsky.com/news/bse-nse-sensex-november-17-2026-open-report-sensex-nifty-edge-higher-as-oil-eases-and-investors-rotate-from-global-ai-to-india"
-        },
-        {
-          "headline": "FTSE 100 gives up early gains as miners slide",
-          "summary": "The FTSE 100 closed Monday at 10,881.55 (−0.19%) after reaching 10,939 at midday. Weak Chinese data hit miners such as Anglo American (−4.3%) and Antofagasta (−3.1%), while Coca-Cola HBC rose 2.6% on plans for a Johannesburg listing.",
-          "category": "markets",
-          "sourceUrl": "https://www.share-talk.com/ftse-100-closes-lower-amid-us-technology-sell-off/"
-        },
-        {
-          "headline": "Sensex and Nifty open higher on foreign buying and cheaper oil",
-          "summary": "At 09:27 IST on Tuesday the Sensex was at 82,221.25 (+0.14%) and the Nifty 50 at 25,327.15 (+0.14%), still trading. Foreign investors bought about ₹84,290 crore of Indian shares in the first half of November as money rotated out of Asian AI stocks.",
-          "whyItMatters": "Easing crude helps the rupee and the inflation outlook. Autos and PSU banks led early while IT lagged.",
-          "category": "markets",
-          "badge": "developing",
-          "sourceUrl": "https://hdfcsky.com/news/bse-nse-sensex-november-17-2026-open-report-sensex-nifty-edge-higher-as-oil-eases-and-investors-rotate-from-global-ai-to-india"
         }
       ]
     }
