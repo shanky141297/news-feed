@@ -1,7 +1,186 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-20T06:52:42Z",
+  "lastUpdated": "2026-11-20T18:46:59Z",
   "entries": [
+    {
+      "id": "2026-11-20-evening",
+      "type": "briefing",
+      "edition": "evening",
+      "date": "2026-11-20",
+      "generatedAt": "2026-11-20T18:46:59Z",
+      "title": "Evening Briefing · 20 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/PAghFMbZmQ5e8sbhKnkz8g",
+      "headlines": [
+        "UK and EU agree a Brexit reset deal in Brussels",
+        "Russia hits three Kyiv bridges; eight killed across Ukraine",
+        "Chip sell-off deepens on Wall Street",
+        "Sensex jumps 898 points as money rotates into India",
+        "Cyclone Akvan weakens after landfall"
+      ],
+      "categories": [
+        {
+          "key": "world",
+          "label": "World",
+          "count": 2
+        },
+        {
+          "key": "uk",
+          "label": "UK",
+          "count": 1
+        },
+        {
+          "key": "india",
+          "label": "India",
+          "count": 3
+        },
+        {
+          "key": "immigration",
+          "label": "UK immigration",
+          "count": 2
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "count": 2
+        },
+        {
+          "key": "space",
+          "label": "Space",
+          "count": 2
+        },
+        {
+          "key": "markets",
+          "label": "Markets",
+          "count": 4
+        }
+      ],
+      "stories": [
+        {
+          "headline": "Russia strikes Kyiv's Dnipro bridges in retaliation for Kerch",
+          "summary": "Overnight missile and drone attacks killed eight people, six of them in Kyiv, and wounded 28, Ukraine's prime minister said. The Podilskyi, Darnitskyi and Southern bridges were damaged and power cuts hit Kyiv and 10 regions. Russia said it targeted bridges used to move military equipment.",
+          "whyItMatters": "It follows Ukraine's partial destruction of the Kerch Bridge and comes a day after the Berlin talks on Europe's role. US envoy Jared Kushner said Russia is open to Europe joining the talks.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges"
+        },
+        {
+          "headline": "Trump says no rush on Iran, with a decision possibly next year",
+          "summary": "After this morning's weapons claims, Trump said there was no hurry to decide on further action against Iran and suggested the decision could slip into next year. Reports say he also played down talk of a dirty-bomb threat.",
+          "whyItMatters": "It lowers the odds of a near-term escalation, which has helped push oil prices down this month.",
+          "category": "world",
+          "badge": "update",
+          "sourceUrl": "https://www.haaretz.com/us-news/2026-11-20/ty-article/trump-pushes-iran-strike-decision-to-next-year-weve-got-time/000001a1-f623-d175-abf5-fe3795240000"
+        },
+        {
+          "headline": "Burnham and EU leaders agree the Brexit reset deal",
+          "summary": "The summit agreed freer food and drink trade, relinked carbon markets, a youth experience scheme and closer work on illegal migration. UK officials will advise, but not vote, on EU rules in areas such as food standards. Downing Street said talks continue on some parts.",
+          "whyItMatters": "It is the biggest change to UK-EU trade terms since Brexit. The EU says it will not implement the deal until the UK cuts tuition fees for EU students, expected within six months.",
+          "category": "uk",
+          "badge": "developing",
+          "sourceUrl": "https://www.irishtimes.com/world/uk/2026/11/20/the-deal-is-done-uk-says-brexit-reset-deal-with-eu-is-agreed/"
+        },
+        {
+          "headline": "Cyclone Akvan weakens; no major damage in Odisha",
+          "summary": "Akvan crossed the coast near Gopalpur between about 07:30 and 08:30 IST and has weakened. Odisha's disaster minister reported no major damage or loss of life so far. Dozens of trains were cancelled and orange alerts are out for five Jharkhand districts.",
+          "whyItMatters": "Mass evacuations of more than 3 lakh people appear to have worked. Heavy rain and flooding inland remain the main risk.",
+          "category": "india",
+          "badge": "update",
+          "sourceUrl": "https://www.deccanherald.com/india/odisha/cyclone-akvan-weakens-into-depression-after-landfall-in-odisha-no-major-damage-flood-threat-4225921"
+        },
+        {
+          "headline": "Congress ahead in Rajasthan panchayat counting",
+          "summary": "State Election Commission figures at midday showed Congress leading in more than 3,000 panchayat seats to the BJP's 1,850. Counting in Kota, Baran, Karauli and Sri Ganganagar has been put back to 17 December.",
+          "whyItMatters": "It is a test of rural opinion in a BJP-governed state. Final results are not in yet.",
+          "category": "india",
+          "badge": "developing",
+          "sourceUrl": "https://www.outlookindia.com/national/breaking-news-india-world-live-updates-20-november-2026-cyclone-akvan-rajasthan-bhilwara-zp-panchayat-election-results"
+        },
+        {
+          "headline": "Nepal's PM Balendra Shah to visit New Delhi on Sunday",
+          "summary": "Shah begins a two-day official visit on 22 November, his first bilateral trip abroad as prime minister.",
+          "whyItMatters": "Choosing India first signals the priority Kathmandu gives the relationship; trade, energy and border issues are likely topics.",
+          "category": "india",
+          "sourceUrl": "https://www.outlookindia.com/national/breaking-news-india-world-live-updates-20-november-2026-cyclone-akvan-rajasthan-bhilwara-zp-panchayat-election-results"
+        },
+        {
+          "headline": "No new Immigration Rules today",
+          "summary": "GOV.UK shows no new Statement of Changes; the latest is HC 584 of 3 September, with its next changes starting on 30 November. Earned settlement, announced on 2 November, is still policy only and no rules have been laid.",
+          "whyItMatters": "For Indian Skilled Worker and Health and Care visa holders, the current ILR rules still apply until a new Statement of Changes is published.",
+          "category": "immigration",
+          "badge": "status",
+          "sourceUrl": "https://www.gov.uk/government/collections/immigration-rules-statement-of-changes"
+        },
+        {
+          "headline": "UK-EU youth scheme: 100,000 places, not yet law",
+          "summary": "The reset deal includes a youth experience scheme with up to 100,000 places for young people to live, work or study for up to three years. Reports differ on the age limit (18 to 32, or under 30). A bill is due next week and no start date is set.",
+          "whyItMatters": "It covers EU and UK citizens only, so it does not open a route for Indian nationals, but it is a new category in the UK system to watch as rules are drafted.",
+          "category": "immigration",
+          "badge": "proposal",
+          "sourceUrl": "https://www.cityam.com/burnham-agrees-youth-migration-for-100000-in-eu-summit/"
+        },
+        {
+          "headline": "Wellington Test: day three starts overnight",
+          "summary": "India resume on 159/1, trailing New Zealand's 368 by 209, with KL Rahul unbeaten on 52. There has been no play since this morning's briefing.",
+          "whyItMatters": "A big partnership on day three could give India a first-innings lead and control of the Test.",
+          "category": "sport",
+          "badge": "update",
+          "sourceUrl": "https://www.cricketworld.com/new-zealand-vs-india-1st-test-jaiswal-rahul-lead-indias-strong-response-on-second-day/114442.htm"
+        },
+        {
+          "headline": "Pochettino's first United game is Sunday, not Saturday",
+          "summary": "Liverpool v Manchester United kicks off at 16:30 GMT on Sunday 22 November on Sky Sports; this morning's briefing gave the wrong day. In his first press conference Pochettino kept Bruno Fernandes as captain. Ugarte, Sesko and Baleba are out, Lisandro Martinez is back from suspension and Shaw is a doubt.",
+          "whyItMatters": "A debut at Anfield is a hard first test for United's new manager.",
+          "category": "sport",
+          "badge": "update",
+          "sourceUrl": "https://www.nbcsports.com/soccer/live/mauricio-pochettino-manchester-united-press-conference-today-quotes-reaction-news-2026-november-20"
+        },
+        {
+          "headline": "Cargo Dragon CRS-35 set to leave the ISS",
+          "summary": "SpaceX's CRS-35 Dragon was scheduled to undock from the space station at 16:05 GMT today, with a Pacific splashdown planned for Saturday.",
+          "whyItMatters": "It brings science samples back to Earth and frees a docking port before Cygnus CRS-25 launches, no earlier than 29 November.",
+          "category": "space",
+          "sourceUrl": "https://starlust.org/space-weekly-recap-november-14-november-20-2026-key-stories-you-may-have-missed/"
+        },
+        {
+          "headline": "Hayabusa2 drops its asteroid landing plan",
+          "summary": "Thruster failures mean JAXA's Hayabusa2 will no longer land on asteroid 1998 KY26. It will fly past asteroid 2015 BM510 in April 2028 instead.",
+          "whyItMatters": "Its extended mission loses its main goal, but the spacecraft still has science to do.",
+          "category": "space",
+          "sourceUrl": "https://starlust.org/space-weekly-recap-november-14-november-20-2026-key-stories-you-may-have-missed/"
+        },
+        {
+          "headline": "FTSE 100 falls for a fifth day as the tech rout spreads",
+          "summary": "The FTSE 100 closed Friday down 1.02 percent at 10,346.34 (16:35 GMT). Polar Capital Technology Trust fell 8.3 percent, Halma 6.8 percent and Investec 5.7 percent, while defensive stocks such as Unilever and National Grid rose.",
+          "whyItMatters": "Global selling of AI-linked stocks is now hitting London, and banks and energy names added to the drag.",
+          "category": "markets",
+          "sourceUrl": "https://www.marketscreener.com/news/ftse-100-ends-week-lower-uk-eu-agree-to-deepen-post-brexit-ties-ce785ed3da80f721"
+        },
+        {
+          "headline": "Sensex and Nifty turn sharply higher",
+          "summary": "After a weak open, the Sensex closed Friday up 897.96 points (1.08 percent) at 83,919.71 and the Nifty 50 up 286.30 (1.12 percent) at 25,800.60 (15:30 IST close). Axis Bank, HDFC Bank and Apollo Hospitals led.",
+          "whyItMatters": "Funds are moving out of AI-heavy markets into India, helped by record foreign inflows this month, lower oil prices and a firmer rupee.",
+          "category": "markets",
+          "badge": "update",
+          "sourceUrl": "https://hdfcsky.com/news/market-close-report-today-november-20-2026-nifty-sensex-scale-nine-month-highs-as-investors-dump-global-ai-for-india"
+        },
+        {
+          "headline": "Wall Street: chipmakers drag the Nasdaq down 3%",
+          "summary": "At 12:00 ET on Friday, still trading, the Nasdaq Composite was down 3.31 percent, the S&P 500 1.89 percent and the Dow 0.47 percent. Broadcom fell about 10 percent, with AMD, Micron and Nvidia also sharply lower.",
+          "whyItMatters": "Doubts over whether AI spending will pay off have the S&P 500 and Dow near correction territory, 10 percent below their records.",
+          "category": "markets",
+          "badge": "developing",
+          "sourceUrl": "https://247wallst.com/cards/the-nasdaq-is-shedding-3-31-by-midday-while-the-dow-gives-u-gspc-market-bell-01m7wygvawtxjvw66d0rkd9qb7"
+        },
+        {
+          "headline": "Anthropic gives back much of its debut gain",
+          "summary": "On its second trading day the stock was at 86.90 dollars at 11:20 ET, down about 10.6 percent from Thursday's 97.17 close but still above the 83 dollar IPO price.",
+          "whyItMatters": "As the largest IPO on record, its slide is weighing on sentiment across the AI trade.",
+          "category": "markets",
+          "badge": "developing",
+          "sourceUrl": "https://www.fool.com/investing/2026/11/20/why-anthropic-stock-is-falling-today/"
+        }
+      ]
+    },
     {
       "id": "2026-11-20-morning",
       "type": "briefing",
@@ -737,212 +916,6 @@
           "category": "markets",
           "badge": "developing",
           "sourceUrl": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-18-morning",
-      "type": "briefing",
-      "edition": "morning",
-      "date": "2026-11-18",
-      "generatedAt": "2026-11-18T06:53:12Z",
-      "title": "Morning Briefing · 18 November 2026",
-      "artifactUrl": "https://claude.ai/artifact/EFzeQzZeQQNXknyboi5ysa",
-      "headlines": [
-        "Nvidia beats and guides to about 130 billion dollars; shares up nearly 5 percent after hours",
-        "US hits an IRGC missile site on Iran's Qeshm Island after drones target a base in Bahrain",
-        "Commons passes the Immigration and Asylum Bill 290 to 94; it now goes to the Lords",
-        "Quad leaders agree five initiatives in Manila, with India to host a business forum in 2027",
-        "UK October inflation is out at 07:00, forecast at 3.6 percent with a December rate rise priced in"
-      ],
-      "categories": [
-        {
-          "key": "world",
-          "label": "World",
-          "count": 4
-        },
-        {
-          "key": "uk",
-          "label": "UK",
-          "count": 2
-        },
-        {
-          "key": "india",
-          "label": "India",
-          "count": 3
-        },
-        {
-          "key": "immigration",
-          "label": "UK immigration",
-          "count": 2
-        },
-        {
-          "key": "sport",
-          "label": "Sport",
-          "count": 3
-        },
-        {
-          "key": "space",
-          "label": "Space",
-          "count": 1
-        },
-        {
-          "key": "markets",
-          "label": "Markets",
-          "count": 5
-        }
-      ],
-      "stories": [
-        {
-          "headline": "US strikes an IRGC missile site on Qeshm Island",
-          "summary": "US aircraft struck an IRGC missile launch site on Iran's Qeshm Island on Tuesday evening, a US military official said, describing it as self-defence. It followed an IRGC drone attack on Sheikh Isa Air Base in Bahrain that CENTCOM says was intercepted with no US damage. Iranian officials say no homes or infrastructure were hit and report no casualties.",
-          "whyItMatters": "A direct US strike on Iranian soil in the Strait of Hormuz raises the risk of a wider exchange while mediated talks are stalled. There is no on-record Pentagon statement yet.",
-          "category": "world",
-          "badge": "developing",
-          "sourceUrl": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/"
-        },
-        {
-          "headline": "Hormuz: more tanker damage, talks stuck",
-          "summary": "Iran's navy says five tankers were damaged by mines in 24 hours, including a supertanker and an LPG carrier; the UK's maritime agency UKMTO has independently reported two attacks on tankers near Khasab, Oman. Washington has rejected Iran's seven conditions for reopening the strait, and Qatar, Pakistan and Turkey are still mediating.",
-          "whyItMatters": "The mine figures come only from Iran, but shipping risk is keeping Brent near 92 dollars, which feeds into UK and Indian inflation.",
-          "category": "world",
-          "badge": "unconfirmed",
-          "sourceUrl": "https://www.newarab.com/news/iran-us-tensions-climb-amid-tanker-attacks-blast-qeshm"
-        },
-        {
-          "headline": "Ukraine hits two Russian refineries; Europe adds money",
-          "summary": "Ukrainian drones reportedly struck the Ilsky and Afipsky refineries in Russia's Krasnodar region overnight. Norway and Sweden pledged more than 370 million dollars for weapons, and the EU is reported to be preparing a further 45 billion euros for Ukraine. Germany and the UK pushed back after a senior US official criticised Ukraine's long-range strikes.",
-          "whyItMatters": "This comes ahead of Thursday's Berlin talks on the next phase of negotiations with Russia, and shows Europe and Washington pulling in different directions.",
-          "category": "world",
-          "badge": "developing",
-          "sourceUrl": "https://kyivindependent.com/"
-        },
-        {
-          "headline": "APEC opens in Shenzhen with a Trump-Xi meeting due",
-          "summary": "The two-day APEC summit begins today in Shenzhen. Trump is due to meet Xi on Thursday and says he is open to separate talks with Putin in China. The White House says he wants to raise nuclear arms reduction.",
-          "whyItMatters": "New US curbs on AI chip exports, announced on Monday, will shadow the talks. Beijing has already objected.",
-          "category": "world",
-          "sourceUrl": "https://english.dainikjagranmpcg.com/top-stories/november-18-events-2026-apec-india-japan-dialogue-nasa/article-44707"
-        },
-        {
-          "headline": "October inflation due at 07:00",
-          "summary": "The ONS publishes October CPI at 07:00. The consensus forecast is 3.6 percent, up from 3.5 percent in September, driven by fuel, energy and tobacco. Bank Rate is 4.00 percent after a rise on 5 November.",
-          "whyItMatters": "A figure above forecast would make a second rate rise in December almost certain, which would push up mortgage and loan costs.",
-          "category": "uk",
-          "sourceUrl": "https://www.ons.gov.uk/releasecalendar?highlight=true&keywords=inflation&limit=10&page=1&release-type=type-upcoming&sort=date-newest"
-        },
-        {
-          "headline": "Unemployment falls to 4.6 percent, vacancies at a five-year low",
-          "summary": "Tuesday's figures showed unemployment at 4.6 percent in the three months to September, better than the 4.7 percent expected, with employment up 155,000. Wage growth eased to 3.6 percent and vacancies fell to their lowest level since 2021.",
-          "whyItMatters": "Traders now see about a 90 percent chance of a December rate rise, which leaves this morning's inflation figure as the deciding piece of data.",
-          "category": "uk",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.marketscreener.com/news/uk-s-ftse-100-logs-worst-day-in-eight-months-on-nerves-ahead-of-nvidia-results-ce785edcdd8afe27"
-        },
-        {
-          "headline": "Quad summit: five outcomes, India to host a business forum",
-          "summary": "Modi, Trump, Albanese and Takaichi met in Manila on Tuesday for the 7th Quad leaders' summit, the first in two years. They announced joint maritime surveillance with P-8 and P-3C aircraft in 2027, cable and cyber cooperation, and counter-terrorism work that condemns cross-border terrorism. Mumbai will host the first Quad Business Leaders' Forum in early 2027.",
-          "whyItMatters": "The statement's warning about economic coercion through export restrictions is aimed at supply-chain pressure. No separate Modi-Trump trade deal was announced.",
-          "category": "india",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.tribuneindia.com/news/world/quad-leaders-unveil-5-outcomes-at-manila-summit-india-to-host-business-leaders-forum-in-2027"
-        },
-        {
-          "headline": "Cyclone Akvan heads for Andhra, landfall Friday",
-          "summary": "The IMD expects Akvan to become a very severe cyclonic storm by Thursday night and to cross the coast between Nellore and Tuni by noon on 20 November, with winds of 120 to 130 km/h gusting to 145 km/h. Odisha has begun early evacuations in southern districts, and fishermen across Andhra and Tamil Nadu have been told to stay ashore.",
-          "whyItMatters": "This would be Andhra Pradesh's third cyclone in three weeks, on ground that is already saturated.",
-          "category": "india",
-          "badge": "developing",
-          "sourceUrl": "https://thefederal.com/category/news/cyclone-akvan-bay-of-bengal-east-coast-rainfall-weather-forecast-imd-263072"
-        },
-        {
-          "headline": "Rajnath and Jaishankar in Tokyo for India-Japan 2+2",
-          "summary": "The defence and external affairs ministers are in Japan on 18 and 19 November for the fourth foreign and defence ministers' dialogue, which meets on Thursday. Defence industry ties, maritime security and the Indo-Pacific are on the agenda.",
-          "whyItMatters": "It follows straight on from the Quad summit and could bring defence-equipment or technology agreements.",
-          "category": "india",
-          "sourceUrl": "https://english.dainikjagranmpcg.com/top-stories/november-18-events-2026-apec-india-japan-dialogue-nasa/article-44707"
-        },
-        {
-          "headline": "Immigration and Asylum Bill clears the Commons",
-          "summary": "MPs passed the bill at Third Reading on Tuesday by 290 votes to 94, with 14 Labour MPs voting against. It would remove the five-working-day notice before removals, cut refugees' first grant of leave from five years to 30 months and create an independent immigration appeals body. An amendment to extend five-year settlement to more skilled workers was defeated 368 to 44.",
-          "whyItMatters": "It is not law yet: the Lords must pass it and it then needs Royal Assent, and no commencement dates have been set. For Skilled Worker visa holders, the failed amendment means the earned-settlement plan's longer default route stands.",
-          "category": "immigration",
-          "badge": "developing",
-          "sourceUrl": "https://bills.parliament.uk/bills/4254/publications"
-        },
-        {
-          "headline": "No new Immigration Rules; earned settlement start date still not set",
-          "summary": "We found no new Statement of Changes since HC 584 of 3 September. Under the earned-settlement plan announced on 2 November, the default route to ILR becomes 10 years, cut to 5 years for people earning over 50,271 pounds and for some public-service roles, and 3 years for the highest earners. Care workers earning 25,000 pounds or more keep 5 years.",
-          "whyItMatters": "These are announced policy, not rules in force. Nothing changes for applicants until a Statement of Changes is laid. People who already have ILR keep it.",
-          "category": "immigration",
-          "badge": "status",
-          "sourceUrl": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk"
-        },
-        {
-          "headline": "India's first Test in New Zealand starts tonight",
-          "summary": "The first of two Tests starts at the Basin Reserve in Wellington at 22:00 GMT tonight, which is 03:30 IST on Thursday. The second Test is at Hagley Oval in Christchurch from 26 November. New Zealand are without Mitchell Santner.",
-          "whyItMatters": "India arrive having won the ODI series 3-1, and both Tests count towards the World Test Championship.",
-          "category": "sport",
-          "sourceUrl": "https://www.cricket.com.au/matches/series/CA:4736/new-zealand-v-india-tests-2026-men"
-        },
-        {
-          "headline": "MS Dhoni ends IPL playing career, becomes CSK mentor",
-          "summary": "MS Dhoni has retired as an IPL player and will mentor Chennai Super Kings from the 2027 season.",
-          "whyItMatters": "It ends the playing career of the league's best-known captain. He stays with CSK in a guiding role.",
-          "category": "sport",
-          "sourceUrl": "https://www.cricinfo.com/story/ms-dhoni-ends-ipl-career-joins-chennai-super-kings-as-mentor-1562938"
-        },
-        {
-          "headline": "Nations League: Ireland finish second, Wales lose to Portugal",
-          "summary": "The Republic of Ireland beat 10-man Kosovo 3-0, with two penalties from Troy Parrott, to finish second in their group. That earns a March play-off for promotion to League A and a place in pot two for the Euro 2028 qualifying draw. Wales lost 2-3 to 10-man Portugal and finished bottom of Group A4. Northern Ireland drew 1-1 in Hungary, and Scotland lost 4-0 in Switzerland on Monday.",
-          "whyItMatters": "The league phase is over. The knockout and play-off draw is on Friday at 11:00 GMT.",
-          "category": "sport",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.skysports.com/football/news/13613404/wales-2-3-portugal-craig-bellamys-side-lose-final-nations-league-group-a4-match-as-pedro-neto-sent-off"
-        },
-        {
-          "headline": "Voyager 1 reaches one light-day from Earth today",
-          "summary": "At about 10:16 GMT today NASA's Voyager 1 will be one light-day away, about 25.9 billion km, the first human-made object to get that far. A signal will take 24 hours to reach it. The spacecraft launched in 1977, and most of its instruments are now switched off.",
-          "whyItMatters": "The milestone shows how long the probe has outlasted its design life. Voyager 2 is not expected to reach the same distance until 2035.",
-          "category": "space",
-          "sourceUrl": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"
-        },
-        {
-          "headline": "Nvidia beats forecasts and guides higher",
-          "summary": "For the quarter to 25 October, Nvidia reported revenue of 115.8 billion dollars, up 103 percent on a year earlier, and earnings per share of 2.68 dollars against about 2.47 dollars expected. It guided to about 130 billion dollars for the current quarter, which has an extra week and assumes no China data-centre sales. The shares rose about 4.8 percent after hours.",
-          "whyItMatters": "The AI trade hinges on Nvidia. A beat steadies chip stocks after a sharp November sell-off, but the inquiry into former CEO Jensen Huang, where nothing has been found against him, and the export curbs remain.",
-          "category": "markets",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/q3fy27pr.htm"
-        },
-        {
-          "headline": "Wall Street falls before Nvidia; futures recover a little",
-          "summary": "On Tuesday the Dow fell 1.6 percent, about 848 points. The S&P 500 fell 1.0 percent to its lowest close since late July, and the Nasdaq Composite fell 0.7 percent after being down as much as 2.1 percent during the day. Chipmakers were sold ahead of Nvidia's results, and a reported outage on an NSA network added to the nerves. Overnight, S&P futures were up about 0.2 percent and Nasdaq-100 futures about 0.5 percent.",
-          "whyItMatters": "The Nasdaq-100 is on course for its worst November since 2008, and the VIX volatility index is above 25.",
-          "category": "markets",
-          "sourceUrl": "https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026"
-        },
-        {
-          "headline": "FTSE 100 has its worst day in eight months",
-          "summary": "The FTSE 100 closed down 1.76 percent at 10,689.87 on Tuesday, and the FTSE 250 fell 1.2 percent. Banks led the losses (Barclays down 2.6 percent, HSBC down 2 percent), followed by miners on weaker copper. Burberry fell 3.5 percent, and Imperial Brands lost 2 percent after announcing up to 4,600 job cuts by 2030.",
-          "whyItMatters": "London is likely to open firmer if Nvidia's beat holds, but the inflation figure at 07:00 could move gilts and the banks.",
-          "category": "markets",
-          "sourceUrl": "https://www.marketscreener.com/news/uk-s-ftse-100-logs-worst-day-in-eight-months-on-nerves-ahead-of-nvidia-results-ce785edcdd8afe27"
-        },
-        {
-          "headline": "Sensex and Nifty slip as investors take profits",
-          "summary": "On Tuesday the Sensex rose 427 points (0.52 percent) to 82,532.19 and the Nifty rose 0.38 percent to 25,387.40. At 12:00 IST on Wednesday, still trading, the Sensex was at 82,122.47 (down 0.50 percent) and the Nifty at 25,248.30 (down 0.55 percent). Titan, TCS and metal stocks led the falls, as investors took profits after a rally of about 13 percent in 12 sessions.",
-          "whyItMatters": "Foreign investors have bought a record of about 10 billion dollars of Indian shares in November. Profit-taking at these levels is normal and does not reverse that trend.",
-          "category": "markets",
-          "badge": "update",
-          "sourceUrl": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-18-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-hero-motocorp-share-price-hcltech-stock-price-today-ipo-today-126111800134_1.html"
-        },
-        {
-          "headline": "Asia mixed despite the Nvidia beat",
-          "summary": "At about 02:30 GMT the Nikkei was down 0.3 percent at 58,697, the Kospi down 0.2 percent and the Hang Seng down 0.5 percent. Taiwan's index was down about 2 percent an hour later. Chip-equipment makers such as Tokyo Electron fell, while SK Hynix rose.",
-          "whyItMatters": "New US licence rules for AI-chip exports to five countries, and Nvidia's outlook excluding China, are limiting the lift for Asian chipmakers.",
-          "category": "markets",
-          "sourceUrl": "https://finance.yahoo.com/technology/articles/asia-tech-shares-turn-mixed-032547363.html"
         }
       ]
     }
