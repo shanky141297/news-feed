@@ -1,7 +1,195 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-18T06:53:12Z",
+  "lastUpdated": "2026-11-18T18:52:01Z",
   "entries": [
+    {
+      "id": "2026-11-18-evening",
+      "type": "briefing",
+      "edition": "evening",
+      "date": "2026-11-18",
+      "generatedAt": "2026-11-18T18:52:01Z",
+      "title": "Evening Briefing · 18 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/GXcmyaXdxCcm8jbDcZNY42",
+      "headlines": [
+        "UK inflation rises to 3.6%, a one-year high, as diesel hits a record and a December rate rise stays likely",
+        "Xi greets Trump in Shenzhen as APEC opens; first Trump-Xi-Putin meeting planned for Thursday",
+        "Kuwait and Bahrain report drone attacks after the US strike on Iran's Qeshm Island",
+        "FTSE 100 drops another 1.3% to 10,551 as metals slump; Wall Street mixed, Nvidia lower despite beat",
+        "Cyclone Akvan weakens but turns towards Odisha, with landfall expected near Narsapur-Puri around noon Friday"
+      ],
+      "categories": [
+        {
+          "key": "world",
+          "label": "World",
+          "count": 3
+        },
+        {
+          "key": "uk",
+          "label": "UK",
+          "count": 2
+        },
+        {
+          "key": "india",
+          "label": "India",
+          "count": 2
+        },
+        {
+          "key": "immigration",
+          "label": "UK immigration",
+          "count": 2
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "count": 2
+        },
+        {
+          "key": "space",
+          "label": "Space",
+          "count": 2
+        },
+        {
+          "key": "markets",
+          "label": "Markets",
+          "count": 4
+        }
+      ],
+      "stories": [
+        {
+          "headline": "Trump arrives at APEC in Shenzhen; trilateral with Xi and Putin set for Thursday",
+          "summary": "Xi Jinping greeted Donald Trump in person at Shenzhen airport as the APEC summit opened. A first-ever three-way meeting with Vladimir Putin is planned for Thursday. In Manila earlier, Trump announced a very big trade deal with the Philippines but gave no details.",
+          "whyItMatters": "The meeting could set the tone on tariffs, arms control and Ukraine for months. The Philippines deal is so far only Trump's claim.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702"
+        },
+        {
+          "headline": "Kuwait and Bahrain report drone attacks after the US strike on Qeshm",
+          "summary": "After the US strike on an IRGC missile site on Qeshm Island, Kuwait says its air defences intercepted hostile drones and Bahrain blamed Iran for new aerial attacks. Neither has given damage or casualty figures.",
+          "whyItMatters": "The attacks now reach several Gulf states, so shipping and oil remain exposed. Most accounts so far come from one side only.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks"
+        },
+        {
+          "headline": "Drone strikes reportedly cut Russia's oil refining by almost half",
+          "summary": "Reuters, citing industry sources, reports that Ukrainian drone attacks have nearly halved Russia's oil refining in November. There are no official figures to confirm it.",
+          "whyItMatters": "If accurate, it is the heaviest pressure yet on Russian fuel supply and export income.",
+          "category": "world",
+          "badge": "unconfirmed",
+          "sourceUrl": "https://www.reuters.com/business/energy/drone-attacks-nearly-halve-russias-november-oil-refining-sources-say-2026-11-18"
+        },
+        {
+          "headline": "Inflation hits 3.6% in October as diesel sets a record",
+          "summary": "CPI rose to 3.6% from 3.5%, a one-year high, and CPIH rose to 3.7%, driven by motor fuels and tobacco. Diesel averaged 199.5p a litre, the highest since records began in 1996. Core inflation stayed at 2.8% and services at 3.7%, both slightly below forecasts.",
+          "whyItMatters": "Markets still put about a 74% chance on another Bank Rate rise in December, with Bank Rate at 4.00% after the 5 November rise.",
+          "category": "uk",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026"
+        },
+        {
+          "headline": "Home Office sets out its legal basis for live facial recognition in immigration enforcement",
+          "summary": "On 17 November the Home Office published a policy paper on the legal mandate for Immigration Enforcement to use live facial recognition, with an equality impact assessment.",
+          "whyItMatters": "It shows the technology is being used beyond policing and is likely to draw scrutiny from privacy groups.",
+          "category": "uk",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.gov.uk/government/organisations/home-office"
+        },
+        {
+          "headline": "Cyclone Akvan downgraded, but its track now points at the Andhra-Odisha coast",
+          "summary": "IMD now expects a severe cyclonic storm with winds of 90 to 100 km/h, gusting to 110 km/h, making landfall between Narsapur and Puri around noon on Friday 20 November. That is further north than earlier forecasts. Odisha has sent out 74 rescue teams and listed more than 200,000 people for possible evacuation.",
+          "whyItMatters": "Weather models still disagree on the track and strength, but heavy rain is expected across Odisha.",
+          "category": "india",
+          "badge": "developing",
+          "sourceUrl": "https://www.downtoearth.org.in/climate-change/cyclone-akvans-track-and-intensity-remain-uncertain-as-weather-models-diverge"
+        },
+        {
+          "headline": "Rajnath and Jaishankar in Tokyo ahead of Thursday's 2+2",
+          "summary": "The defence and external affairs ministers arrived in Tokyo for the fourth India-Japan 2+2 with Shinjiro Koizumi and Toshimitsu Motegi. At Raisina Tokyo, Jaishankar urged audiences to update their picture of India. No outcomes have been announced yet.",
+          "whyItMatters": "Coming straight after the Quad summit, any deals on defence equipment or maritime security would strengthen India-Japan ties.",
+          "category": "india",
+          "badge": "update",
+          "sourceUrl": "https://www.business-standard.com/external-affairs-defence-security/news/rajnath-singh-s-jaishankar-arrive-in-tokyo-for-india-japan-2-2-dialogue-126111800318_1.html"
+        },
+        {
+          "headline": "No change to the Immigration Rules today",
+          "summary": "We found no new Statement of Changes and no visa, settlement or fee announcements on GOV.UK from 16 to 18 November. The latest rules change we know of is HC 584 of 3 September. The Immigration and Asylum Bill now goes to the Lords and is not yet law.",
+          "whyItMatters": "Skilled Worker and ILR applications still follow the current rules until new rules are laid.",
+          "category": "immigration",
+          "badge": "status",
+          "sourceUrl": "https://www.gov.uk/government/organisations/home-office"
+        },
+        {
+          "headline": "Earned settlement: announced on 2 November, still not in the rules",
+          "summary": "The plan makes 10 years the default route to ILR, with 5 years for people earning at least 50,271 pounds in three of five years and 3 years for those earning 125,141 pounds or more. No Statement of Changes, start date or transitional arrangements have been published. A separate rule already in force requires B2-level English for settlement on specified routes from 26 March 2027.",
+          "whyItMatters": "For Indian Skilled Workers close to five years, the salary test and the transitional rules will decide when they can settle.",
+          "category": "immigration",
+          "badge": "proposal",
+          "sourceUrl": "https://www.ein.org.uk/blog/earned-settlement-government-has-announced-its-policy-law-has-not-yet-changed"
+        },
+        {
+          "headline": "India's Test series in New Zealand starts tonight with WTC points at stake",
+          "summary": "The first Test at the Basin Reserve starts at 22:00 GMT (03:30 IST Thursday), with Shubman Gill captaining India and Tom Latham leading New Zealand, who top the WTC table. India are fourth and need six wins from their last seven Tests to reach the final without relying on other results.",
+          "whyItMatters": "India have a poor record in New Zealand, and the result could decide their WTC hopes.",
+          "category": "sport",
+          "badge": "update",
+          "sourceUrl": "https://thefederal.com/sports/cricket/india-vs-new-zealand-1st-test-preview-wellington-263301"
+        },
+        {
+          "headline": "Premier League returns this weekend with Arsenal five points clear",
+          "summary": "Arsenal lead the table on 27 points, five ahead of Brighton, and play away at Newcastle at 17:30 on Saturday.",
+          "whyItMatters": "St James' Park is one of the hardest away trips for the leaders this season.",
+          "category": "sport",
+          "sourceUrl": "https://sports.yahoo.com/articles/premier-league-form-table-updated-122328134.html"
+        },
+        {
+          "headline": "NASA ends two veteran science missions: Terra and NICER",
+          "summary": "NASA says the Earth-observing satellite Terra will stop collecting science data on 1 December, after 27 years. The NICER X-ray telescope on the ISS has ended science operations after about six and a half years.",
+          "whyItMatters": "Terra's records underpin decades of climate and land-use research.",
+          "category": "space",
+          "sourceUrl": "https://www.nasa.gov/news/recently-published/"
+        },
+        {
+          "headline": "Roman Space Telescope's first images will be shown on 7 December",
+          "summary": "NASA will stream the first images from the Nancy Grace Roman Space Telescope live from the AGU meeting on Monday 7 December.",
+          "whyItMatters": "The first images will show whether the telescope built to survey dark energy and exoplanets is working as designed.",
+          "category": "space",
+          "sourceUrl": "https://www.nasa.gov/news/recently-published/"
+        },
+        {
+          "headline": "FTSE 100 falls 1.3% as miners slump",
+          "summary": "The FTSE 100 closed 138.70 points lower at 10,551.17 (16:35 GMT close), after Tuesday's 1.76% fall. Falling copper, gold and silver and a 19-month high in the dollar sent Antofagasta down 7.9%, Anglo American down 7.2% and Glencore down 6.1%. Convatec rose 9.4% and Hays jumped 39% in the FTSE 250.",
+          "whyItMatters": "London has lost about 3% in two sessions as doubts about copper demand from AI and higher interest-rate expectations hit commodity stocks.",
+          "category": "markets",
+          "badge": "confirmed",
+          "sourceUrl": "https://uk.finance.yahoo.com/news/ftse-100-sinks-miners-plummet-174419125.html"
+        },
+        {
+          "headline": "Sensex and Nifty end a two-day rally",
+          "summary": "At the 15:30 IST close the Sensex was down about 500 points (0.61%) at 82,031.81 and the Nifty 50 was near 25,228 (down 0.63%), on profit-taking. Consumer durables were the weakest sector and metal stocks fell with global prices.",
+          "whyItMatters": "The fall in global metal prices and a stronger dollar are both putting pressure on Indian markets.",
+          "category": "markets",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.business-standard.com/amp/markets/news/stock-market-live-november-18-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-hero-motocorp-share-price-hcltech-stock-price-today-ipo-today-126111800134_1.html"
+        },
+        {
+          "headline": "Wall Street mixed; Nvidia lower despite strong results",
+          "summary": "Still trading at 13:19 ET: the Dow was down 0.94% at 50,282, the S&P 500 down 0.15% at 7,329 and the Nasdaq Composite up 0.37% at 24,419. Nvidia lost about 2.4% despite doubling its revenue, Fed governor Waller said a half-point December hike is probably needed, and UnitedHealth fell about 6%.",
+          "whyItMatters": "Expectations of higher US rates are outweighing strong AI earnings. The Fed's October minutes are due at 19:00 GMT.",
+          "category": "markets",
+          "badge": "developing",
+          "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
+        },
+        {
+          "headline": "Anthropic IPO expected to price tonight",
+          "summary": "Anthropic is expected to set its share price tonight, against a range of 70 to 78 dollars, with Nasdaq trading due to start on Thursday under the ticker ANT, subject to regulatory clearance. CNBC reports, citing sources, that it may enlarge the offering because of strong demand.",
+          "whyItMatters": "At the top of the range it would be one of the largest listings ever and a test of investor appetite for AI.",
+          "category": "markets",
+          "badge": "developing",
+          "sourceUrl": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-18-morning",
       "type": "briefing",

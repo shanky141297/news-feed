@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-11-19T06:46:45Z",
+  "entries": [
+    {
+      "id": "2026-11-19-morning",
+      "type": "briefing",
+      "edition": "morning",
+      "date": "2026-11-19",
+      "generatedAt": "2026-11-19T06:46:45Z",
+      "title": "Morning Briefing · 19 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/DpjVtaxk8wu3aVYKdf4jGW",
+      "headlines": [
+        "Trump, Xi and Putin meet in Shenzhen today for the first-ever three-way US-China-Russia summit",
+        "Anthropic prices its IPO at $83, above range, and starts trading on Nasdaq today as ANT",
+        "Fed minutes point to more US rate rises; the Dow fell 1.1% and gold hit a 14-month low",
+        "Cyclone Akvan to cross the Andhra-Odisha coast on Friday; IMD issues red alerts",
+        "World Court rules today on the Rohingya genocide case against Myanmar from 09:00 GMT"
+      ],
+      "categories": [
+        {
+          "key": "world",
+          "label": "World",
+          "count": 4
+        },
+        {
+          "key": "uk",
+          "label": "UK",
+          "count": 2
+        },
+        {
+          "key": "india",
+          "label": "India",
+          "count": 2
+        },
+        {
+          "key": "immigration",
+          "label": "UK immigration",
+          "count": 1
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "count": 2
+        },
+        {
+          "key": "space",
+          "label": "Space",
+          "count": 1
+        },
+        {
+          "key": "markets",
+          "label": "Markets",
+          "count": 4
+        }
+      ],
+      "stories": [
+        {
+          "headline": "Trump, Xi and Putin gather for a three-way summit in Shenzhen",
+          "summary": "On the APEC sidelines, the three leaders meet today after Trump and Putin were seated either side of Xi at Wednesday's welcome banquet. Expected topics include the Iran war, Ukraine, nuclear weapons, trade and AI. No outcomes had been reported at the time of writing.",
+          "whyItMatters": "A first meeting of this kind could set the tone on Ukraine and the Gulf conflict, both of which move oil prices and markets.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit"
+        },
+        {
+          "headline": "ICJ to give its judgment in the Rohingya genocide case at 09:00 GMT",
+          "summary": "The Gambia, backed by the OIC, accuses Myanmar of genocide over the 2017 military crackdown that drove at least 730,000 Rohingya from their homes. Myanmar denies it. The ruling, read in The Hague, cannot be appealed.",
+          "whyItMatters": "The court has never found a state responsible for genocide; a finding would also be read closely for the separate Gaza case.",
+          "category": "world",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar"
+        },
+        {
+          "headline": "Berlin hosts Ukraine talks the same day",
+          "summary": "German Chancellor Merz is due to host a Coalition of the Willing meeting in Berlin today, with US envoys and Ukrainian officials expected to coordinate on security guarantees. The exact line-up has not been confirmed.",
+          "whyItMatters": "Europe and Kyiv want a common position in place while Trump and Putin are meeting in China.",
+          "category": "world",
+          "badge": "update",
+          "sourceUrl": "https://kyivindependent.com/zelensky-announces-berlin-talks-with-us-european-allies-to-shape-next-phase-of-russia-negotiations/"
+        },
+        {
+          "headline": "UAE tanker hit in Hormuz; US says Iranian attacks on Gulf bases intercepted",
+          "summary": "An ADNOC tanker was struck in the Strait of Hormuz on Tuesday night, with one crew member missing and 11 injured. Bahrain and Kuwait said they intercepted Iranian drones and missiles, and US Central Command reported no US casualties.",
+          "whyItMatters": "Each strike on shipping raises insurance costs per transit and keeps energy prices volatile.",
+          "category": "world",
+          "badge": "update",
+          "sourceUrl": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+        },
+        {
+          "headline": "UK-EU leaders' summit is tomorrow",
+          "summary": "Starmer meets EU leaders on Friday 20 November for the summit both sides confirmed in October, when he said the status quo was not good enough. The government wants the meeting to deepen the post-Brexit reset of trade and security ties.",
+          "whyItMatters": "Any deal on trade checks could affect food prices and business costs, and it lands days after inflation rose to 3.6%.",
+          "category": "uk",
+          "sourceUrl": "https://www.france24.com/en/live-news/20261012-status-quo-with-eu-not-good-enough-uk-pm-says-as-summit-date-set"
+        },
+        {
+          "headline": "Home Secretary tells police to stay out of politics",
+          "summary": "Speaking at a policing conference on Wednesday, Shabana Mahmood said parts of the old police anti-racism commitment were wrong and announced a new impartiality standard, to be drafted by the College of Policing and consulted on next year. She rejected claims of two-tier policing but accepted there had been examples of unequal treatment.",
+          "whyItMatters": "It sets the direction for how forces handle protests and politically charged cases.",
+          "category": "uk",
+          "sourceUrl": "https://www.rotherradio.co.uk/home-secretary-tells-police-to-leave-the-politics-to-the-politicians/"
+        },
+        {
+          "headline": "Cyclone Akvan to make landfall between Andhra Pradesh and Odisha on Friday",
+          "summary": "IMD expects the storm to cross the coast on 20 November with winds of up to about 110 km/h, and has issued red alerts for heavy rain. Rain has already started in Puri.",
+          "whyItMatters": "Coastal districts face flooding and evacuations; fishing and port activity on the east coast will be disrupted.",
+          "category": "india",
+          "badge": "developing",
+          "sourceUrl": "https://www.downtoearth.org.in/climate-change/daily-weather-tracker-cyclone-akvan-to-make-landfall-between-andhra-pradesh-and-odisha-on-november-20"
+        },
+        {
+          "headline": "India-Japan 2+2 talks are under way in Tokyo today",
+          "summary": "Rajnath Singh and S Jaishankar meet Japan's foreign and defence ministers for the fourth 2+2 dialogue, covering defence technology, maritime security, exercises, critical minerals and semiconductors.",
+          "whyItMatters": "Japan is a key partner for defence manufacturing and supply chains as India hedges against China.",
+          "category": "india",
+          "badge": "update",
+          "sourceUrl": "https://www.theweek.in/news/india/2026/11/18/time-to-update-the-picture-of-india-in-japan-eam-jaishankar-urges-the-world-to-stand-up-and-take-notice-of-india.html"
+        },
+        {
+          "headline": "No new Immigration Rules overnight; earned settlement still awaits the December rules",
+          "summary": "No Statement of Changes has been published since HC 584 on 3 September. The earned settlement plan announced on 2 November, which moves the default route to ILR from 5 to 10 years with shorter paths for higher earners, is still a proposal and not in the rules. The Home Secretary has said the changes will begin to be laid from the December rules.",
+          "whyItMatters": "Skilled Workers, including many Indian nationals, should not assume any new ILR timeline applies until rule text and transitional dates are published.",
+          "category": "immigration",
+          "badge": "status",
+          "sourceUrl": "https://www.gov.uk/government/organisations/uk-visas-and-immigration"
+        },
+        {
+          "headline": "Nicholls hundred rescues New Zealand on day one in Wellington",
+          "summary": "After Shubman Gill chose to bowl at the Basin Reserve, India reduced New Zealand to 74 for 5, with Jasprit Bumrah taking three wickets. Henry Nicholls made a century and Glenn Phillips reached 94 not out as the hosts closed on 243 for 5.",
+          "whyItMatters": "India let a strong start slip in the first Test of a series that carries World Test Championship points. Day two begins tonight UK time.",
+          "category": "sport",
+          "sourceUrl": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-test-1539442/match-report-1"
+        },
+        {
+          "headline": "Pochettino starts work at Manchester United",
+          "summary": "Mauricio Pochettino has arrived at the club to begin his job as head coach, days after United confirmed his appointment following Michael Carrick's sacking.",
+          "whyItMatters": "He gets only days with the squad before his first league match in charge.",
+          "category": "sport",
+          "sourceUrl": "https://sports.yahoo.com/articles/pochettino-arrives-man-united-start-134836642.html"
+        },
+        {
+          "headline": "ISRO chief says the first uncrewed Gaganyaan flight is set for December",
+          "summary": "Chairman V Narayanan says G1 will launch from Sriharikota on the human-rated LVM3 in December, carrying the robot Vyommitra rather than astronauts. It will test the crew module, re-entry, parachutes and a splashdown in the Bay of Bengal.",
+          "whyItMatters": "G1 has slipped several times since 2024; a December flight would keep India's first crewed spaceflight in view for 2027.",
+          "category": "space",
+          "badge": "update",
+          "sourceUrl": "https://www.businesstoday.in/latest/trends/photo/gaganyaans-first-test-flight-is-set-for-december-what-flies-what-it-tests-and-when-astronauts-follow-568238-2026-11-18"
+        },
+        {
+          "headline": "Hawkish Fed minutes drag the Dow down 1.1%",
+          "summary": "Wednesday 18 Nov closes: Dow 50,198.17 (-1.11%), S&P 500 7,323.63 (-0.23%, a fifth straight fall), Nasdaq Composite 24,429.89 (+0.42%). Minutes showed almost all Fed officials saw more rate rises as likely; health insurers slumped on a proposed Medicare Advantage audit rule and Nvidia closed almost 3% lower.",
+          "whyItMatters": "Higher US rates hold up global borrowing costs; gold fell to a 14-month low on the news.",
+          "category": "markets",
+          "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+        },
+        {
+          "headline": "FTSE 100 closed 1.3% lower as miners slid",
+          "summary": "The FTSE 100 closed Wednesday 18 Nov at 10,551.17 (-1.30%). Antofagasta, Anglo American and Glencore fell 6 to 8% as copper and silver dropped on a stronger dollar and doubts about AI infrastructure spending.",
+          "whyItMatters": "London's heavy weighting in miners makes it sensitive to metal prices and the dollar.",
+          "category": "markets",
+          "sourceUrl": "https://www.marketscreener.com/news/ftse-100-sinks-as-miners-plummet-inflation-rises-ce785edddd8cff27"
+        },
+        {
+          "headline": "Sensex and Nifty recover from early losses",
+          "summary": "Live at 10:52 IST on Thursday 19 Nov, still trading: Sensex 82,255.10 (+0.27%), Nifty 50 25,300.75 (+0.29%), after opening lower on the Fed minutes and weak IT stocks. Autos led the recovery, helped by PSU banks, easier oil and steady foreign buying.",
+          "whyItMatters": "Foreign investors bought about 5,867 crore rupees of shares on Wednesday, cushioning the market against global rate worries.",
+          "category": "markets",
+          "sourceUrl": "https://www.theweek.in/news/biz-tech/2026/11/19/indian-shares-recovery-sensex-nifty.html"
+        },
+        {
+          "headline": "Anthropic priced at $83 a share ahead of today's debut",
+          "summary": "The AI company priced its offering above the 70 to 78 dollar range, and its registration was declared effective on Wednesday evening. Shares are expected to begin trading on Nasdaq today under the ticker ANT.",
+          "whyItMatters": "One of the largest listings on record will test investor appetite for AI stocks after a week of chip-sector selling.",
+          "category": "markets",
+          "badge": "confirmed",
+          "sourceUrl": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html"
+        }
+      ]
+    }
+  ]
+}
