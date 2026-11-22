@@ -1,7 +1,221 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-22T06:57:05Z",
+  "lastUpdated": "2026-11-22T18:51:54Z",
   "entries": [
+    {
+      "id": "2026-11-22-evening",
+      "type": "briefing",
+      "edition": "evening",
+      "date": "2026-11-22",
+      "generatedAt": "2026-11-22T18:51:54Z",
+      "title": "Evening Briefing · 22 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/GBH36Z8DUwt9h9QV9pKDJm",
+      "headlines": [
+        "COP31 collapses in Antalya with no deal after the EU, UK and island states reject a text that leaves out fossil fuels",
+        "Russian strike on a Kyiv-region apartment block kills at least three; Zelensky presses the US to release paid-for Patriot missiles",
+        "Bahrain says two people were hurt in Saturday's Iranian attacks; Iran says Hormuz could reopen if the US meets its conditions",
+        "Liverpool 4-0 Manchester United: Yoro sent off after eight minutes on Pochettino's debut",
+        "Nepal PM Balendra Shah arrives in Delhi; talks with Modi at Hyderabad House on Monday"
+      ],
+      "categories": [
+        {
+          "key": "world",
+          "label": "World",
+          "count": 5
+        },
+        {
+          "key": "uk",
+          "label": "UK",
+          "count": 3
+        },
+        {
+          "key": "india",
+          "label": "India",
+          "count": 3
+        },
+        {
+          "key": "immigration",
+          "label": "UK immigration",
+          "count": 2
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "count": 3
+        },
+        {
+          "key": "space",
+          "label": "Space",
+          "count": 1
+        },
+        {
+          "key": "markets",
+          "label": "Markets",
+          "count": 3
+        }
+      ],
+      "stories": [
+        {
+          "headline": "COP31 ends without a deal after nearly two days of overtime",
+          "summary": "Delegates in Antalya rejected the final text at Sunday's closing plenary because it did not mention fossil fuels. The EU, the UK and small island states such as Tuvalu refused it, and COP31 president Murat Kurum said there would be no new draft. China and India objected but accepted the cover text; smaller deals on geothermal power, freight corridors and electricity were agreed.",
+          "whyItMatters": "It is the longest COP on record and ends without a global signal on moving away from fossil fuels. The UK delegation said it was profoundly disappointed.",
+          "category": "world",
+          "badge": "breaking",
+          "sourceUrl": "https://www.yahoo.com/news/science/articles/cop31-fails-reach-climate-deal-124907599.html"
+        },
+        {
+          "headline": "Kyiv-region strike kills at least three as Zelensky presses the US on Patriots",
+          "summary": "An overnight Russian strike destroyed a section of a five-storey block in Vyshhorod district (reported as Dymer), killing at least three people and injuring four, with others trapped under rubble; the regional head reported the third body recovered at 17:46 local time. Zelensky said Russia fired about 2,700 drones, 1,460 glide bombs and 165 missiles at Ukraine this week.",
+          "whyItMatters": "Zelensky says Patriot interceptors already paid for through NATO's PURL scheme are waiting on US approval. Air defence is Ukraine's most urgent need going into winter.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://kyivindependent.com/ukraine-war-latest-us-delays-on-patriot-missiles-difficult-to-understand-as-russia-fires-165-missiles-in-single-week-zelensky-says/"
+        },
+        {
+          "headline": "Bahrain: two injured in Saturday's Iranian attacks",
+          "summary": "Update since this morning: Bahrain's interior ministry now says two people were hurt, a Bahraini citizen who is stable and a Pakistani resident in critical condition, after a fire at an industrial site. Iran's foreign minister Abbas Araghchi said reopening the Strait of Hormuz would not be difficult if the US accepts what he called reasonable conditions. Iran says talks with the US continue.",
+          "whyItMatters": "This morning's reports said no one was hurt. The tanker convoy at Kharg Island has not been seen moving, but a clash at sea is still the biggest risk to oil supply.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.iranintl.com/en/liveblog/202611214578"
+        },
+        {
+          "headline": "NATO council meets Monday on the Russian missiles in Poland",
+          "summary": "The North Atlantic Council meets in Brussels on Monday after two Russian cruise missiles and a jet drone crossed into Poland on Friday night. New detail: a Swedish Gripen pilot under NATO command was cleared to engage a suspected Kh-101 over Poland but did not fire because the weather prevented identification.",
+          "whyItMatters": "It shows how close NATO came to shooting at a Russian missile over allied territory, which raises the stakes for Monday's talks.",
+          "category": "world",
+          "badge": "update",
+          "sourceUrl": "https://kyivindependent.com/ukraine-war-latest-us-delays-on-patriot-missiles-difficult-to-understand-as-russia-fires-165-missiles-in-single-week-zelensky-says/"
+        },
+        {
+          "headline": "Israel: Eisenkot invites Likud to coalition talks",
+          "summary": "Gadi Eisenkot, who has the mandate to form Israel's next government, invited Netanyahu's Likud to marathon talks on a unity coalition. Earlier rounds failed to settle who would be prime minister.",
+          "whyItMatters": "A deal or a breakdown decides whether Israel gets a unity government or heads towards another election.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.euronews.com/video/2026/11/22/latest-news-bulletin-november-22nd-2026-evening"
+        },
+        {
+          "headline": "Burnham defends the EU deal as Tories and universities raise costs",
+          "summary": "The government's Cutting Costs Bill, which puts Friday's Brussels package into law, is due in Parliament on Thursday. The Conservatives say joining the EU carbon market will push up fuel and gas bills, which ministers call completely wrong. Universities warn that charging EU students home fees, which must happen within six months, could leave a funding gap.",
+          "whyItMatters": "Thursday's bill is the first parliamentary test of the reset, and costs to households and universities will decide the political argument.",
+          "category": "uk",
+          "badge": "developing",
+          "sourceUrl": "https://uk.news.yahoo.com/tories-universities-raise-concerns-over-232100895.html"
+        },
+        {
+          "headline": "Rejoin row: Johnson and Cameron join May in warning Burnham",
+          "summary": "Update since this morning: Boris Johnson and David Cameron also warned against reopening EU membership. Europe minister Hamish Falconer said there would be a general election before any long-term decision on rejoining. Alex Burghart said the Conservatives would repeal the deal, and Kemi Badenoch asked why no treaty text has been published.",
+          "whyItMatters": "Three former prime ministers now oppose rejoin talk, and the opposition has promised to undo the deal, so the reset is set to be an election issue.",
+          "category": "uk",
+          "badge": "update",
+          "sourceUrl": "https://www.aol.co.uk/articles/andy-burnham-patting-brexit-voters-123900000.html"
+        },
+        {
+          "headline": "Two Gwent Police officers sacked over the St Mellons crash inquiry",
+          "summary": "A misconduct panel dismissed PC Richard Hardwick and PC Lauren Livingstone without notice on Friday. It found they failed to search homes during the missing-persons inquiry linked to the fatal March 2023 St Mellons crash in Cardiff and then lied about it. Other officers face proceedings later.",
+          "whyItMatters": "Families have long criticised the police response to the crash, and more misconduct cases are still to come.",
+          "category": "uk",
+          "badge": "confirmed",
+          "sourceUrl": "https://morningstaronline.co.uk/article/home-news-brief"
+        },
+        {
+          "headline": "Nepal PM Balendra Shah arrives in Delhi",
+          "summary": "Shah landed on Sunday for a two-day state visit and was received by minister of state Jitin Prasada; S Jaishankar called on him in the evening. Delegation talks with Modi at Hyderabad House on Monday are due to be followed by a joint press statement, a joint vision document and several agreements.",
+          "whyItMatters": "Reports say the 669 MW Lower Arun hydropower project and a Janakpur to Ayodhya train may be launched, but neither government has confirmed this.",
+          "category": "india",
+          "badge": "developing",
+          "sourceUrl": "https://sambadenglish.com/national-international-news/nepal-pm-balendra-shah-arrives-in-delhi-on-two-day-state-visit-to-india-12831621"
+        },
+        {
+          "headline": "India and China hold corps commander talks on the Arunachal frontier",
+          "summary": "A second round of corps commander talks on the eastern frontier, led on India's side by Lt Gen Girish Kalia of III Corps, ran for about ten days from 8 November. The aim is to prevent clashes and agree rules of engagement for patrols before winter.",
+          "whyItMatters": "Neither side has announced an agreement or a timeline, so it is unclear when any new rules would take effect.",
+          "category": "india",
+          "badge": "developing",
+          "sourceUrl": "https://english.dainikjagranmpcg.com/special-news/november-22-2026-todays-top-news-headlines/article-45743"
+        },
+        {
+          "headline": "BJP Rajya Sabha MP Ramrao Wadkute dies at 72",
+          "summary": "Wadkute died of cardiac arrest at AIIMS New Delhi after being admitted on 20 November. He was elected to the Rajya Sabha in April, and Modi sent condolences.",
+          "category": "india",
+          "badge": "confirmed",
+          "sourceUrl": "https://english.dainikjagranmpcg.com/special-news/november-22-2026-todays-top-news-headlines/article-45743"
+        },
+        {
+          "headline": "No new Immigration Rules today",
+          "summary": "No new Statement of Changes and no new Home Office or UKVI announcement since Friday; Friday's GOV.UK items were caseworker guidance and data only. Earned settlement (10-year ILR) is still a policy with no rules laid and no start date. Student maintenance amounts rise for applications made from 30 November, eight days away.",
+          "whyItMatters": "For Indian Skilled Workers heading for ILR, the current five-year rules still apply; the December Statement of Changes is the one to watch.",
+          "category": "immigration",
+          "badge": "status",
+          "sourceUrl": "https://www.gov.uk/government/collections/immigration-rules-statement-of-changes"
+        },
+        {
+          "headline": "Immigration and Asylum Bill clears the Commons",
+          "summary": "The Home Office says the bill passed its third reading in the Commons on 18 November and now goes to the House of Lords. On 19 November the Home Secretary also welcomed a new chair of the Migration Advisory Committee.",
+          "whyItMatters": "The bill is not law yet. The MAC advises on salary thresholds and visa lists, so its new chair matters for future Skilled Worker changes.",
+          "category": "immigration",
+          "badge": "update",
+          "sourceUrl": "https://www.gov.uk/government/organisations/home-office"
+        },
+        {
+          "headline": "Liverpool 4-0 Manchester United",
+          "summary": "Leny Yoro was sent off after eight minutes for bringing down Alexander Isak, and Dominik Szoboszlai scored from the free kick. Florian Wirtz added a second soon after, then Rio Ngumoha (66) and Victor Munoz (82) completed the win at Anfield.",
+          "whyItMatters": "It was a heavy defeat in Pochettino's first game; United stay in the relegation zone with 8 points from 11 games, and Liverpool move to 21.",
+          "category": "sport",
+          "badge": "confirmed",
+          "sourceUrl": "https://sports.yahoo.com/soccer/article/mauricio-pochettinos-first-man-united-match-ends-with-4-0-loss-to-liverpool-after-early-red-card-182758941.html"
+        },
+        {
+          "headline": "Hull 2-0 Brighton with two late McBurnie goals",
+          "summary": "Oli McBurnie scored twice in stoppage time after Brighton's Costinha was sent off on 89 minutes for a second yellow card. It was Hull's first home win since August.",
+          "whyItMatters": "Brighton missed the chance to cut Arsenal's lead to three points, so the leaders stay six clear.",
+          "category": "sport",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.skysports.com/football/hull-city-vs-brighton-and-hove-albion/559549"
+        },
+        {
+          "headline": "Wellington Test: India need eight wickets on day five",
+          "summary": "New Zealand resume on 119/2, still 233 behind India's 720/9 declared. Play starts at 22:00 GMT tonight.",
+          "whyItMatters": "A win would put India 1-0 up in the two-Test series.",
+          "category": "sport",
+          "badge": "developing",
+          "sourceUrl": "https://www.abc.net.au/news/2026-11-22/cricket-india-highest-test-score-against-new-zealand/107414256"
+        },
+        {
+          "headline": "SpaceX launches NROL-136 spy satellites from California",
+          "summary": "A Falcon 9 lifted off from Vandenberg at about 04:23 Pacific time (about 12:23 GMT) carrying satellites for the US National Reconnaissance Office. The booster, on its 14th flight, landed back at Vandenberg, about 32 hours after the previous launch from the same pad.",
+          "whyItMatters": "Fast turnarounds on one pad show how quickly the US is building its new constellation of reconnaissance satellites.",
+          "category": "space",
+          "badge": "confirmed",
+          "sourceUrl": "https://teslanorth.com/2026/11/22/spacex-nrol-136-vandenberg-32-hours/"
+        },
+        {
+          "headline": "Wall Street: Friday close, markets shut today",
+          "summary": "Friday 20 Nov close (16:00 ET): S&P 500 down 3.70 percent at 6,910.39, Dow down 1.93 percent at 48,147.33 and Nasdaq Composite down 5.28 percent at 22,617.73. Nvidia fell 14 percent after a report of an SEC accounting review, and Fed signals pointed to more rate rises.",
+          "whyItMatters": "The S&P 500 and Dow are in correction, and futures price a high chance of a Fed rise on 8 to 9 December. US futures reopen at 23:00 GMT tonight.",
+          "category": "markets",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/"
+        },
+        {
+          "headline": "FTSE 100: Friday close at a five-month low",
+          "summary": "Friday 20 Nov close (16:35 GMT): FTSE 100 down 1.02 percent at 10,346.34, its fifth fall in a row and about 5 percent lower on the week. Miners fell with copper, and banks and defence stocks also dropped.",
+          "whyItMatters": "UK PMI data on Monday is the next test for London shares.",
+          "category": "markets",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.marketscreener.com/news/ftse-100-tumbles-as-global-tech-rout-takes-hold-ce785ed3dd89f120"
+        },
+        {
+          "headline": "Sensex and Nifty: Friday close at nine-month highs",
+          "summary": "Friday 20 Nov close (15:30 IST): Sensex up 1.08 percent at 83,919.71 and Nifty 50 up 1.12 percent at 25,800.60, led by banks, as foreign investors kept buying.",
+          "whyItMatters": "It is a short week: Indian markets are closed on Tuesday 24 November for Guru Nanak Jayanti.",
+          "category": "markets",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.businesstoday.in/markets/stocks/story/markets-next-week-nifty-eyes-26000-as-fiis-pour-in-record-rs-1-12-lakh-crore-will-banking-rally-extend-key-triggers-to-watch-568918-2026-11-22"
+        }
+      ]
+    },
     {
       "id": "2026-11-22-morning",
       "type": "briefing",
@@ -761,185 +975,6 @@
           "category": "markets",
           "badge": "confirmed",
           "sourceUrl": "https://hdfcsky.com/news/market-close-report-today-november-20-2026-nifty-sensex-scale-nine-month-highs-as-investors-dump-global-ai-for-india"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-20-evening",
-      "type": "briefing",
-      "edition": "evening",
-      "date": "2026-11-20",
-      "generatedAt": "2026-11-20T18:46:59Z",
-      "title": "Evening Briefing · 20 November 2026",
-      "artifactUrl": "https://claude.ai/artifact/PAghFMbZmQ5e8sbhKnkz8g",
-      "headlines": [
-        "UK and EU agree a Brexit reset deal in Brussels",
-        "Russia hits three Kyiv bridges; eight killed across Ukraine",
-        "Chip sell-off deepens on Wall Street",
-        "Sensex jumps 898 points as money rotates into India",
-        "Cyclone Akvan weakens after landfall"
-      ],
-      "categories": [
-        {
-          "key": "world",
-          "label": "World",
-          "count": 2
-        },
-        {
-          "key": "uk",
-          "label": "UK",
-          "count": 1
-        },
-        {
-          "key": "india",
-          "label": "India",
-          "count": 3
-        },
-        {
-          "key": "immigration",
-          "label": "UK immigration",
-          "count": 2
-        },
-        {
-          "key": "sport",
-          "label": "Sport",
-          "count": 2
-        },
-        {
-          "key": "space",
-          "label": "Space",
-          "count": 2
-        },
-        {
-          "key": "markets",
-          "label": "Markets",
-          "count": 4
-        }
-      ],
-      "stories": [
-        {
-          "headline": "Russia strikes Kyiv's Dnipro bridges in retaliation for Kerch",
-          "summary": "Overnight missile and drone attacks killed eight people, six of them in Kyiv, and wounded 28, Ukraine's prime minister said. The Podilskyi, Darnitskyi and Southern bridges were damaged and power cuts hit Kyiv and 10 regions. Russia said it targeted bridges used to move military equipment.",
-          "whyItMatters": "It follows Ukraine's partial destruction of the Kerch Bridge and comes a day after the Berlin talks on Europe's role. US envoy Jared Kushner said Russia is open to Europe joining the talks.",
-          "category": "world",
-          "badge": "developing",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges"
-        },
-        {
-          "headline": "Trump says no rush on Iran, with a decision possibly next year",
-          "summary": "After this morning's weapons claims, Trump said there was no hurry to decide on further action against Iran and suggested the decision could slip into next year. Reports say he also played down talk of a dirty-bomb threat.",
-          "whyItMatters": "It lowers the odds of a near-term escalation, which has helped push oil prices down this month.",
-          "category": "world",
-          "badge": "update",
-          "sourceUrl": "https://www.haaretz.com/us-news/2026-11-20/ty-article/trump-pushes-iran-strike-decision-to-next-year-weve-got-time/000001a1-f623-d175-abf5-fe3795240000"
-        },
-        {
-          "headline": "Burnham and EU leaders agree the Brexit reset deal",
-          "summary": "The summit agreed freer food and drink trade, relinked carbon markets, a youth experience scheme and closer work on illegal migration. UK officials will advise, but not vote, on EU rules in areas such as food standards. Downing Street said talks continue on some parts.",
-          "whyItMatters": "It is the biggest change to UK-EU trade terms since Brexit. The EU says it will not implement the deal until the UK cuts tuition fees for EU students, expected within six months.",
-          "category": "uk",
-          "badge": "developing",
-          "sourceUrl": "https://www.irishtimes.com/world/uk/2026/11/20/the-deal-is-done-uk-says-brexit-reset-deal-with-eu-is-agreed/"
-        },
-        {
-          "headline": "Cyclone Akvan weakens; no major damage in Odisha",
-          "summary": "Akvan crossed the coast near Gopalpur between about 07:30 and 08:30 IST and has weakened. Odisha's disaster minister reported no major damage or loss of life so far. Dozens of trains were cancelled and orange alerts are out for five Jharkhand districts.",
-          "whyItMatters": "Mass evacuations of more than 3 lakh people appear to have worked. Heavy rain and flooding inland remain the main risk.",
-          "category": "india",
-          "badge": "update",
-          "sourceUrl": "https://www.deccanherald.com/india/odisha/cyclone-akvan-weakens-into-depression-after-landfall-in-odisha-no-major-damage-flood-threat-4225921"
-        },
-        {
-          "headline": "Congress ahead in Rajasthan panchayat counting",
-          "summary": "State Election Commission figures at midday showed Congress leading in more than 3,000 panchayat seats to the BJP's 1,850. Counting in Kota, Baran, Karauli and Sri Ganganagar has been put back to 17 December.",
-          "whyItMatters": "It is a test of rural opinion in a BJP-governed state. Final results are not in yet.",
-          "category": "india",
-          "badge": "developing",
-          "sourceUrl": "https://www.outlookindia.com/national/breaking-news-india-world-live-updates-20-november-2026-cyclone-akvan-rajasthan-bhilwara-zp-panchayat-election-results"
-        },
-        {
-          "headline": "Nepal's PM Balendra Shah to visit New Delhi on Sunday",
-          "summary": "Shah begins a two-day official visit on 22 November, his first bilateral trip abroad as prime minister.",
-          "whyItMatters": "Choosing India first signals the priority Kathmandu gives the relationship; trade, energy and border issues are likely topics.",
-          "category": "india",
-          "sourceUrl": "https://www.outlookindia.com/national/breaking-news-india-world-live-updates-20-november-2026-cyclone-akvan-rajasthan-bhilwara-zp-panchayat-election-results"
-        },
-        {
-          "headline": "No new Immigration Rules today",
-          "summary": "GOV.UK shows no new Statement of Changes; the latest is HC 584 of 3 September, with its next changes starting on 30 November. Earned settlement, announced on 2 November, is still policy only and no rules have been laid.",
-          "whyItMatters": "For Indian Skilled Worker and Health and Care visa holders, the current ILR rules still apply until a new Statement of Changes is published.",
-          "category": "immigration",
-          "badge": "status",
-          "sourceUrl": "https://www.gov.uk/government/collections/immigration-rules-statement-of-changes"
-        },
-        {
-          "headline": "UK-EU youth scheme: 100,000 places, not yet law",
-          "summary": "The reset deal includes a youth experience scheme with up to 100,000 places for young people to live, work or study for up to three years. Reports differ on the age limit (18 to 32, or under 30). A bill is due next week and no start date is set.",
-          "whyItMatters": "It covers EU and UK citizens only, so it does not open a route for Indian nationals, but it is a new category in the UK system to watch as rules are drafted.",
-          "category": "immigration",
-          "badge": "proposal",
-          "sourceUrl": "https://www.cityam.com/burnham-agrees-youth-migration-for-100000-in-eu-summit/"
-        },
-        {
-          "headline": "Wellington Test: day three starts overnight",
-          "summary": "India resume on 159/1, trailing New Zealand's 368 by 209, with KL Rahul unbeaten on 52. There has been no play since this morning's briefing.",
-          "whyItMatters": "A big partnership on day three could give India a first-innings lead and control of the Test.",
-          "category": "sport",
-          "badge": "update",
-          "sourceUrl": "https://www.cricketworld.com/new-zealand-vs-india-1st-test-jaiswal-rahul-lead-indias-strong-response-on-second-day/114442.htm"
-        },
-        {
-          "headline": "Pochettino's first United game is Sunday, not Saturday",
-          "summary": "Liverpool v Manchester United kicks off at 16:30 GMT on Sunday 22 November on Sky Sports; this morning's briefing gave the wrong day. In his first press conference Pochettino kept Bruno Fernandes as captain. Ugarte, Sesko and Baleba are out, Lisandro Martinez is back from suspension and Shaw is a doubt.",
-          "whyItMatters": "A debut at Anfield is a hard first test for United's new manager.",
-          "category": "sport",
-          "badge": "update",
-          "sourceUrl": "https://www.nbcsports.com/soccer/live/mauricio-pochettino-manchester-united-press-conference-today-quotes-reaction-news-2026-november-20"
-        },
-        {
-          "headline": "Cargo Dragon CRS-35 set to leave the ISS",
-          "summary": "SpaceX's CRS-35 Dragon was scheduled to undock from the space station at 16:05 GMT today, with a Pacific splashdown planned for Saturday.",
-          "whyItMatters": "It brings science samples back to Earth and frees a docking port before Cygnus CRS-25 launches, no earlier than 29 November.",
-          "category": "space",
-          "sourceUrl": "https://starlust.org/space-weekly-recap-november-14-november-20-2026-key-stories-you-may-have-missed/"
-        },
-        {
-          "headline": "Hayabusa2 drops its asteroid landing plan",
-          "summary": "Thruster failures mean JAXA's Hayabusa2 will no longer land on asteroid 1998 KY26. It will fly past asteroid 2015 BM510 in April 2028 instead.",
-          "whyItMatters": "Its extended mission loses its main goal, but the spacecraft still has science to do.",
-          "category": "space",
-          "sourceUrl": "https://starlust.org/space-weekly-recap-november-14-november-20-2026-key-stories-you-may-have-missed/"
-        },
-        {
-          "headline": "FTSE 100 falls for a fifth day as the tech rout spreads",
-          "summary": "The FTSE 100 closed Friday down 1.02 percent at 10,346.34 (16:35 GMT). Polar Capital Technology Trust fell 8.3 percent, Halma 6.8 percent and Investec 5.7 percent, while defensive stocks such as Unilever and National Grid rose.",
-          "whyItMatters": "Global selling of AI-linked stocks is now hitting London, and banks and energy names added to the drag.",
-          "category": "markets",
-          "sourceUrl": "https://www.marketscreener.com/news/ftse-100-ends-week-lower-uk-eu-agree-to-deepen-post-brexit-ties-ce785ed3da80f721"
-        },
-        {
-          "headline": "Sensex and Nifty turn sharply higher",
-          "summary": "After a weak open, the Sensex closed Friday up 897.96 points (1.08 percent) at 83,919.71 and the Nifty 50 up 286.30 (1.12 percent) at 25,800.60 (15:30 IST close). Axis Bank, HDFC Bank and Apollo Hospitals led.",
-          "whyItMatters": "Funds are moving out of AI-heavy markets into India, helped by record foreign inflows this month, lower oil prices and a firmer rupee.",
-          "category": "markets",
-          "badge": "update",
-          "sourceUrl": "https://hdfcsky.com/news/market-close-report-today-november-20-2026-nifty-sensex-scale-nine-month-highs-as-investors-dump-global-ai-for-india"
-        },
-        {
-          "headline": "Wall Street: chipmakers drag the Nasdaq down 3%",
-          "summary": "At 12:00 ET on Friday, still trading, the Nasdaq Composite was down 3.31 percent, the S&P 500 1.89 percent and the Dow 0.47 percent. Broadcom fell about 10 percent, with AMD, Micron and Nvidia also sharply lower.",
-          "whyItMatters": "Doubts over whether AI spending will pay off have the S&P 500 and Dow near correction territory, 10 percent below their records.",
-          "category": "markets",
-          "badge": "developing",
-          "sourceUrl": "https://247wallst.com/cards/the-nasdaq-is-shedding-3-31-by-midday-while-the-dow-gives-u-gspc-market-bell-01m7wygvawtxjvw66d0rkd9qb7"
-        },
-        {
-          "headline": "Anthropic gives back much of its debut gain",
-          "summary": "On its second trading day the stock was at 86.90 dollars at 11:20 ET, down about 10.6 percent from Thursday's 97.17 close but still above the 83 dollar IPO price.",
-          "whyItMatters": "As the largest IPO on record, its slide is weighing on sentiment across the AI trade.",
-          "category": "markets",
-          "badge": "developing",
-          "sourceUrl": "https://www.fool.com/investing/2026/11/20/why-anthropic-stock-is-falling-today/"
         }
       ]
     }
