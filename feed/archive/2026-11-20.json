@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-11-20T06:52:42Z",
+  "entries": [
+    {
+      "id": "2026-11-20-morning",
+      "type": "briefing",
+      "edition": "morning",
+      "date": "2026-11-20",
+      "generatedAt": "2026-11-20T06:52:42Z",
+      "title": "Morning Briefing · 20 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/VsQj33ZHnx4JDksq4u6Lun",
+      "headlines": [
+        "AI sell-off spreads to Asia: Nikkei and Kospi down about 4.5% after Wall Street fell 2% on Anthropic's first trading day.",
+        "UK and EU leaders meet in Brussels today to sign off food-trade, carbon-market and youth-mobility deals.",
+        "Cyclone Akvan reaches the coast near Gopalpur; Odisha moved almost 3 lakh people to relief camps.",
+        "Europe rejects a Yalta-style deal on Ukraine and names a seven-member team for talks with Russia.",
+        "India 159/1 in reply to New Zealand's 368 in Wellington after Jaiswal's 85 and Bumrah's 4/92."
+      ],
+      "categories": [
+        {
+          "key": "world",
+          "label": "World",
+          "count": 2
+        },
+        {
+          "key": "uk",
+          "label": "UK",
+          "count": 1
+        },
+        {
+          "key": "india",
+          "label": "India",
+          "count": 2
+        },
+        {
+          "key": "immigration",
+          "label": "UK immigration",
+          "count": 2
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "count": 2
+        },
+        {
+          "key": "space",
+          "label": "Space",
+          "count": 2
+        },
+        {
+          "key": "markets",
+          "label": "Markets",
+          "count": 5
+        }
+      ],
+      "stories": [
+        {
+          "headline": "Berlin talks: Europe wants a seat at the table on Ukraine",
+          "summary": "Chancellor Merz hosted more than 40 delegations, including Macron, Burnham, Zelensky and US envoys Witkoff and Kushner. Leaders said help for Ukraine will continue and named a joint European team for the next round of talks. Moscow has not agreed to include Europe.",
+          "whyItMatters": "The meeting came hours after the Trump-Xi-Putin statement in Shenzhen, which did not mention Ukraine. Europe is trying to make sure no deal is struck over its head.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.euronews.com/2026/11/19/european-leaders-reject-yalta-20-deal-for-ukraine-after-trump-meets-putin-and-xi"
+        },
+        {
+          "headline": "Iran war: Trump makes weapons claims and says he is in no rush",
+          "summary": "Trump said there are signs Iran is looking at chemical or biological weapons; US officials have not published evidence. He later said he is not rushing any decision. Saudi civil defence confirmed a Houthi strike damaged a Riyadh tower, and Iran's Revolutionary Guard claimed two more tankers hit mines in Hormuz, which has not been confirmed.",
+          "whyItMatters": "Unnamed-source reports say new US strikes are becoming more likely, and Hormuz traffic is still far below pre-war levels, keeping oil and inflation risk high.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+        },
+        {
+          "headline": "UK-EU summit today: food, carbon and youth deals on the table",
+          "summary": "Andy Burnham meets Ursula von der Leyen and Antonio Costa in Brussels. Deals are expected on fewer food and farm trade checks, linked emissions-trading schemes and a youth experience scheme for under-30s. EU states approved the package late on Thursday, but UK sign-off and EU student fees were still being argued over.",
+          "whyItMatters": "UK estimates put the food deal at up to 5.1 billion pounds a year and the carbon-market link at up to 3.8 billion pounds. Labour's red lines on the single market, customs union and free movement stay.",
+          "category": "uk",
+          "badge": "developing",
+          "sourceUrl": "https://www.france24.com/en/live-news/20261120-eu-and-uk-eye-reset-deal-at-burnham-s-brussels-summit"
+        },
+        {
+          "headline": "Cyclone Akvan crosses the coast near Gopalpur",
+          "summary": "The IMD said landfall began near Gopalpur on the north Andhra and south Odisha coast, with winds of 80 to 90 km/h gusting to 100 km/h. Odisha moved 2,98,676 people into 2,523 relief camps by Thursday evening. Red alerts cover Srikakulam and Vizianagaram and dozens of trains are cancelled.",
+          "whyItMatters": "A storm surge of up to 1 metre and flash floods are possible in low-lying areas. No casualties had been reported at the time of writing.",
+          "category": "india",
+          "badge": "breaking",
+          "sourceUrl": "https://www.theweek.in/news/india/2026/11/20/cyclone-akvan-landfall-begins-along-andhra-odisha-coast-imd-issues-red-alert.html"
+        },
+        {
+          "headline": "Special Parliament session still not announced",
+          "summary": "Reports last week said the government might hold a special session around 20 to 22 November for a bill linking women's reservation in the Lok Sabha to delimitation. No dates have been officially announced.",
+          "whyItMatters": "The bill needs a two-thirds majority, and reports disagree on whether the NDA has the numbers.",
+          "category": "india",
+          "badge": "unconfirmed",
+          "sourceUrl": "https://www.tribuneindia.com/news/india/govt-may-convene-special-parliament-session-from-nov-20-22/"
+        },
+        {
+          "headline": "No new Immigration Rules overnight",
+          "summary": "No new Statement of Changes has been published. The next commencement date under HC 584 is 30 November. Earned settlement, announced on 2 November, is not yet law; lawyers expect the first rules in December, before the Commons rises on 17 December.",
+          "whyItMatters": "Indian Skilled Worker visa holders planning ILR should not assume the new 10-year default applies to them until the rules and transitional provisions are published.",
+          "category": "immigration",
+          "badge": "status",
+          "sourceUrl": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk"
+        },
+        {
+          "headline": "Work-visa applications have fallen sharply over the year",
+          "summary": "Home Office figures for the year to October 2026 show Skilled Worker main applications down 42 percent to 25,300 and Health and Care Worker main applications down 61 percent to 7,300. Student main applications fell 20 percent to 349,900.",
+          "whyItMatters": "The falls follow the July 2025 salary and skill-level rises. India is one of the largest source countries for these routes.",
+          "category": "immigration",
+          "sourceUrl": "https://www.gov.uk/government/statistics/monthly-entry-clearance-visa-applications-october-2026/monthly-entry-clearance-visa-applications-october-2026"
+        },
+        {
+          "headline": "Wellington Test: India 159/1, trailing by 209",
+          "summary": "New Zealand were bowled out for 368, with Henry Nicholls 175 not out and Glenn Phillips 118. Jasprit Bumrah took 4/92. Yashasvi Jaiswal hit 85 in an opening stand of 130 and KL Rahul is 52 not out.",
+          "whyItMatters": "India have the platform for a first-innings lead in a Test with World Test Championship points at stake. Day three starts at 22:00 GMT tonight.",
+          "category": "sport",
+          "sourceUrl": "https://www.newsbytesapp.com/news/sports/new-zealand-vs-india-1st-test-day-2-report/story"
+        },
+        {
+          "headline": "Pochettino's first Manchester United game is at Anfield on Saturday",
+          "summary": "Liverpool v Manchester United is listed for Saturday 21 November, not Sunday as stated in last night's briefing. The Premier League returns after the international break.",
+          "whyItMatters": "It is Mauricio Pochettino's first match in charge, against United's biggest rival.",
+          "category": "sport",
+          "badge": "update",
+          "sourceUrl": "https://www.foxsports.com/soccer/premier-league-liverpool-vs-manchester-utd-nov-21-2026-game-boxscore-891172"
+        },
+        {
+          "headline": "Vulcan failure traced to fuel supply, not the engines",
+          "summary": "ULA's investigation into Sunday's failed launch points to an inadequate fuel supply to the BE-4 engines rather than the engines themselves. The rocket was carrying 40 Amazon Leo satellites.",
+          "whyItMatters": "It was ULA's first outright mission failure, and Vulcan carries US national-security payloads and Amazon's satellite network.",
+          "category": "space",
+          "sourceUrl": "https://spaceflightnow.com/2026/11/"
+        },
+        {
+          "headline": "SpaceX Space Force launch moved to tonight",
+          "summary": "SpaceX scrubbed Thursday's Falcon 9 launch of the classified USSF-317 mission from Vandenberg. The new window opens at 02:32 GMT on Saturday.",
+          "category": "space",
+          "sourceUrl": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/"
+        },
+        {
+          "headline": "Wall Street drops 2% as the AI trade cracks again",
+          "summary": "At Thursday's close the Dow fell 2.19 percent to 49,097.06, the S&P 500 2.02 percent to 7,175.83 for a sixth straight loss, and the Nasdaq Composite 2.25 percent to 23,879.20. Early gains tied to Anthropic's debut faded, AMD fell about 8 percent and Nvidia 3.3 percent, and Fed rate worries added pressure.",
+          "whyItMatters": "AI chip stocks are on their longest losing run since 2024, which hits portfolios weighted to big tech.",
+          "category": "markets",
+          "sourceUrl": "https://www.wsls.com/business/2026/11/20/asia-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/"
+        },
+        {
+          "headline": "Anthropic ends day one 17% above its IPO price",
+          "summary": "Shares priced at 83 dollars traded as high as about 115 dollars before closing at 97.17 dollars, up 17.1 percent. They slipped to about 92.60 dollars after hours.",
+          "whyItMatters": "The fade from the highs shows how nervous investors are about AI valuations.",
+          "category": "markets",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"
+        },
+        {
+          "headline": "Asia slumps: Nikkei and Kospi down about 4.5%",
+          "summary": "In Friday morning trade the Nikkei 225 fell 4.5 percent to 56,775 and the Kospi 4.5 percent to 4,905, led by chip stocks. The Hang Seng was down nearly 2 percent. Figures as of 03:17 GMT; markets still trading.",
+          "whyItMatters": "The sell-off points to a weak open for Europe.",
+          "category": "markets",
+          "badge": "developing",
+          "sourceUrl": "https://www.wsls.com/business/2026/11/20/asia-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/"
+        },
+        {
+          "headline": "FTSE 100 falls for a fourth day to a six-week low",
+          "summary": "The FTSE 100 closed Thursday down 0.93 percent at 10,452.68. Investec, JD Sports and Vodafone led the fallers, while Babcock rose 9.4 percent on higher profit.",
+          "whyItMatters": "Defensive stocks that usually hold up in a sell-off fell too.",
+          "category": "markets",
+          "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/marktberichte/ftse-100-drops-0-93-prozent-to-10-452-68-as-defensive-stocks-weigh/70538097"
+        },
+        {
+          "headline": "Sensex and Nifty open lower, then turn choppy",
+          "summary": "At 09:38 IST on Friday, still trading, the Sensex was down 0.25 percent at 82,797.27 and the Nifty 50 down 0.32 percent at 25,439.40. Trading has been volatile since the open.",
+          "whyItMatters": "Indian shares are holding up better than the rest of Asia, but the AI sell-off is weighing on sentiment.",
+          "category": "markets",
+          "badge": "developing",
+          "sourceUrl": "https://www.etvbharat.com/en/business/stock-market-on-november-20-sensex-nifty50-top-stocks-and-laggards-crude-oil-prices-fii-buying-enn26112001201"
+        }
+      ]
+    }
+  ]
+}
