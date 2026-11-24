@@ -1,7 +1,246 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-23T18:52:53Z",
+  "lastUpdated": "2026-11-24T06:56:51Z",
   "entries": [
+    {
+      "id": "2026-11-24-morning",
+      "type": "briefing",
+      "edition": "morning",
+      "date": "2026-11-24",
+      "generatedAt": "2026-11-24T06:56:51Z",
+      "title": "Morning Briefing · 24 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/Pqujp13f3ahv1eTiEJYw6Q",
+      "headlines": [
+        "Nvidia's 31% surge gives Wall Street its best day since April 2025",
+        "Iran claims three tankers hit mines in Hormuz, with no independent confirmation",
+        "EU proposes its 22nd Russia sanctions package, including a sports ban",
+        "Zelensky warns new Russian strikes are coming as NATO sends an AWACS to Poland",
+        "The UK will host the 2035 Women's World Cup"
+      ],
+      "categories": [
+        {
+          "key": "world",
+          "label": "World",
+          "count": 4
+        },
+        {
+          "key": "uk",
+          "label": "UK",
+          "count": 3
+        },
+        {
+          "key": "india",
+          "label": "India",
+          "count": 3
+        },
+        {
+          "key": "immigration",
+          "label": "UK immigration",
+          "count": 1
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "count": 5
+        },
+        {
+          "key": "space",
+          "label": "Space",
+          "count": 3
+        },
+        {
+          "key": "markets",
+          "label": "Markets",
+          "count": 4
+        }
+      ],
+      "stories": [
+        {
+          "headline": "Iran says three tankers hit mines in the Strait of Hormuz",
+          "summary": "Late on Monday, Iran's Revolutionary Guard navy said three oil tankers struck naval mines in the strait and caught fire, and that US escorts and air cover failed to stop it. It gave no ship names, flags or casualty figures. UKMTO, the US military and ship operators have not confirmed the claim. Also on Monday, the US Treasury sanctioned about two dozen Iranian front companies and exchange houses.",
+          "whyItMatters": "If confirmed, these would be the first hits on ships under US escort since the blockade began, a direct test of Washington's strategy and a risk to oil supplies.",
+          "category": "world",
+          "badge": "unconfirmed",
+          "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines"
+        },
+        {
+          "headline": "EU proposes a 22nd sanctions package against Russia, reaching into sport",
+          "summary": "Ursula von der Leyen proposed cutting 60 more Russian banks off SWIFT and setting up a crypto task force on countries that help Russia get around sanctions. Russian teams and athletes would be barred from competing under the Russian flag at events in the EU. Russians who fought in Ukraine would be refused EU visas.",
+          "whyItMatters": "This is the EU's first sanctions move into sport and culture. All 27 member states must approve it, so one holdout could delay or weaken it.",
+          "category": "world",
+          "badge": "proposal",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal"
+        },
+        {
+          "headline": "Zelensky warns of new Russian strikes as NATO sends an AWACS to Poland",
+          "summary": "In his Monday night address, Zelensky said Ukrainian intelligence shows Russia preparing fresh strikes, and he asked partners for more air-defence missiles, especially for Patriot systems. After Monday's emergency council, NATO authorised an AWACS early-warning aircraft for Poland and said Russia bears full responsibility for the Kh-101 missiles. Poland decided not to request formal Article 4 talks.",
+          "whyItMatters": "Another mass strike on Ukraine looks likely within days, and NATO is strengthening its eastern flank without formal crisis talks.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.lbc.co.uk/article/zelenskyy-intelligence-russia-planning-new-strikes-ukraine-5HjdnRW_2/"
+        },
+        {
+          "headline": "South Korea scrambles jets as Russian warplanes enter its air defence zone",
+          "summary": "Early on Tuesday, Russian military aircraft entered South Korea's air defence identification zone near Ulleung Island, and Seoul scrambled fighters. A mistaken alert sent island residents to shelters for about three minutes and briefly said the planes were North Korean. Seoul is summoning a Russian diplomat today.",
+          "whyItMatters": "Russian military pressure is now being felt in East Asia as well as Europe, and the false alarm raises questions about South Korea's warning system.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.koreatimes.co.kr/southkorea/defense/20261124/s-korea-briefly-issues-alert-on-eastern-island-after-russian-airplanes-enter-air-defense-zone"
+        },
+        {
+          "headline": "The UK will host the 2035 Women's World Cup",
+          "summary": "At an online congress on Monday, FIFA approved the joint bid from England, Scotland, Wales and Northern Ireland, which was unopposed. The tournament will have 48 teams and 104 matches over 39 days. The bid proposes 22 stadiums in 16 cities, and FIFA will confirm the venues later. The 2031 tournament goes to the US, Mexico, Costa Rica and Jamaica.",
+          "whyItMatters": "It is the biggest football tournament in the UK since 1966. Burnham says it will bring visitors, investment and jobs, but no public funding figure has been given.",
+          "category": "uk",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.thefa.com/news/2026/nov/23/united-kingdom-to-host-fifa-womens-world-cup-2025-20262311"
+        },
+        {
+          "headline": "Finance Bill clears its first Commons vote",
+          "summary": "MPs gave the Finance Bill, which puts the 28 October Budget into law, a second reading just before 11pm on Monday. Reports citing the Commons division list put the vote at 311 to 164; this briefing has not checked that against the official record. The bill now goes to a committee of the whole House on 30 November and 1 December.",
+          "whyItMatters": "The government's tax plans cleared their first vote comfortably, with detailed scrutiny still to come.",
+          "category": "uk",
+          "badge": "unconfirmed",
+          "sourceUrl": "https://www.kucoin.com/news/flash/uk-house-of-commons-passes-second-reading-of-fiscal-bill-stablecoin-capital-gains-tax-exemption-proposed"
+        },
+        {
+          "headline": "Tube strike from midday on Thursday",
+          "summary": "The RMT has called a 24-hour Underground strike from 12:00 on Thursday 26 November to 11:59 on Friday 27 November. TfL warns that all 11 lines could be disrupted. The Elizabeth line, Overground and DLR are expected to run but will be busier. The dispute is over changes to drivers' working arrangements, and seven more strike days are planned from 17 December.",
+          "whyItMatters": "Anyone commuting into London on Thursday afternoon or Friday morning should plan another route.",
+          "category": "uk",
+          "badge": "confirmed",
+          "sourceUrl": "https://uk.news.yahoo.com/11-london-tube-lines-face-124942497.html"
+        },
+        {
+          "headline": "Parliament passes 100 days in limbo with no Winter Session date",
+          "summary": "Both Houses were adjourned on 13 August, but the Monsoon Session has still not been formally ended, and no Winter Session dates have been set. Opposition leaders say the delay breaks convention. They suspect the government wants to keep the session open to retry the delimitation and women's-reservation amendment, which fell short of a two-thirds majority in the Lok Sabha. Kiren Rijiju says the Constitution sets no deadline for prorogation.",
+          "whyItMatters": "When Parliament next sits, and whether that amendment returns, is the biggest open political question in Delhi.",
+          "category": "india",
+          "badge": "developing",
+          "sourceUrl": "https://theprint.in/politics/bofors-to-nuclear-deal-when-parliament-wouldnt-call-it-a-day-and-why-current-101-day-pause-matters/3105620/"
+        },
+        {
+          "headline": "Congress and SP move closer to a seat deal for Uttar Pradesh 2027",
+          "summary": "Samajwadi Party and Congress negotiators met in Delhi on Monday, and a second round is due today. Reports say Congress has cut its demand from 181 to about 130 of the state's 403 seats, and both sides expect a deal within two or three days once Akhilesh Yadav has reviewed the list. The seat numbers have not been officially announced.",
+          "whyItMatters": "The two parties fought the 2022 election separately. A deal would rebuild the main opposition alliance against the BJP in India's largest state.",
+          "category": "india",
+          "badge": "developing",
+          "sourceUrl": "https://www.theweek.in/news/india/2026/11/23/congress-sp-seat-sharing-talks-uttar-pradesh-elections.html"
+        },
+        {
+          "headline": "Supreme Court asks the Centre to respond on anti-defection reform",
+          "summary": "A bench led by Chief Justice Surya Kant issued notice on Monday on a petition arguing that lawmakers use tactical resignations to avoid disqualification under the Tenth Schedule. The Centre, the Election Commission, the Law Commission and two ministries must respond. No next hearing date has been set.",
+          "whyItMatters": "The case could tighten the rules on defections, which have repeatedly brought down state governments.",
+          "category": "india",
+          "badge": "update",
+          "sourceUrl": "https://theprint.in/india/sc-seeks-response-of-centre-ec-on-pil-for-reforms-in-anti-defection-law/3106281/"
+        },
+        {
+          "headline": "No new Immigration Rules or Home Office announcements overnight",
+          "summary": "GOV.UK shows no new Statement of Changes; HC 584 (3 September 2026) is still the latest. The only Home Office items dated 23 November were statistics notices. Earned settlement, with 10-year ILR as the default and shorter routes for high earners, is still a proposal: rules have not been laid and there is no start date. Advisers expect rules in December. The next confirmed change is higher student maintenance funds for applications made from Monday 30 November.",
+          "whyItMatters": "Indian Skilled Worker visa holders and ILR applicants have no new rules to act on today.",
+          "category": "immigration",
+          "badge": "status",
+          "sourceUrl": "https://www.gov.uk/guidance/immigration-rules/updates"
+        },
+        {
+          "headline": "Brentford beat 10-man Everton 4-0",
+          "summary": "Keane Lewis-Potter scored twice in quick succession midway through the first half on Monday night. Everton captain James Tarkowski was sent off on 40 minutes after a VAR review upgraded his yellow card to red. Vitaly Janelt and substitute Fabio Carvalho added the others.",
+          "whyItMatters": "Brentford move up to sixth in the Premier League, a point ahead of Everton, who drop to ninth.",
+          "category": "sport",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.skysports.com/football/brentford-vs-everton/report/559546"
+        },
+        {
+          "headline": "Champions League: Villa, Arsenal and City in action",
+          "summary": "Galatasaray v Aston Villa is at 17:45 GMT. Villa are without Matty Cash and Amadou Onana, and the hosts are missing Victor Osimhen. Arsenal v Dortmund and Man City v Napoli kick off at 20:00. Enzo Maresca's City are without Antoine Semenyo. Napoli are missing several defenders, and Kevin De Bruyne and Scott McTominay return to Manchester.",
+          "whyItMatters": "City have taken one point from their last four league games, and a win here would steady them before Sunday's trip to Arsenal.",
+          "category": "sport",
+          "badge": "update",
+          "sourceUrl": "https://www.football365.com/match-preview/man-city-vs-napoli-choose-cherki-to-strike-against-italians-after-team-news"
+        },
+        {
+          "headline": "India A must beat UAE at the Rising Stars Asia Cup",
+          "summary": "After Sunday's 48-run loss to Pakistan A, who are through to the semi-finals, India A play UAE in Doha at 10:00 GMT (15:30 IST) needing a win to stay in contention. The semi-finals are on 26 and 27 November and the final is on 29 November.",
+          "whyItMatters": "If India A go through, an India-Pakistan final is still possible.",
+          "category": "sport",
+          "badge": "update",
+          "sourceUrl": "https://crictoday.com/news/india-a-must-beat-united-arab-emirates-to-reach-semi-finals-12835812"
+        },
+        {
+          "headline": "England chase a series-levelling win in the second T20I",
+          "summary": "The second of five T20Is starts at 08:15 GMT at Carrara Oval on the Gold Coast, with Australia 1-0 up. In the MCG opener, Australia chased down England's 187/9 with one ball to spare, despite 65 off 28 balls from Harry Brook.",
+          "whyItMatters": "England won the ODI series 2-1 and need a win today to keep pace in the T20 series.",
+          "category": "sport",
+          "badge": "update",
+          "sourceUrl": "https://www.espn.com/cricket/series/24273/report/1528706/australia-vs-england-1st-t20i-24273"
+        },
+        {
+          "headline": "Reports: Tickner out of the Christchurch Test, Fisher called up",
+          "summary": "New Zealand seamer Blair Tickner is reported to have hurt his right hamstring in training and to be out of the second Test against India, which starts at Hagley Oval at 22:00 GMT on Thursday. Matt Fisher reportedly joins the squad, with Tom Latham captaining. This briefing could not find New Zealand Cricket's own announcement.",
+          "whyItMatters": "It would leave New Zealand's attack weaker, with Mitchell Santner already injured.",
+          "category": "sport",
+          "badge": "unconfirmed",
+          "sourceUrl": "https://www.thesports247.com/new-zealand-face-fresh-injury-setback-ahead-of-second-test-against-india/"
+        },
+        {
+          "headline": "China confirms Shenzhou-24 for 00:18 GMT on Wednesday",
+          "summary": "The China Manned Space Agency has confirmed the launch from Jiuquan for 08:18 Beijing time on Wednesday, which is 00:18 GMT. The crew is commander Tang Hongbo, Wu Yi and Pakistani payload specialist Muhammad Zeeshan Ali. Ali will make a short stay and return on Shenzhou-23.",
+          "whyItMatters": "Ali will be Pakistan's first astronaut and the first foreign astronaut on China's Tiangong station.",
+          "category": "space",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.thestandard.com.hk/china/article/349435/China-to-launch-Shenzhou-24-spaceship-with-first-foreign-astronaut"
+        },
+        {
+          "headline": "Ariane 6 tries again today with 36 Amazon Leo satellites",
+          "summary": "A ground support problem stopped Monday's countdown. Arianespace has moved the launch to today, with a window from 10:45 to 11:14 GMT from Kourou. It will be the tenth Ariane 6 flight.",
+          "whyItMatters": "Amazon is short of rockets for its satellite network after a Vulcan failure on 15 November lost 40 of its satellites.",
+          "category": "space",
+          "badge": "developing",
+          "sourceUrl": "https://newsroom.arianespace.com/mission-va271le-04-ariane-6-launch-rescheduled-for-november-24-2026/"
+        },
+        {
+          "headline": "Gaganyaan G1 uncrewed flight reportedly slips to February",
+          "summary": "India Today, citing an unnamed senior ISRO official, reports that G1, which will carry the Vyommitra robot, is unlikely to fly before February 2027 because of extra simulations. ISRO's chairman had named December as the target on 12 November, and ISRO has not confirmed the delay.",
+          "whyItMatters": "India's first crewed flight, H1, cannot go until G1 has flown successfully.",
+          "category": "space",
+          "badge": "unconfirmed",
+          "sourceUrl": "https://www.newsbytesapp.com/news/science/gaganyaan-s-first-uncrewed-launch-pushed-to-february-2027-report/story"
+        },
+        {
+          "headline": "Wall Street has its best day since April 2025",
+          "summary": "The S&P 500 closed up 4.73% at 7,237.17, the Dow up 3.01% (+1,447.98) at 49,595.31, and the Nasdaq Composite up 6.51% at 24,089.56. Nvidia rose about 31.5% to $165.05 after its board brought back Jensen Huang as CEO; Reuters says it was the stock's biggest one-day gain in 23 years. Dell, Micron and CoreWeave rose 15–22%, and analysts say forced buying from short-sellers covering their bets added to the gains.",
+          "whyItMatters": "The rally ended a run of seven straight S&P 500 losses that had pushed the indices into correction territory. It also shows how closely the AI trade is tied to one CEO.",
+          "category": "markets",
+          "badge": "update",
+          "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-futures-021343688.html"
+        },
+        {
+          "headline": "FTSE 100 bounced 1.3%; Compass and Kingfisher report today",
+          "summary": "London closed on Monday at 10,480.82, up 134.48 points, led by tech trusts, Rolls-Royce and Standard Chartered, while Vodafone fell 5.1% after a Citi downgrade. Today brings full-year results from Compass Group, which the FT says may announce a move of its main listing to New York, plus updates from Kingfisher and AO World. Early indications point to the FTSE opening slightly higher at 08:00 GMT.",
+          "whyItMatters": "If Compass moves its main listing to New York, the London market loses another major company.",
+          "category": "markets",
+          "badge": "update",
+          "sourceUrl": "https://www.share-talk.com/ftse-100-jumps-134-points-as-nvidia-news-fuels-global-stock-rally/"
+        },
+        {
+          "headline": "Indian markets closed today for Guru Nanak Jayanti",
+          "summary": "NSE and BSE are shut on Tuesday and reopen on Wednesday 25 November. On Monday, the Sensex fell 1,483.72 points (1.77%) to 82,435.99 and the Nifty 50 fell 450.95 (1.75%) to 25,349.65. Banks and metals fell most, with profit-taking near record highs, monthly F&O expiry and a rupee at about 92.85 to the dollar.",
+          "whyItMatters": "Indian stocks missed Monday's US tech surge, so Wednesday's open will show whether they catch up.",
+          "category": "markets",
+          "badge": "status",
+          "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-holiday-today-nse-bse-closed-for-trading-on-gurpurab-2026-126112300598_1.html"
+        },
+        {
+          "headline": "Asian chip stocks soar on the Nvidia rebound",
+          "summary": "Still trading: South Korea's Kospi was up 6.9% at 5,033.21 at 05:00 GMT, with Samsung and SK Hynix up about 8%, and Taiwan was up more than 9% earlier in the session. Japan's Nikkei, back from a holiday, was up 4.4% at about 02:46 GMT. Hong Kong lagged with small gains. US futures were a little higher at 06:10 GMT.",
+          "whyItMatters": "Asia's chipmakers had led last week's AI sell-off, so the size of today's bounce shows how quickly sentiment has turned.",
+          "category": "markets",
+          "badge": "developing",
+          "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-23-evening",
       "type": "briefing",
@@ -810,299 +1049,6 @@
           "category": "markets",
           "badge": "developing",
           "sourceUrl": "https://www.ibtimes.com.au/oil-prices-tanker-fire-strait-hormuz-weekly-loss-1879042"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-21-evening",
-      "type": "briefing",
-      "edition": "evening",
-      "date": "2026-11-21",
-      "generatedAt": "2026-11-21T18:53:53Z",
-      "title": "Evening Briefing · 21 November 2026",
-      "artifactUrl": "https://claude.ai/artifact/GmhgNCfHQtwMWToDAwJG55",
-      "headlines": [
-        "Tankers hit near the Strait of Hormuz as Iran blames sea mines; who fired is unverified",
-        "NATO vows to defend every inch of Poland after Russian missiles land on Polish soil",
-        "Bennett backs an Eisenkot-led unity government in Israel; Likud talks begin Sunday",
-        "Modi opens the Nitish Setu bridge over the Ganga and launches Rs 34,470 crore of projects",
-        "England beat the All Blacks 37-12 and Leeds win 4-1 at Chelsea"
-      ],
-      "categories": [
-        {
-          "key": "world",
-          "label": "World",
-          "count": 6
-        },
-        {
-          "key": "uk",
-          "label": "UK",
-          "count": 4
-        },
-        {
-          "key": "india",
-          "label": "India",
-          "count": 5
-        },
-        {
-          "key": "immigration",
-          "label": "UK immigration",
-          "count": 3
-        },
-        {
-          "key": "sport",
-          "label": "Sport",
-          "count": 6
-        },
-        {
-          "key": "space",
-          "label": "Space",
-          "count": 3
-        },
-        {
-          "key": "markets",
-          "label": "Markets",
-          "count": 4
-        }
-      ],
-      "stories": [
-        {
-          "headline": "Tankers struck near Khasab as Iran blames sea mines",
-          "summary": "UKMTO reported two incidents on Saturday: an outbound tanker hit on the stern by an unidentified projectile about 11 nautical miles north of Khasab, Oman, and a tanker hit in the engine room 17nm east of the port, with no casualties reported. Iran's navy says a tanker that caught fire on Friday hit a naval mine, and the IRGC claims to have downed two US drones, which the US has not confirmed.",
-          "whyItMatters": "Before the war, nearly a fifth of the world's crude passed through the strait, so shipping attacks there are the main risk to oil prices and freight costs.",
-          "category": "world",
-          "badge": "developing",
-          "sourceUrl": "https://whbl.com/2026/11/21/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says/"
-        },
-        {
-          "headline": "Russian missiles land in Poland; NATO chief visits Warsaw",
-          "summary": "During Russia's overnight attack on Ukraine, two missiles and a jet-powered drone came down in south-east Poland, injuring no one. Donald Tusk called it an intentional provocation. On Saturday Mark Rutte said in Warsaw that NATO will defend all of Poland's territory, and the North Atlantic Council meets on Monday.",
-          "whyItMatters": "It is the most serious breach of NATO airspace in the war so far, a day after the Shenzhen declaration promised strategic stability.",
-          "category": "world",
-          "badge": "update",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"
-        },
-        {
-          "headline": "Drones hit a Russian cargo ship in the Gulf of Finland",
-          "summary": "Two drones struck the Kaliningrad-bound cargo ship Sparta II in international waters west of Gogland island on Saturday morning, starting a fire on board. Finland restricted air and sea traffic in the eastern gulf. No one has claimed the attack.",
-          "whyItMatters": "The war is reaching into the Baltic, right on NATO's border, so the risk of an incident involving alliance members is rising.",
-          "category": "world",
-          "badge": "developing",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
-        },
-        {
-          "headline": "Three Houthi missiles aimed at Riyadh are intercepted",
-          "summary": "The Saudi-led coalition says it shot down three ballistic missiles fired at the Saudi capital early on Saturday, as well as a drone heading for the south. No casualties were reported. Two days earlier a Houthi strike damaged the Public Investment Fund tower in Riyadh.",
-          "whyItMatters": "Saudi Arabia is being drawn directly into the wider Iran conflict, which puts Gulf aviation and Red Sea ports at risk.",
-          "category": "world",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh"
-        },
-        {
-          "headline": "Israel: Bennett backs Eisenkot for a unity government",
-          "summary": "On Saturday evening Naftali Bennett endorsed a broad government led by Gadi Eisenkot and said he would not sit with Netanyahu under any circumstances. Eisenkot's Yashar party has invited Likud to marathon coalition talks starting Sunday, with 29 days left on his mandate.",
-          "whyItMatters": "Netanyahu's way back to power is getting narrower. If no deal is reached, the fallback is a minority government.",
-          "category": "world",
-          "badge": "developing",
-          "sourceUrl": "https://www.timesofisrael.com/liveblog-november-21-2026/"
-        },
-        {
-          "headline": "Shenzhen declaration: Ukraine clause reportedly cut at US request",
-          "summary": "Finland's President Alexander Stubb said in Berlin that a passage on Ukraine was removed from the Trump-Xi-Putin text because Washington asked for it. In Kryvyi Rih, the number injured in Friday's attack has risen to 60, and two people were killed.",
-          "whyItMatters": "European leaders worry that big-power deals are being made without Kyiv. The account comes from Stubb and the US has not confirmed it.",
-          "category": "world",
-          "badge": "update",
-          "sourceUrl": "https://www.kyivpost.com/post/90722"
-        },
-        {
-          "headline": "Barnham votes 257-16 in symbolic leave-the-UK ballot",
-          "summary": "Residents of the Suffolk village held a non-binding vote on Saturday to protest Home Office plans to house up to 931 single men seeking asylum at the former RAF Barnham site. A 3.4 million pound design contract has been awarded, but no final decision has been taken.",
-          "whyItMatters": "Plans for large asylum sites are turning into local flashpoints, and Reform UK is using them in its campaigning.",
-          "category": "uk",
-          "sourceUrl": "https://hellorayo.co.uk/news/uk/news/barnham-votes-symbolically-to-leave-uk"
-        },
-        {
-          "headline": "SNP would keep Burnham in No 10 in a hung parliament, report says",
-          "summary": "ITV Border, citing unnamed sources, reports that the SNP leadership would vote to keep Andy Burnham as prime minister after the next election without upfront demands, then use confidence-and-supply leverage to press for a second independence referendum. Burnham has ruled out a second referendum.",
-          "whyItMatters": "The report suggests parties are already planning for a hung parliament and the deals that would follow.",
-          "category": "uk",
-          "badge": "unconfirmed",
-          "sourceUrl": "https://www.itv.com/news/border/2026-11-21/snp-will-make-andy-burnham-prime-minister-in-hung-parliament"
-        },
-        {
-          "headline": "Independent review ordered into NHS Grampian surgery deaths",
-          "summary": "Scotland's Health Secretary Angela Constance ordered an independent review of liver and pancreatic surgery at NHS Grampian, after a 2022 whistleblower report found 19 of 31 deaths avoidable. She will make a statement to Holyrood on Tuesday.",
-          "whyItMatters": "It is a serious patient-safety case, and it raises questions about how the Scottish government dealt with the warnings.",
-          "category": "uk",
-          "sourceUrl": "https://www.kentonline.co.uk/news/national/independent-review-ordered-after-nhs-grampian-revelations-174590/"
-        },
-        {
-          "headline": "Yellow rain warning for Devon and Cornwall on Sunday",
-          "summary": "The Met Office warning runs from 06:00 to 23:59 on Sunday, with 20 to 40mm of rain widely, 60 to 80mm in parts of south Devon and Cornwall, and possibly more than 100mm on Dartmoor.",
-          "whyItMatters": "Flooding, travel disruption and power cuts are possible in the south-west.",
-          "category": "uk",
-          "sourceUrl": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/heavy-rain-for-southwest-on-sunday-with-warning-issued"
-        },
-        {
-          "headline": "Modi opens Nitish Setu and launches Rs 34,470 crore of projects",
-          "summary": "In Vaishali, the Prime Minister opened the six-lane Kachchi Dargah to Bidupur bridge over the Ganga, named Nitish Setu after the former chief minister, which runs 9.76km over the river and took about 14 years to build. He also announced a Rs 6,000 crore steel project in Gaya and flagged off 100 electric buses.",
-          "whyItMatters": "It is a showcase project for the NDA government in Bihar. The RJD has called the naming an insult, and the claim that it is India's longest river bridge has not been officially confirmed.",
-          "category": "india",
-          "badge": "update",
-          "sourceUrl": "https://www.pmindia.gov.in/en/news_updates/pms-address-during-inauguration-of-nitish-setu-and-launch-of-other-development-projects-in-vaishali-bihar/"
-        },
-        {
-          "headline": "Manipur toxic liquor deaths rise to 16",
-          "summary": "The toll, given as 11 this morning, is now 16: nine in Chandel district and seven in Kakching. Outlets give between 370 and 600 people treated in hospital, six people have been arrested, and a state committee has a month to report.",
-          "whyItMatters": "It is one of the worst hooch tragedies in the north-east in years, and the toll may rise further.",
-          "category": "india",
-          "badge": "developing",
-          "sourceUrl": "https://www.thedailyjagran.com/india/news/manipur-death-toll-rises-to-16-over-600-hospitalised-after-consuming-suspected-spurious-liquor-6-arrested-10337171"
-        },
-        {
-          "headline": "Ladakh holds first local polls since becoming a Union Territory",
-          "summary": "Turnout was about 70 percent for sarpanch seats and 52 percent in municipal wards in Leh and Kargil, in the first grassroots elections since 2019. The Leh Apex Body has been on hunger strike since 12 November, demanding that the 4 December hill council polls be postponed.",
-          "whyItMatters": "The turnout is a test of public engagement in Ladakh amid local demands for constitutional safeguards.",
-          "category": "india",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.dailyexcelsior.com/ladakh-panchayat-elections-record-70-03-turnout-52-40-in-municipal-polls"
-        },
-        {
-          "headline": "India to host WorldSkills Asia 2027 in Greater Noida",
-          "summary": "Speaking at a skills convocation in Lucknow, Modi announced the event and highlighted Rs 60,000 crore under the PM-SETU scheme to upgrade ITIs, with new trades including AI, drones and green hydrogen.",
-          "whyItMatters": "The skills drive is central to India's jobs strategy, and the announcement came in Uttar Pradesh ahead of its 2027 election.",
-          "category": "india",
-          "badge": "confirmed",
-          "sourceUrl": "https://ddindia.co.in/2026/11/pm-modi-calls-for-greater-respect-for-skills-says-india-moving-towards-becoming-global-skill-capital/"
-        },
-        {
-          "headline": "Cyclone Akvan passes Odisha without loss of life",
-          "summary": "Akvan crossed the coast near Gopalpur on Friday with winds of 70 to 80km/h after about 3.7 lakh people were evacuated. On Saturday the state said there were no deaths and promised input subsidies to farmers whose paddy was damaged.",
-          "whyItMatters": "Early evacuation worked, but it was Odisha's third cyclone threat in under a month and the harvest has been hit.",
-          "category": "india",
-          "badge": "update",
-          "sourceUrl": "https://ddnews.gov.in/en/cyclone-akvan-makes-landfall-along-odisha-coast-brings-in-heavy-rain/"
-        },
-        {
-          "headline": "No new Immigration Rules today",
-          "summary": "No new Statement of Changes has appeared since this morning; the latest remains HC 584 of 3 September. Its rise in student maintenance funds (to 1,570 pounds a month in London and 1,203 pounds elsewhere) applies to applications made on or after 30 November. The GOV.UK collection page could not be loaded on this run, so the check relied on GOV.UK search results.",
-          "whyItMatters": "Skilled Worker, settlement and fee rules are unchanged as of tonight.",
-          "category": "immigration",
-          "badge": "status",
-          "sourceUrl": "https://assets.publishing.service.gov.uk/media/6a96e3559a177a1decf97c25/E03678010__HC_584__-_Immigration_Rules_Changes__Web_Accessible_.pdf"
-        },
-        {
-          "headline": "Earned settlement: policy set, but rules not yet laid",
-          "summary": "The Home Office's 2 November plan raises the standard qualifying period for ILR from five to ten years, with shorter routes planned for higher earners and some public-service roles. GOV.UK gives no start date. Law firms expect the rules to start appearing in a December Statement of Changes.",
-          "whyItMatters": "The plan has no general protection for people already in the UK, so Indian Skilled Workers earning below about 50,271 pounds could face a ten-year wait.",
-          "category": "immigration",
-          "badge": "proposal",
-          "sourceUrl": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk"
-        },
-        {
-          "headline": "Migration Advisory Committee reviews talent visas",
-          "summary": "The MAC's Talent Routes Review, published on 17 November, says Global Talent broadly works. It suggests an income test and evidence of continued activity in the applicant's field at settlement, and recommends abolishing or overhauling Innovator Founder. The government has not responded.",
-          "whyItMatters": "These are recommendations only. A separate MAC report will decide whether Skilled Workers can use the fastest three-year settlement route.",
-          "category": "immigration",
-          "badge": "proposal",
-          "sourceUrl": "https://www.gov.uk/government/publications/talent-routes-review"
-        },
-        {
-          "headline": "Wellington Test: India lead by 118 going into day four",
-          "summary": "India are 486/4 in reply to New Zealand's 368, after KL Rahul's 136 and Shubman Gill's 98, with Rishabh Pant unbeaten on 55. Day four starts at about 22:00 GMT tonight.",
-          "whyItMatters": "India can push for a big lead and try to force a result on a slow pitch. New Zealand are likely to bat for a draw.",
-          "category": "sport",
-          "sourceUrl": "https://www.orissapost.com/day-3-stumps-rahuls-136-gills-98-guide-india-to-486-4-against-nz/"
-        },
-        {
-          "headline": "Leeds win 4-1 at Chelsea",
-          "summary": "Noah Okafor scored twice and Calvert-Lewin and Aaronson added goals as Leeds came from behind for their first league win at Stamford Bridge since 1999. In other 15:00 games, Spurs beat Ipswich 2-0, Bournemouth beat Forest 2-0, Coventry beat Palace 3-2, and Villa and Sunderland drew 0-0.",
-          "whyItMatters": "Leeds move up to sixth. The defeat adds pressure on Xabi Alonso at Chelsea.",
-          "category": "sport",
-          "badge": "confirmed",
-          "sourceUrl": "https://theanalyst.com/articles/chelsea-1-4-leeds-stats-premier-league-11-2026"
-        },
-        {
-          "headline": "Man City held 1-1 by Fulham",
-          "summary": "Rodrigo Muniz put Fulham ahead and Elliot Anderson equalised for City, while Haaland had a goal ruled out after a review. The draw ends City's run of 20 straight wins over Fulham, which began in 2012.",
-          "whyItMatters": "City have now gone four league games without a win, which helps leaders Arsenal.",
-          "category": "sport",
-          "badge": "confirmed",
-          "sourceUrl": "https://tsn.ca/soccer/article/man-citys-14-year-winning-run-against-fulham-is-over-after-draw-in-premier-league"
-        },
-        {
-          "headline": "Newcastle v Arsenal: Arsenal led 1-0 at half-time",
-          "summary": "Eberechi Eze scored on 33 minutes from a Kai Havertz pass at St James' Park. The second half was under way when this briefing was written, and the final score is not included.",
-          "whyItMatters": "A win would put the leaders, already on 27 points, further clear of City.",
-          "category": "sport",
-          "badge": "developing",
-          "sourceUrl": "https://www.espn.in/football/match/_/gameId/401879232"
-        },
-        {
-          "headline": "England beat New Zealand 37-12; Ireland edge South Africa",
-          "summary": "England scored five tries at Twickenham for their first back-to-back wins over the All Blacks since 2002. In Dublin, Ireland beat South Africa 20-17, with two tries from Robert Baloucoune.",
-          "whyItMatters": "England go top of the northern table, depending on France v Argentina tonight.",
-          "category": "sport",
-          "badge": "confirmed",
-          "sourceUrl": "https://rugby365.com/countries/england/england-expose-all-blacks-weaknesses-in-twickenham-masterclass/"
-        },
-        {
-          "headline": "F1: Verstappen on pole in Las Vegas",
-          "summary": "Kimi Antonelli was fastest in qualifying but takes a five-place engine penalty, so Max Verstappen starts first ahead of George Russell and Lando Norris. The race runs overnight UK time.",
-          "category": "sport",
-          "sourceUrl": "https://racingnews365.com/2026-f1-las-vegas-grand-prix-qualifying-results"
-        },
-        {
-          "headline": "Cargo Dragon due to splash down at about 21:55 GMT",
-          "summary": "SpaceX's CRS-35 capsule left the space station on Friday and is due to land off California tonight, carrying research samples that include a 3D-bioprinted blood vessel. NASA is not streaming the splashdown.",
-          "category": "space",
-          "badge": "developing",
-          "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth"
-        },
-        {
-          "headline": "ISRO targets December for first uncrewed Gaganyaan flight",
-          "summary": "ISRO chairman V Narayanan says the G1 mission will fly in December on a human-rated LVM3, carrying the humanoid robot Vyommitra, with the first crewed flight aimed for early 2027. No launch date has been announced.",
-          "whyItMatters": "It is the last big step before India's first human spaceflight, and the mission has already slipped twice.",
-          "category": "space",
-          "badge": "unconfirmed",
-          "sourceUrl": "https://www.businesstoday.in/latest/trends/photo/gaganyaans-first-test-flight-is-set-for-december-what-flies-what-it-tests-and-when-astronauts-follow-568238-2026-11-18"
-        },
-        {
-          "headline": "China's Shenzhou-24 may carry a Pakistani astronaut",
-          "summary": "The rocket has been rolled out at Jiuquan, and observers expect launch on 25 November with the first foreign astronaut to visit China's Tiangong station. China has not officially named the date or the crew.",
-          "whyItMatters": "It would be a China-Pakistan milestone, and it will be watched closely in India while Gaganyaan waits.",
-          "category": "space",
-          "badge": "unconfirmed",
-          "sourceUrl": "https://spacepolicyonline.com/events/launch-of-shenzhou-24-with-pakistani-astronaut-nov-24-2026-jiuquan-china-time-tba/"
-        },
-        {
-          "headline": "Wall Street ends a brutal week in correction",
-          "summary": "Friday 20 Nov close (16:00 ET), markets closed today: S&P 500 down 3.70 percent at 6,910.39 (down 8.6 percent on the week), Dow down 1.93 percent at 48,147.33 (down 8.0 percent), Nasdaq Composite down 5.28 percent at 22,617.73 (down 10.0 percent). Nvidia fell 14 percent on a Reuters report of an SEC accounting review, leaving it down 23 percent on the week, and Fed minutes leaned toward rate rises.",
-          "whyItMatters": "The AI trade that drove this year's gains is unwinding quickly. Monday's open will show whether the selling is slowing.",
-          "category": "markets",
-          "sourceUrl": "https://www.yakimaherald.com/news/nation_and_world/business/how-major-us-stock-indexes-fared-friday-11-20-2026/article_963ce6d2-85a3-5fd6-981d-e60b72a58fbb.html"
-        },
-        {
-          "headline": "FTSE 100 falls 5.1 percent over the week",
-          "summary": "Friday 20 Nov close (16:35 GMT): FTSE 100 down 1.02 percent at 10,346.34, its fifth straight fall. Tech-linked names such as Polar Capital Technology and Halma fell hardest, while defensive stocks such as Unilever rose.",
-          "whyItMatters": "The global tech sell-off is hitting UK pensions and ISAs, even though London holds relatively few tech shares.",
-          "category": "markets",
-          "sourceUrl": "https://www.marketscreener.com/news/ftse-100-tumbles-as-global-tech-rout-takes-hold-ce785ed3dd89f120"
-        },
-        {
-          "headline": "Sensex and Nifty at nine-month highs as funds rotate to India",
-          "summary": "Friday 20 Nov close (15:30 IST): Sensex up 1.08 percent at 83,919.71 and Nifty 50 up 1.12 percent at 25,800.60, led by banks. Investors moved money out of AI stocks and into India, and foreign buyers have bought more than 12 billion dollars of Indian equities this month.",
-          "whyItMatters": "India is acting as a refuge from the AI sell-off, which is good for Indian funds and helps the rupee.",
-          "category": "markets",
-          "sourceUrl": "https://hdfcsky.com/news/market-close-report-today-november-20-2026-nifty-sensex-scale-nine-month-highs-as-investors-dump-global-ai-for-india"
-        },
-        {
-          "headline": "Bitcoin drops to about 55,300 dollars overnight, then rebounds",
-          "summary": "The cryptocurrency hit its lowest level since September 2024 as about 2.7 billion dollars of leveraged bets were wiped out in a day. It has since climbed back above 60,000 dollars.",
-          "whyItMatters": "Crypto trades over the weekend, so it gives the first read on risk appetite before stock markets reopen on Monday.",
-          "category": "markets",
-          "badge": "developing",
-          "sourceUrl": "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-60k-crash-near-55k-billions-liquidations/"
         }
       ]
     }
