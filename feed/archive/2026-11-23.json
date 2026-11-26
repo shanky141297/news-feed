@@ -1,7 +1,186 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-23T06:52:00Z",
+  "lastUpdated": "2026-11-23T18:52:53Z",
   "entries": [
+    {
+      "id": "2026-11-23-evening",
+      "type": "briefing",
+      "edition": "evening",
+      "date": "2026-11-23",
+      "generatedAt": "2026-11-23T18:52:53Z",
+      "title": "Evening Briefing · 23 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/9KjvErmPD7i2Dwjsdg2jpn",
+      "headlines": [
+        "Nvidia reinstates Jensen Huang as CEO, and Wall Street surges",
+        "FTSE 100 bounces 1.3% off its five-month low as Sensex drops 1.77%",
+        "India pledges Rs 15,000 crore to Nepal in 21 outcomes from Modi-Shah talks",
+        "Burnham tells MPs rejoining the EU is unthinkable without a referendum",
+        "Iran vows every means against the US blockade after Trump threatens to sink its ships"
+      ],
+      "categories": [
+        {
+          "key": "world",
+          "label": "World",
+          "count": 3
+        },
+        {
+          "key": "uk",
+          "label": "UK",
+          "count": 3
+        },
+        {
+          "key": "india",
+          "label": "India",
+          "count": 1
+        },
+        {
+          "key": "immigration",
+          "label": "UK immigration",
+          "count": 1
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "count": 3
+        },
+        {
+          "key": "space",
+          "label": "Space",
+          "count": 1
+        },
+        {
+          "key": "markets",
+          "label": "Markets",
+          "count": 4
+        }
+      ],
+      "stories": [
+        {
+          "headline": "NATO council meets on the Russian missiles that hit Poland",
+          "summary": "The North Atlantic Council held its emergency session in Brussels on Monday, with Poland represented by deputy defence minister Pawel Zalewski. No joint statement or new decision had been reported by the evening. Allied early-warning aircraft are already reinforcing Polish airspace, and Mark Rutte said it is still being assessed whether the incursion was deliberate.",
+          "whyItMatters": "What allies agree for Poland's air defences will show how NATO plans to respond if Russian missiles keep straying over its eastern border.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.kyivpost.com/post/90893"
+        },
+        {
+          "headline": "Dymer rescue ends with 11 dead, including an 11-year-old girl",
+          "summary": "Ukraine's interior minister says the search of the collapsed block in Dymer, Kyiv region, is over after more than a day and over 2,000 tonnes of rubble cleared. Eleven people died, two are still to be identified, and five remain in hospital. A 7-year-old boy and a 79-year-old woman were pulled out alive.",
+          "whyItMatters": "The toll adds weight to Zelensky's push for more Western air defence, including US Patriot systems.",
+          "category": "world",
+          "badge": "update",
+          "sourceUrl": "https://unn.ua/en/news/rescue-operations-have-been-completed-in-dymer-following-the-russian-attack-the-identities-of-two-of-the-deceased-are-still-being-established-ministry-of-internal-affairs"
+        },
+        {
+          "headline": "Iran vows to resist the US blockade after Trump's sinking threat",
+          "summary": "Iran's foreign ministry called the US naval blockade an act of aggression and said it would use every available means against it, after Trump said ships trying to break it would go to the bottom of the sea. Iran says Hormuz could reopen quickly if sanctions and the blockade are lifted. A maritime analyst's claim that the US struck an Iranian-oil tanker has not been confirmed by either government.",
+          "whyItMatters": "Any clash at sea would hit oil prices and Gulf shipping, though Brent fell on Monday to about 89 dollars a barrel.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat"
+        },
+        {
+          "headline": "Burnham: rejoining the EU unthinkable without a referendum",
+          "summary": "In his Commons statement on last week's Brussels deal, the Prime Minister said there is a range of options for long-term ties, to be set out in his 10-year plan in mid-December. He said the deal keeps Labour's red lines on the single market, customs union and free movement. Kemi Badenoch accused him of living in the past and said prices would rise.",
+          "whyItMatters": "It is the clearest signal yet that Burnham will not move towards rejoining in this Parliament, though the wider debate on EU ties is still open.",
+          "category": "uk",
+          "badge": "developing",
+          "sourceUrl": "https://www.itv.com/news/2026-11-23/reversing-brexit-unthinkable-without-referendum-pm-says"
+        },
+        {
+          "headline": "Finance Bill debated tonight in a busy week at Westminster",
+          "summary": "MPs hold the Finance Bill second reading on Monday, putting the 28 October Budget into law, with rival amendments from the Conservatives and Lib Dems. PMQs is on Wednesday. The Cutting Costs Bill for the EU deal is due on Thursday, the same day the Lords debate the 20 November UK-EU summit.",
+          "whyItMatters": "The Budget's tax changes and the EU package both start their passage this week, so expect the main political rows here.",
+          "category": "uk",
+          "sourceUrl": "https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-23-november-2026"
+        },
+        {
+          "headline": "UK private-sector growth slows as services hit a five-month low",
+          "summary": "The S&P Global flash composite PMI eased to 52.3 in November from 52.9. Services fell to 52.0, below forecasts, while factory output reached a 27-month high. The pound slipped to about 1.302 dollars.",
+          "whyItMatters": "A reading above 50 still means growth, but the cooling in services will feed into Bank of England rate thinking.",
+          "category": "uk",
+          "sourceUrl": "https://www.share-talk.com/ftse-100-jumps-134-points-as-nvidia-news-fuels-global-stock-rally/"
+        },
+        {
+          "headline": "India and Nepal agree 21 outcomes and a Rs 15,000 crore package",
+          "summary": "Talks between Narendra Modi and Balendra Shah ended with 21 outcomes, including a Rs 3,500 crore grant for flood-damaged hydropower and an Rs 11,500 crore credit line for energy. A new vision document allows a review of the 1950 friendship treaty by mutual consent. The leaders flagged off the Ayodhya-Janakpur Saryu-Kamala Express and set a target of 10,000 MW of power imports from Nepal by 2030.",
+          "whyItMatters": "Delhi calls it its largest ever package for Nepal, a sign it wants close ties with Shah's new government, especially on hydropower and trade.",
+          "category": "india",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.business-standard.com/amp/external-affairs-defence-security/news/india-nepal-announce-21-outcomes-15-000-cr-economic-aid-package-126112301332_1.html"
+        },
+        {
+          "headline": "No new Immigration Rules or Home Office announcements today",
+          "summary": "GOV.UK shows nothing new since Friday 20 November, when only guidance and statistics were published, and the latest Statement of Changes is still HC 584. Earned settlement has a final framework in the November government response, but no rules have been laid and there is no start date, so current ILR rules still apply. Already confirmed: higher student maintenance amounts apply to applications made from 30 November, and the Immigration and Asylum Bill is now in the Lords.",
+          "whyItMatters": "Indian Skilled Worker visa holders planning for ILR should watch for a new Statement of Changes, which is what would turn earned settlement into law.",
+          "category": "immigration",
+          "badge": "status",
+          "sourceUrl": "https://www.gov.uk/guidance/immigration-rules/updates"
+        },
+        {
+          "headline": "Pakistan A beat India A by 48 runs at the Rising Stars Asia Cup",
+          "summary": "In Doha on Sunday, Pakistan A made 313, with Hasan Nawaz top-scoring on 79. India A fell 48 runs short despite a quick 70 from Abhishek Sharma and a hundred from Tilak Varma.",
+          "whyItMatters": "A rare India A defeat in a high-profile game against Pakistan, with several India squad players in the side.",
+          "category": "sport",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.outlookindia.com/sports/cricket/india-a-vs-pakistan-a-live-score-asia-cup-rising-stars-2026"
+        },
+        {
+          "headline": "Second Test in Christchurch starts Thursday night UK time",
+          "summary": "After the Wellington draw, India and New Zealand meet at Hagley Oval from 27 November to 1 December. Play starts at 11am local time, so the first ball is on Thursday 26 November at 22:00 UK time.",
+          "whyItMatters": "With the first Test drawn, this two-match series and its World Test Championship points are decided in Christchurch.",
+          "category": "sport",
+          "sourceUrl": "https://www.wisden.com/series/new-zealand-vs-india-m-2026/cricket-news/nz-vs-ind-tests-2026-schedule-squads-match-timings"
+        },
+        {
+          "headline": "Champions League matchday 5: five English clubs in action",
+          "summary": "Tuesday: Galatasaray v Aston Villa at 17:45 GMT, then Arsenal v Borussia Dortmund and Manchester City v Napoli at 20:00. Wednesday: Club Brugge v Liverpool and Sporting CP v Manchester United, both at 20:00.",
+          "whyItMatters": "This is the start of the second half of the league phase, when places in the top eight begin to settle.",
+          "category": "sport",
+          "sourceUrl": "https://www.cbssports.com/soccer/news/2026-uefa-champions-league-schedule-results/"
+        },
+        {
+          "headline": "NASA clears NG-25 Cygnus for Sunday, with weather the only concern",
+          "summary": "At Monday's preview briefing, NASA said no technical issues are being tracked for the Cygnus XL cargo ship, named S.S. James Jim Lovell. It is due to launch on a Falcon 9 from Cape Canaveral no earlier than Sunday 29 November at 15:47 GMT with about 11,000 lb of cargo, and to be captured at the ISS on 1 December at 07:35 GMT.",
+          "whyItMatters": "Northrop Grumman's own Antares rocket still has no return date, so it depends on SpaceX to keep its ISS cargo flights going.",
+          "category": "space",
+          "badge": "update",
+          "sourceUrl": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/"
+        },
+        {
+          "headline": "Nvidia brings back Jensen Huang 11 days after he resigned",
+          "summary": "Nvidia's board unanimously reinstated Huang as president and CEO with immediate effect, saying it had taken input from senior levels of the US government and was satisfied he poses no national security risk. Interim CEO Colette Kress goes back to being CFO. Nvidia has not given a reason for the 12 November resignation; a TechCrunch report linking it to a suspected Chinese spy is unconfirmed.",
+          "whyItMatters": "Huang's exit had driven a week-long AI sell-off, so his return is the main reason markets rebounded around the world on Monday.",
+          "category": "markets",
+          "badge": "breaking",
+          "sourceUrl": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+        },
+        {
+          "headline": "Wall Street stages a huge AI rebound, still trading",
+          "summary": "At 12:33 ET (17:33 GMT), still trading, the Nasdaq Composite was up 6.90 percent at 24,178.00, the S&P 500 up 4.97 percent at 7,254.11 and the Dow up 3.19 percent at 49,684.91. Nvidia was up about 32 percent and Micron about 19 percent, with part of the move put down to short covering after seven straight days of falls.",
+          "whyItMatters": "Last week's rout had pushed the S&P 500 into correction. Whether the gains hold to the 21:00 GMT close will show how much of the AI selling is over.",
+          "category": "markets",
+          "badge": "developing",
+          "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html"
+        },
+        {
+          "headline": "FTSE 100 bounces 1.3 percent from its five-month low",
+          "summary": "The FTSE 100 closed on Monday 23 Nov (16:35 GMT) at 10,480.82, up 134.48 points or 1.3 percent, and the FTSE 250 rose 1.7 percent. Tech trusts such as Polar Capital Technology and Scottish Mortgage led, with Halma and miners. Vodafone fell 5.1 percent after a Citi downgrade, and Capita lost more than 70 percent after a profit warning and its CEO's departure.",
+          "whyItMatters": "It ends a five-day losing run, but London's gain was much smaller than New York's because it holds few tech stocks.",
+          "category": "markets",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.share-talk.com/ftse-100-jumps-134-points-as-nvidia-news-fuels-global-stock-rally/"
+        },
+        {
+          "headline": "Sensex and Nifty fall 1.8 percent as banks and metals slide; markets shut Tuesday",
+          "summary": "Monday 23 Nov close (15:30 IST): Sensex 82,435.99, down 1,483.72 points or 1.77 percent, and Nifty 50 25,349.65, down 450.95 or 1.75 percent. Bank Nifty fell 3.17 percent and metals 3.68 percent, with Tata Steel down 8.4 percent, while IT rose 1.7 percent. Markets are closed on Tuesday 24 November for Guru Nanak Jayanti.",
+          "whyItMatters": "Investors took profits after a four-week rally, and Indian shares will only react to Wall Street's rebound when trading resumes on Wednesday.",
+          "category": "markets",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.kotakneo.com/news/market-news/sensex-nifty-close-lower-as-banking-stocks-weigh-on-markets/"
+        }
+      ]
+    },
     {
       "id": "2026-11-23-morning",
       "type": "briefing",
