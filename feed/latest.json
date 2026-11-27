@@ -1,7 +1,200 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-27T06:51:47Z",
+  "lastUpdated": "2026-11-27T18:47:11Z",
   "entries": [
+    {
+      "id": "2026-11-27-evening",
+      "type": "briefing",
+      "edition": "evening",
+      "date": "2026-11-27",
+      "generatedAt": "2026-11-27T18:47:11Z",
+      "title": "Evening Briefing · 27 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/5hweQPjBETpoAQEFJvcrsC",
+      "headlines": [
+        "India's Cabinet clears a revised delimitation bill: a uniform 50% rise in Lok Sabha seats, with state shares frozen to 2051, before Monday's special sitting.",
+        "Wall Street closes sharply higher in the Black Friday half-day: Nasdaq +2.31%, S&P 500 +1.60%, Dow +1.18%, capping a week of 5-7% gains.",
+        "FTSE 100 ends up 0.8% at 10,698.81, its biggest weekly gain in about eight months, as miners and banks rally.",
+        "Ukraine says its Kharkiv counteroffensive has retaken about 200 sq km, while Zelensky rejects US land-for-peace options that would cede the Donetsk fortress belt.",
+        "Sensex falls 1.17% and Nifty 1.07% as IT stocks are sold off; metals and defence buck the slide."
+      ],
+      "categories": [
+        {
+          "key": "world",
+          "label": "World",
+          "count": 3
+        },
+        {
+          "key": "uk",
+          "label": "UK",
+          "count": 2
+        },
+        {
+          "key": "india",
+          "label": "India",
+          "count": 2
+        },
+        {
+          "key": "immigration",
+          "label": "UK immigration",
+          "count": 2
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "count": 3
+        },
+        {
+          "key": "space",
+          "label": "Space",
+          "count": 3
+        },
+        {
+          "key": "markets",
+          "label": "Markets",
+          "count": 3
+        }
+      ],
+      "stories": [
+        {
+          "headline": "Ukraine presses its Kharkiv counteroffensive and pushes back on US peace options",
+          "summary": "Kyiv says Operation Bear Trap in the Kharkiv region has now retaken about 200 sq km and 14 settlements, and is continuing. US negotiators have reportedly put two land-for-peace options to Ukraine; Zelensky rejected giving up the Donetsk fortress belt and said he does not trust a Trump-Putin deal. Jared Kushner said in Berlin that Russia had accepted a weaker form of NATO-style guarantees tied to freezing the front line.",
+          "whyItMatters": "Battlefield gains strengthen Kyiv's hand just as Washington pushes for a deal. This morning's warning of a new Russian mass strike still stands.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory"
+        },
+        {
+          "headline": "Iran denies the Kuwait drone attack; Saudi-led coalition says it hit 50 Houthi targets",
+          "summary": "Update on this morning's story: Iran's foreign minister Abbas Araghchi denied any role in the drone strike that killed two Italian technicians in Kuwait and offered a joint inquiry with Kuwait and Italy. Saudi Arabia, the UK and the European Commission condemned the attack. The Saudi-led coalition says its strikes in Sanaa, Hodeidah and Saada destroyed 50 military targets, including a launcher used against the Jazan refinery, where a Nepalese worker was killed. Trump said the US has victory at hand against Iran and is giving Tehran a chance to make a deal.",
+          "whyItMatters": "Attacks on Gulf energy sites keep oil prices high, which feeds through to UK fuel costs and to India's import bill.",
+          "category": "world",
+          "badge": "update",
+          "sourceUrl": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639"
+        },
+        {
+          "headline": "Europe: Germany passes a record 2027 budget; Estonia readies Russia border closures",
+          "summary": "Euronews reports that the Bundestag approved a record 2027 federal budget with about 210 billion euros of borrowing, and that Estonia is preparing to close all five road crossings with Russia. Spain votes in a general election on Sunday, and the conservative leader Alberto Nunez Feijoo says he will step down if he loses.",
+          "whyItMatters": "Germany is spending heavily on defence and infrastructure while the EU budget talks remain stuck, and the Baltic states keep hardening their borders.",
+          "category": "world",
+          "sourceUrl": "https://www.euronews.com/video/2026/11/27/latest-news-bulletin-november-27th-2026-evening"
+        },
+        {
+          "headline": "Altria weighs a cash bid for Imperial Brands; shares extend their rally",
+          "summary": "Imperial Brands rose another 1.8% on Friday after jumping 13.3% on Thursday, when the US tobacco group Altria confirmed it is considering a possible all-cash offer. Under UK takeover rules Altria has until 24 December to make a firm offer or walk away, and Japan Tobacco has also been reported to be studying a deal.",
+          "whyItMatters": "A bid would be one of the largest takeovers of a FTSE 100 company this year and helped lift the index this week.",
+          "category": "uk",
+          "badge": "developing",
+          "sourceUrl": "https://live.euronext.com/en/financial-news/britains-ftse-100-posts-biggest-weekly-gain-eight-months-miners-banks-rally"
+        },
+        {
+          "headline": "Tube strike ends with more trains running than expected",
+          "summary": "The 24-hour RMT drivers' strike ran until midday Friday, and London Underground said more services ran than it had expected during the walkout. Seven more 24-hour strikes are planned for 17 and 19 December, 4 and 6 January, and 17, 23 and 25 February.",
+          "whyItMatters": "The dispute is unresolved, so Londoners face more disruption through the winter, including the run-up to Christmas.",
+          "category": "uk",
+          "badge": "update",
+          "sourceUrl": "https://ianvisits.co.uk/articles/the-london-buzz-27th-nov-2026-94440"
+        },
+        {
+          "headline": "Cabinet clears a revised delimitation bill ahead of Monday's special sitting",
+          "summary": "The Union Cabinet approved revised amendments on Friday that would raise the number of Lok Sabha seats in every state by a uniform 50%, while freezing each state's share of seats until 2051. That takes the House from 543 to about 814 seats (some reports say 850), and the plan is tied to 33% reservation for women. The bill has not yet been formally listed for the sitting that starts on 30 November.",
+          "whyItMatters": "Freezing state shares answers southern states' fear of losing influence. A constitutional amendment needs a two-thirds majority, and a similar bill failed in the Lok Sabha earlier this year.",
+          "category": "india",
+          "badge": "breaking",
+          "sourceUrl": "https://www.ibtimes.co.in/delimitation-bill-2026-centre-proposes-50-increase-lok-sabha-seats-freezes-states-share-till-908731"
+        },
+        {
+          "headline": "Opposition to meet on Saturday as DMK sets its terms",
+          "summary": "Congress president Mallikarjun Kharge has called opposition floor leaders, including the DMK, AAP and BJD, to a meeting at 11:30 IST on Saturday. Congress says it backs the 33% women's quota but accuses the government of using it to push delimitation through. DMK chief M K Stalin said Tamil Nadu's 7.18% share of Lok Sabha seats must not fall, which the revised bill reportedly addresses.",
+          "whyItMatters": "Whether parties such as the DMK and BJD support the bill will decide if the government reaches two-thirds next week.",
+          "category": "india",
+          "badge": "developing",
+          "sourceUrl": "https://www.newsgram.com/parliament/2026/11/27/cabinet-revised-delimitation-bill-special-session"
+        },
+        {
+          "headline": "No new Immigration Rules, fee or visa changes today",
+          "summary": "GOV.UK lists no new Statement of Changes in November; HC 584 of 3 September is still the latest. Earned settlement, with 10-year ILR as the default and shorter routes for higher earners and some key workers, is still a proposal: the detailed rules have not been laid, with changes expected from December and implementation during 2027. The Immigration and Asylum Bill is now in the Lords.",
+          "whyItMatters": "Nothing changes yet for Skilled Worker holders planning ILR, but the earned settlement rules could be laid within weeks, so keep an eye on GOV.UK.",
+          "category": "immigration",
+          "badge": "status",
+          "sourceUrl": "https://www.gov.uk/government/collections/immigration-rules-statement-of-changes"
+        },
+        {
+          "headline": "Home Office figures: Skilled Worker visas down 27%, settlement grants at a 16-year high",
+          "summary": "Official statistics for the year to September 2026, published on Thursday, show 57,000 Skilled Worker visas (down 27%), 31,000 Health and Care visas (down 44%) and 336,000 sponsored study visas (down 23%). Settlement grants rose 53% to 241,000, the most since 2010, and citizenship grants rose 10% to 265,000, including 27,700 to Indian nationals.",
+          "whyItMatters": "The figures show the effect of the 2025 tightening on work routes, and a wave of people reaching ILR and citizenship before the stricter settlement rules arrive.",
+          "category": "immigration",
+          "badge": "update",
+          "sourceUrl": "https://www.gov.uk/government/statistics/immigration-system-statistics-year-ending-september-2026/summary-of-latest-statistics"
+        },
+        {
+          "headline": "NZ v India, 2nd Test: day 2 starts at 22:00 GMT tonight",
+          "summary": "New Zealand resume on 246 for 5 at Hagley Oval, with Tom Blundell on 53 not out in his 50th Test and Glenn Phillips on 36. Akash Deep has taken 2 for 52 so far, and India have not yet batted. The series is level at 0-0 after the draw in Wellington.",
+          "whyItMatters": "India need a win here to take the series. Early wickets on day 2 would stop New Zealand building a big total.",
+          "category": "sport",
+          "sourceUrl": "https://crex.com/cricket-live-score/ind-vs-nz-2nd-test-india-tour-of-new-zealand-2026-match-updates-12JN"
+        },
+        {
+          "headline": "Premier League: Forest host Chelsea tonight; Arsenal v Man City on Sunday",
+          "summary": "Nottingham Forest play Chelsea at 20:00 GMT tonight. On Sunday, Everton host Liverpool at 12:00 and leaders Arsenal, with nine wins from 11 league games, host Manchester City at 16:30. A City win would cut the gap at the top to three points.",
+          "whyItMatters": "Sunday's match at the Emirates is the biggest of the weekend for the title race.",
+          "category": "sport",
+          "sourceUrl": "https://www.si.com/soccer/premier-league-predictions-everton-liverpool-arsenal-man-city-gameweek-12-2026-27"
+        },
+        {
+          "headline": "F1 Qatar GP: champion Antonelli tops both practice sessions",
+          "summary": "Newly crowned world champion Kimi Antonelli was fastest in both Friday sessions at Lusail, ahead of Mercedes team-mate George Russell, with McLaren's Lando Norris third in FP2. Lewis Hamilton stopped on track with a suspected power-unit problem. Qualifying is at 18:00 GMT on Saturday.",
+          "whyItMatters": "The drivers' title is settled, but McLaren and Red Bull are still fighting for the constructors' championship.",
+          "category": "sport",
+          "sourceUrl": "https://grandepremio.com/en/motogp/antonelli-sweeps-qatar-gp-practice-as-hamilton-suffers-fresh-ferrari-nightmare/"
+        },
+        {
+          "headline": "Cygnus NG-25 cargo launch to the ISS on track for Sunday",
+          "summary": "NASA says the Cygnus XL freighter is set to launch on a Falcon 9 from Cape Canaveral at 15:47 GMT on Sunday 29 November, with about 11,000 lb of cargo. The weather forecast is 60% favourable, and the backup slot is 15:24 GMT on Monday.",
+          "whyItMatters": "The stretched Cygnus XL carries more cargo per flight, restocking the station's science and supplies.",
+          "category": "space",
+          "sourceUrl": "https://www.nasa.gov/blogs/spacestation/2026/11/27/nasa-partners-preps-on-track-for-sunday-space-station-cargo-launch/"
+        },
+        {
+          "headline": "ISRO says Gaganyaan is not delayed, but there is still no launch date",
+          "summary": "ISRO chairman V Narayanan said this week that the first uncrewed Gaganyaan flight, carrying the Vyommitra robot, is in its final preparation phase and all rocket parts are ready. Earlier media reports suggested a slip from December to February 2027; ISRO has not confirmed a date.",
+          "whyItMatters": "The G1 flight is the key test before India's first crewed spaceflight.",
+          "category": "space",
+          "badge": "status",
+          "sourceUrl": "https://indianmasterminds.com/news/gaganyaan-mission-isro-launch-update-2026-253248/"
+        },
+        {
+          "headline": "Artemis III crew meet their Orion spacecraft",
+          "summary": "The Artemis III astronauts visited their Orion capsule at Kennedy Space Center. The mission will stay in low Earth orbit to rehearse docking with the Starship and Blue Moon landers, which clears the way for a landing on Artemis IV.",
+          "whyItMatters": "It is NASA's next step towards returning people to the Moon.",
+          "category": "space",
+          "sourceUrl": "https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-meet-their-moonship-space-photo-of-the-day-for-nov-27-2026"
+        },
+        {
+          "headline": "FTSE 100 closes up 0.8% at 10,698.81, its best week in about eight months",
+          "summary": "Friday 27 November close: FTSE 100 10,698.81, up 89.51 points (+0.84%); FTSE 250 up 0.9% at 24,314.72. Fresnillo, Antofagasta, Glencore and Anglo American gained 4-5% as copper had its best day since February after China's cabinet urged state-backed investors to steady its stock market, and Standard Chartered, Barclays and HSBC rose on the Bank of England's capital cut.",
+          "whyItMatters": "A broad rebound across global stocks and strength in miners and banks offset small falls in Unilever, Diageo and AstraZeneca.",
+          "category": "markets",
+          "badge": "confirmed",
+          "sourceUrl": "https://live.euronext.com/en/financial-news/britains-ftse-100-posts-biggest-weekly-gain-eight-months-miners-banks-rally"
+        },
+        {
+          "headline": "Sensex and Nifty end lower as IT stocks are sold",
+          "summary": "Friday 27 November close: Sensex 83,339.26, down 989.33 points (-1.17%); Nifty 50 25,607.20, down 277.30 (-1.07%). The Nifty IT index fell 1.88%, with TCS, Infosys and HCL Tech among the biggest losers, while metals rose 1.40% and Bharat Electronics, JSW Steel and Titan gained. Small and mid caps ended slightly higher.",
+          "whyItMatters": "Profit-taking after a two-day rally, worries about US tariffs and expensive crude oil all weighed on the main indices.",
+          "category": "markets",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.kotakneo.com/news/market-news/sensex-and-nifty-fall-amid-domestic-and-global-headwinds/"
+        },
+        {
+          "headline": "Wall Street closes sharply higher in the Black Friday half-day",
+          "summary": "US markets shut early at 13:00 ET (18:00 GMT), so these are closes, compared with Wednesday: Dow 50,774.94 (+591.99, +1.18%), S&P 500 7,297.49 (+114.71, +1.60%) and Nasdaq Composite 24,129.50 (+543.70, +2.31%). Over the week the Dow rose 5.46%, the S&P 500 5.60% and the Nasdaq 6.68%, and the chip index jumped 4.69% on the day.",
+          "whyItMatters": "Investors bought back tech and chip stocks after this month's sell-off, on light holiday volume. Gold rose about 2% and the 10-year Treasury yield was near 4.89%.",
+          "category": "markets",
+          "badge": "confirmed",
+          "sourceUrl": "https://jbiznews.com/u-s-stocks-close-sharply-higher-in-shortened-black-friday-session-and-post-big-weekly-gains-dow-jones-industrial-average-up-1-18-sp-500-up-1-60-nasdaq-composite-up-2-31/"
+        }
+      ]
+    },
     {
       "id": "2026-11-27-morning",
       "type": "briefing",
@@ -724,234 +917,6 @@
           "category": "markets",
           "badge": "update",
           "sourceUrl": "https://www.kotakneo.com/news/market-news/sensex-nifty-recover-on-fii-buying-and-lower-crude-prices/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-25-morning",
-      "type": "briefing",
-      "edition": "morning",
-      "date": "2026-11-25",
-      "generatedAt": "2026-11-25T06:55:38Z",
-      "title": "Morning Briefing · 25 November 2026",
-      "artifactUrl": "https://claude.ai/artifact/LySY4ixoyEQPTJVEZT5dFD",
-      "headlines": [
-        "The Gulf conflict widens to Saudi Arabia as Houthis and the Saudi-led coalition trade strikes",
-        "Chip selloff hits Asia: Kospi down 5.6% and Nikkei 3.6% after the Nasdaq fell 1.5%, while the Dow closed back above 50,000",
-        "Indian shares jump over 2% after the holiday, with the Sensex up about 1,900 points at midday",
-        "Shenzhou-24 docks with China's space station carrying the first foreign astronaut on Tiangong",
-        "The Akali Dal rejoins the NDA for Punjab's 2027 election"
-      ],
-      "categories": [
-        {
-          "key": "world",
-          "label": "World",
-          "count": 4
-        },
-        {
-          "key": "uk",
-          "label": "UK",
-          "count": 4
-        },
-        {
-          "key": "india",
-          "label": "India",
-          "count": 4
-        },
-        {
-          "key": "immigration",
-          "label": "UK immigration",
-          "count": 1
-        },
-        {
-          "key": "sport",
-          "label": "Sport",
-          "count": 5
-        },
-        {
-          "key": "space",
-          "label": "Space",
-          "count": 1
-        },
-        {
-          "key": "markets",
-          "label": "Markets",
-          "count": 4
-        }
-      ],
-      "stories": [
-        {
-          "headline": "Houthis and Saudi Arabia trade strikes as the Gulf war widens",
-          "summary": "A Houthi strike on a tower in Riyadh's financial district injured 11 people on Tuesday. The Houthis say Saudi forces struck Hodeidah port overnight, a claim not yet independently confirmed, and the Saudi-led coalition says it downed four drones over the Ras Tanura oil terminal. Israel's defence minister separately accused Iran of developing chemical weapons, which Tehran denies.",
-          "whyItMatters": "A Saudi front, with oil sites now targeted, adds a second risk to energy supplies alongside the Hormuz blockade.",
-          "category": "world",
-          "badge": "developing",
-          "sourceUrl": "https://cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks"
-        },
-        {
-          "headline": "Huawei convicted on 10 of 12 counts in its US fraud trial",
-          "summary": "A federal jury in Brooklyn found Huawei guilty of bank fraud, Iran-related sanctions breaches and conspiring to steal trade secrets. It was cleared of racketeering conspiracy and obstruction. Sentencing is set for September 2027.",
-          "whyItMatters": "The verdict adds to US-China tech friction just days after the Trump, Xi and Putin summit.",
-          "category": "world",
-          "badge": "confirmed",
-          "sourceUrl": "https://cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks"
-        },
-        {
-          "headline": "Trump says a pardon for Nvidia's Jensen Huang is always an option",
-          "summary": "Trump told the New York Post a pardon was possible but probably not needed, a day after Huang was reinstated as Nvidia chief executive. The Attorney General would not say whether Huang is under federal investigation. Huang is due before House and Senate committees next week.",
-          "whyItMatters": "It ties the White House to the world's most valuable chipmaker while that company faces a national-security inquiry, and Nvidia's swings are driving global markets.",
-          "category": "world",
-          "badge": "developing",
-          "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-25-2026/4136600"
-        },
-        {
-          "headline": "Ukrainian drones reportedly hit two Russian refineries overnight",
-          "summary": "Reports citing the Institute for the Study of War say drones struck the Syzran and Kuibyshev refineries in Samara region, starting fires. Neither Reuters nor AP had confirmed it at the time of writing. On Tuesday Putin said retaliation for refinery attacks was inevitable.",
-          "whyItMatters": "Refinery strikes cut Russia's fuel income, and Putin has threatened to escalate in response.",
-          "category": "world",
-          "badge": "unconfirmed",
-          "sourceUrl": "https://theglobaleye.it/2026/11/25/global-news-25-november-2026/"
-        },
-        {
-          "headline": "PMQs at noon, then a Conservative Opposition Day",
-          "summary": "Andy Burnham faces Kemi Badenoch at Prime Minister's Questions after Northern Ireland questions at 11:30. A Tory-led Opposition Day debate follows, on a subject not yet announced. The Lords continue the Health Bill in committee.",
-          "whyItMatters": "Capita's pension failures, the EU deal and welfare costs are likely flashpoints, weeks before the PM's 10-year plan is due.",
-          "category": "uk",
-          "sourceUrl": "https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-23-november-2026"
-        },
-        {
-          "headline": "Capita's chief executive quits over Civil Service pension failures",
-          "summary": "Adolfo Hernandez stepped down with immediate effect over problems running the Civil Service Pension Scheme, which has about 1.7 million members. Capita plans a 190 million pound share raise and expects a 95 million pound hit to 2027 profits. Its shares fell sharply to their lowest level in decades.",
-          "whyItMatters": "Unions want the contract brought in-house, which puts the government's use of outsourcers under pressure.",
-          "category": "uk",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.professionalpensions.com/news/4539355/capita-chief-executive-replaced-firm-expects-95m-hit-profits-2027"
-        },
-        {
-          "headline": "Cold snap squeezes the power grid",
-          "summary": "The grid operator NESO issued an Electricity Margin Notice for Tuesday afternoon and evening, as spare capacity fell below its preferred buffer. Wholesale power prices rose above 260 pounds per MWh, and NESO asked large industrial users to cut demand. It stressed that blackouts were not expected.",
-          "whyItMatters": "It is an early test of winter energy security and of costs that feed into household bills.",
-          "category": "uk",
-          "sourceUrl": "https://cpa.co.uk/uk-business-news-today-24-november-2026-economy-markets-insolvencies/"
-        },
-        {
-          "headline": "Private-sector growth slows in November",
-          "summary": "The flash composite PMI fell to 52.3 from 52.9, still showing growth for a fifth month. Manufacturing grew at its fastest pace since August 2024, but services slowed and firms cut jobs.",
-          "whyItMatters": "Weaker hiring feeds the Bank of England's rate debate as the Finance Bill moves through the Commons.",
-          "category": "uk",
-          "sourceUrl": "https://cpa.co.uk/uk-business-news-today-24-november-2026-economy-markets-insolvencies/"
-        },
-        {
-          "headline": "The Akali Dal returns to the NDA for Punjab 2027",
-          "summary": "The BJP and the Shiromani Akali Dal announced their reunion in Delhi on Guru Nanak's Parkash Purab. Amit Shah called the SAD the BJP's oldest ally, and Modi called it a natural alliance. No seat-sharing terms were given.",
-          "whyItMatters": "The SAD quit the NDA in 2020 over the farm laws, so the deal reshapes the contest against AAP in Punjab.",
-          "category": "india",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.tribuneindia.com/news/punjab/breaking-bjp-sad-bury-the-hatchet-reunite-on-gurpurab-for-2027-punjab-polls/"
-        },
-        {
-          "headline": "Sibal warns the opposition against a delimitation seat hike offer",
-          "summary": "Kapil Sibal said the government is offering every state 50 percent more Lok Sabha seats to win support for a delimitation and women's reservation amendment. He also said leaving the Monsoon Session open without calling a Winter Session was unconstitutional, as it allows a sitting at two days' notice.",
-          "whyItMatters": "The amendment failed in April; a sudden new push would reopen the North-South row over representation.",
-          "category": "india",
-          "badge": "developing",
-          "sourceUrl": "https://www.dailyexcelsior.com/democracy-wont-survive-sibal-warns-opposition-against-govts-delimitation-offer/"
-        },
-        {
-          "headline": "Supreme Court hears Umar Khalid and Sharjeel Imam's new bail pleas today",
-          "summary": "A bench led by Chief Justice Surya Kant takes up their challenge to the Delhi High Court's September refusal of bail in the 2020 Delhi riots UAPA case. They argue the trial is too slow and witness evidence will not finish before January.",
-          "whyItMatters": "It is a closely watched test of long detention before trial under the anti-terror law.",
-          "category": "india",
-          "sourceUrl": "https://indialegallive.com/constitutional-law-news/courts-news/supreme-court-to-hear-umar-khalid-sharjeel-imams-fresh-bail-pleas-on-november-25-before-cji-surya-kant-led-bench/"
-        },
-        {
-          "headline": "Modi and Merz review the India-Germany partnership",
-          "summary": "German Chancellor Friedrich Merz phoned Modi on Tuesday to review defence and technology ties and mark 75 years of diplomatic relations. Both said the India-EU trade deal would open new trade and investment.",
-          "whyItMatters": "It signals momentum on the EU deal, though no specific agreements were announced.",
-          "category": "india",
-          "sourceUrl": "https://newsonair.gov.in/pm-modi-and-german-chancellor-friedrich-merz-review-progress-in-strategic-partnership-reaffirm-commitment-to-boost-cooperation-in-defence-technology-trade-and-investment/"
-        },
-        {
-          "headline": "No new Immigration Rules or Home Office announcements since Monday",
-          "summary": "GOV.UK shows only routine updates, and earned settlement remains confirmed policy whose rules have not yet been laid; the first are expected in a December Statement of Changes. Dates to note: student maintenance funds rise on 30 November 2026, B2 English for settlement on specified routes from 26 March 2027, and Skilled Worker occupation thresholds move to the 25th percentile in spring 2027.",
-          "whyItMatters": "Most Skilled Workers earning under about 50,000 pounds face a 10-year path to ILR once the new rules start, so watch for the December statement and its transitional terms.",
-          "category": "immigration",
-          "badge": "status",
-          "sourceUrl": "https://www.gov.uk/government/organisations/uk-visas-and-immigration"
-        },
-        {
-          "headline": "Champions League: Villa lose in Istanbul, Arsenal and City held",
-          "summary": "Galatasaray beat Aston Villa 1-0 with a late goal from substitute Deniz Gul. Arsenal drew 1-1 with Dortmund despite 30 shots, and Man City came back to draw 2-2 with Napoli through a late Cherki goal. Real Madrid thrashed PSV 5-1.",
-          "whyItMatters": "All three English sides dropped points, leaving Arsenal 5th, City 6th and Villa 7th with three games left.",
-          "category": "sport",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.avfc.co.uk/news/2026/november/24/report-galatasaray-1-0-aston-villa/"
-        },
-        {
-          "headline": "Tonight: Liverpool at Club Brugge, Man Utd at Sporting",
-          "summary": "Both games kick off at 8pm UK time. Pochettino's United sit 17th in the league phase, with Cunha suspended and Sesko, Ugarte and Baleba injured.",
-          "whyItMatters": "United need points to stay in the top 24 and reach the knockout play-offs.",
-          "category": "sport",
-          "sourceUrl": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
-        },
-        {
-          "headline": "Sport's top court hands the 2025 AFCON title back to Senegal",
-          "summary": "The Court of Arbitration for Sport overturned the African confederation's March ruling that had awarded Morocco a 3-0 win. Senegal's 1-0 victory in the January final stands.",
-          "whyItMatters": "It ends a long and bitter dispute over who won Africa's biggest tournament.",
-          "category": "sport",
-          "badge": "confirmed",
-          "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-25-2026/4136600"
-        },
-        {
-          "headline": "India A face Sri Lanka A in Thursday's semi-final",
-          "summary": "The Rising Stars Asia Cup semi-final is at West End Park, Doha, at 10:00 GMT (3:30pm IST), with Tilak Varma captaining India A. Bangladesh A play Pakistan A on Friday, and the final is on 29 November.",
-          "whyItMatters": "India A arrive in form after Sooryavanshi's 204 off 53 balls in the group stage.",
-          "category": "sport",
-          "sourceUrl": "https://www.bcci.tv/matches/58d97fcd-1799-4ee2-9b5e-ae4faeb49467/sri-lanka-a-vs-india-a"
-        },
-        {
-          "headline": "India need a win in Christchurch from Friday",
-          "summary": "The second and final Test against New Zealand starts at Hagley Oval on Friday, with the series level after a high-scoring draw in Wellington. Shubman Gill has signalled few changes to his side.",
-          "whyItMatters": "A draw would hurt India's World Test Championship hopes.",
-          "category": "sport",
-          "sourceUrl": "https://sports.yahoo.com/articles/tough-him-played-best-attack-055306240.html"
-        },
-        {
-          "headline": "Shenzhou-24 docks with Tiangong carrying the first foreign astronaut",
-          "summary": "A Long March 2F lifted off from Jiuquan at 00:18 GMT, and the capsule docked with the Tianhe core module about 3.5 hours later. The crew are Tang Hongbo, Wu Yi and Pakistan's Muhammad Zeeshan Ali.",
-          "whyItMatters": "It is China's first crewed mission with another country, a step in using its station for diplomacy.",
-          "category": "space",
-          "badge": "confirmed",
-          "sourceUrl": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1879201-20261125.htm?spTabChangeable=0"
-        },
-        {
-          "headline": "Wall Street splits: Dow back above 50,000, Nasdaq down 1.5%",
-          "summary": "Tuesday close: Dow 50,018.70 (+0.85%), S&P 500 7,201.09 (-0.50%), Nasdaq Composite 23,733.54 (-1.48%). Chipmakers gave back part of Monday's rally, with Nvidia down almost 6% and the Philadelphia chip index about 8%, while money moved into healthcare and value stocks.",
-          "whyItMatters": "Traders now price a December Fed rate rise as near-certain, which weighs on richly valued tech.",
-          "category": "markets",
-          "sourceUrl": "https://www.news4jax.com/business/2026/11/25/asian-stocks-mostly-decline-as-ai-shares-fall-following-a-retreat-on-wall-street/"
-        },
-        {
-          "headline": "FTSE 100 edges down as miners slide",
-          "summary": "Tuesday close: FTSE 100 10,467.07 (-0.13%). Antofagasta, Anglo American and Glencore fell 5% to 8% on weaker metals, while Experian, Compass and Relx rose. Pets at Home reports half-year results today.",
-          "whyItMatters": "Asia's chip rout points to a soft open in London this morning.",
-          "category": "markets",
-          "sourceUrl": "https://www.hl.co.uk/shares/stock-market-summary/ftse-100"
-        },
-        {
-          "headline": "Sensex and Nifty rally over 2% as India reopens, still trading",
-          "summary": "At 12:00 IST (06:30 GMT) the Sensex was up 1,916 points (+2.32%) at 84,352.46 and the Nifty 50 up 567 points (+2.24%) at 25,916.90, after Tuesday's Guru Nanak Jayanti holiday. HDFC Bank, ICICI Bank, Bajaj Finance and Infosys led the gains.",
-          "whyItMatters": "India is catching up on the global rally it missed and recovering Monday's 1.8% fall, helped by foreign buying.",
-          "category": "markets",
-          "badge": "update",
-          "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-live-november-25-gift-nifty-bse-sensex-today-nifty50-crude-oil-prices-ipo-today-126112500069_1.html"
-        },
-        {
-          "headline": "Asian chip stocks tumble: Kospi down 5.6%, Nikkei down 3.6%",
-          "summary": "By about 04:05 GMT the Kospi was down 5.6% and the Nikkei down 3.6%, with Taiwan's market off more than 6%. Hong Kong's Hang Seng rose 1%, and Brent crude slipped to about 88 dollars.",
-          "whyItMatters": "Asia reversed Monday's surge, a sign of how fragile the AI trade remains.",
-          "category": "markets",
-          "sourceUrl": "https://www.news4jax.com/business/2026/11/25/asian-stocks-mostly-decline-as-ai-shares-fall-following-a-retreat-on-wall-street/"
         }
       ]
     }
