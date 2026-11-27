@@ -1,7 +1,207 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-26T18:51:02Z",
+  "lastUpdated": "2026-11-27T06:51:47Z",
   "entries": [
+    {
+      "id": "2026-11-27-morning",
+      "type": "briefing",
+      "edition": "morning",
+      "date": "2026-11-27",
+      "generatedAt": "2026-11-27T06:51:47Z",
+      "title": "Morning Briefing · 27 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/CHLBDfFw28SgMuYk6m7mWM",
+      "headlines": [
+        "EU summit ends with no budget deal; 45 billion euro Ukraine loan pushed to December",
+        "MoD writes to about 100,000 Strategic Reservists, the first such effort since the Cold War",
+        "Two Italian contractors killed by a drone in Kuwait; Iran denies involvement as Brent nears 97 dollars",
+        "Indian shares slip on IT selling while Asian markets rally; Wall Street reopens for a short session",
+        "New Zealand 246/5 at stumps on day one of the Christchurch Test against India"
+      ],
+      "categories": [
+        {
+          "key": "world",
+          "label": "World",
+          "count": 6
+        },
+        {
+          "key": "uk",
+          "label": "UK",
+          "count": 2
+        },
+        {
+          "key": "india",
+          "label": "India",
+          "count": 2
+        },
+        {
+          "key": "immigration",
+          "label": "UK immigration",
+          "count": 2
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "count": 3
+        },
+        {
+          "key": "space",
+          "label": "Space",
+          "count": 1
+        },
+        {
+          "key": "markets",
+          "label": "Markets",
+          "count": 3
+        }
+      ],
+      "stories": [
+        {
+          "headline": "EU summit fails to agree the 2028-34 budget or the Ukraine loan",
+          "summary": "The special summit in Brussels ran about 14 hours on Thursday and was cut short, with day two cancelled. Seven frugal states refused the small-group format, and Slovakia, Hungary and the Czech Republic did not back the 45 billion euro loan to Ukraine. Leaders meet again around 17 December.",
+          "whyItMatters": "Ukraine's 2027 financing is still unsettled, and Macron says 31 December is the absolute deadline for the budget.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid"
+        },
+        {
+          "headline": "Two Italian defence technicians killed in a drone attack in Kuwait",
+          "summary": "The two Rheinmetall employees were servicing air-defence equipment, and a Kuwaiti and a Pakistani national were hurt. Kuwait and Italy say the drone came from Iran, while Tehran calls it a false flag and offered a joint investigation. Separately, the Saudi-led coalition says it hit 50 Houthi targets, and Saudi Arabia says one worker died in an attack on a refinery in Jazan.",
+          "whyItMatters": "European casualties bring NATO members closer to the Gulf conflict, and oil prices rose again overnight.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-27-2026/4139900"
+        },
+        {
+          "headline": "Zelensky warns of a new Russian mass strike; Poland incursions draw a Trump-Rutte warning",
+          "summary": "After Russian missiles and drones crossed into Polish airspace during attacks on Ukraine this week, Trump and NATO's Mark Rutte jointly urged Moscow not to widen the war. Zelensky says Kyiv has information that Russia plans another large strike in the coming days.",
+          "whyItMatters": "Poland has floated NATO shooting down Russian missiles over Ukraine, which would mark a major escalation in the alliance's role.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.10things.news/p/10-things-global-news-27th-november-49b"
+        },
+        {
+          "headline": "Congo's Ebola outbreak passes 12,000 confirmed cases",
+          "summary": "Government data released on Thursday show 12,021 confirmed cases and 5,904 deaths since May, across 8 of the DRC's 26 provinces. The outbreak is the Bundibugyo strain, which has no approved vaccine or treatment, and fighting is slowing the response, according to the WHO.",
+          "whyItMatters": "It is described as the fastest-growing Ebola outbreak on record, with no medical tool to stop it.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.10things.news/p/10-things-global-news-27th-november-49b"
+        },
+        {
+          "headline": "Pablo Hernandez de Cos picked to succeed Lagarde at the ECB",
+          "summary": "Eurozone leaders chose the BIS general manager and former Bank of Spain governor to lead the ECB when Christine Lagarde steps down on 7 February. Formal confirmation is still needed.",
+          "whyItMatters": "With eurozone inflation at 4%, the new president inherits a possible rate rise as soon as December.",
+          "category": "world",
+          "badge": "proposal",
+          "sourceUrl": "https://www.10things.news/p/10-things-global-news-27th-november-49b"
+        },
+        {
+          "headline": "Thanksgiving storm cuts power to 800,000 on the US East Coast",
+          "summary": "New York declared a state of emergency for New York City, Long Island and other southern areas as gusts reached about 70 mph. Hundreds of flights were cancelled and more than 1,900 delayed.",
+          "whyItMatters": "Expect knock-on delays for transatlantic flights on one of the busiest US travel weekends.",
+          "category": "world",
+          "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-27-2026/4139900"
+        },
+        {
+          "headline": "MoD contacts about 100,000 Strategic Reservists, the first such effort since the Cold War",
+          "summary": "Letters signed by the heads of the Army, Navy and RAF ask former personnel who are still liable for recall to update their contact details and civilian skills, and invite volunteers for training. Defence Secretary Wes Streeting called it a sensible, necessary precaution, and the veterans minister says mobilisation is not imminent.",
+          "whyItMatters": "It is a concrete step to rebuild reserve capacity after Russian incursions into Poland. Recall is still legally limited to a national emergency or an attack on the UK.",
+          "category": "uk",
+          "badge": "developing",
+          "sourceUrl": "https://uk.news.yahoo.com/mod-writes-100-000-uk-111750725.html"
+        },
+        {
+          "headline": "Bank of England lowers capital requirements for big banks and flags AI and cyber risks",
+          "summary": "The Financial Policy Committee finished its review of the bank capital framework. Major banks' Tier 1 requirements fall by about 0.5 percentage points of risk-weighted assets, against a system benchmark of around 13%, and the countercyclical buffer stays at 2%.",
+          "whyItMatters": "Freeing up capital could support lending. The Bank also warns that the Middle East conflict, public debt and stretched AI valuations could hit at the same time.",
+          "category": "uk",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026"
+        },
+        {
+          "headline": "Delimitation-linked women's quota bill expected at Monday's special session",
+          "summary": "The government is expected to bring back a women's reservation bill tied to delimitation when Parliament sits from 30 November, though the agenda has not been published. A similar amendment fell short of a two-thirds majority in April, and NCP-SP has whipped its MPs to attend until 4 December.",
+          "whyItMatters": "Redrawing constituencies changes each state's share of Lok Sabha seats, and southern parties want a uniform rise before they give support.",
+          "category": "india",
+          "badge": "developing",
+          "sourceUrl": "https://www.outlookindia.com/national/india-news-live-updates-parliament-special-session-pm-modi-up-punjab-elections-2027-november-27"
+        },
+        {
+          "headline": "Goyal says the India-US trade deal is nearing completion",
+          "summary": "Commerce minister Piyush Goyal says negotiations are close to done. Washington this week proposed higher Section 301 tariffs on India and 13 other economies if talks fail.",
+          "whyItMatters": "A deal would head off the new tariffs on Indian exports. No terms or date have been announced.",
+          "category": "india",
+          "badge": "developing",
+          "sourceUrl": "https://www.outlookindia.com/national/india-news-live-updates-parliament-special-session-pm-modi-up-punjab-elections-2027-november-27"
+        },
+        {
+          "headline": "No new Immigration Rules, fee or visa changes overnight",
+          "summary": "The Home Office GOV.UK page shows nothing on visas, Skilled Worker, settlement, citizenship or fees since 18 November, and HC 584 of 3 September is still the latest Statement of Changes. Earned settlement, with 10-year ILR as the default, is government policy, but its rules have not been laid and it has no start date.",
+          "category": "immigration",
+          "badge": "status",
+          "sourceUrl": "https://www.gov.uk/government/organisations/home-office"
+        },
+        {
+          "headline": "Student maintenance funds rise on Monday 30 November",
+          "summary": "Under HC 584, student visa applicants must show 1,570 pounds a month in London (up from 1,529) and 1,203 pounds elsewhere (up from 1,171) for applications made on or after 30 November 2026.",
+          "whyItMatters": "Anyone applying before Monday, including from India, is assessed at the old amounts.",
+          "category": "immigration",
+          "badge": "confirmed",
+          "sourceUrl": "https://assets.publishing.service.gov.uk/media/6a96e3559a177a1decf97c25/E03678010__HC_584__-_Immigration_Rules_Changes__Web_Accessible_.pdf"
+        },
+        {
+          "headline": "NZ v India, 2nd Test, day 1: New Zealand 246/5",
+          "summary": "Shubman Gill won the toss and bowled, with Gurnoor Brar on debut. Tom Latham made 59 and Akash Deep took 2 for 52, before Tom Blundell (53 not out) and Glenn Phillips (36 not out) added an unbeaten 62 from 184 for 5.",
+          "whyItMatters": "The series is 0-0 after the Wellington draw, so India need early wickets on day 2 to stay on course for a win.",
+          "category": "sport",
+          "badge": "developing",
+          "sourceUrl": "https://theprint.in/sport/new-zealand-reach-246-5-on-day-1-against-india/3110534/"
+        },
+        {
+          "headline": "Ten-man Bournemouth win 2-1 at Celta Vigo and top the Europa League",
+          "summary": "Iago Aspas put Celta ahead, then Bafode Diakite was sent off after about 22 minutes. Bournemouth equalised early in the second half, and substitute Rayan scored the winner late on.",
+          "whyItMatters": "That is ten straight wins, and a home win over Viktoria Plzen in December should seal a top-eight finish.",
+          "category": "sport",
+          "badge": "confirmed",
+          "sourceUrl": "https://abcnews.com/Sports/wireStory/bournemouth-tops-europa-league-after-beating-celta-vigo-138472338"
+        },
+        {
+          "headline": "Palace come from behind, Celtic win late, Sunderland held",
+          "summary": "Crystal Palace beat Real Sociedad 2-1 with a Mateta penalty and a late Dwight McNeil winner, Thomas Frank's first win in charge. Celtic won 2-1 at Torreense and Sunderland drew 1-1 with Jagiellonia, while AC Milan came from 2-0 down to beat Olympiacos 4-2.",
+          "category": "sport",
+          "badge": "confirmed",
+          "sourceUrl": "https://abcnews.com/Sports/wireStory/bournemouth-tops-europa-league-after-beating-celta-vigo-138472338"
+        },
+        {
+          "headline": "Rocket Lab's 101st Electron puts a Japanese radar satellite into orbit",
+          "summary": "The Night Owls Never Sleep mission launched from New Zealand at 00:15 GMT and placed Synspective's StriX radar satellite into a 569 km orbit. It was Rocket Lab's 22nd launch this year. NG-25 Cygnus is still due to launch to the ISS on Sunday.",
+          "whyItMatters": "Small radar satellites can image through cloud and at night, and more of them means more frequent images for disaster and defence users.",
+          "category": "space",
+          "badge": "confirmed",
+          "sourceUrl": "https://www.globenewswire.com/news-release/2026/11/27/3411054/0/en/mission-success-rocket-lab-launches-101st-electron-mission.html"
+        },
+        {
+          "headline": "Sensex and Nifty fall as IT stocks lose ground after a two-day rally",
+          "summary": "Live at 11:00 IST on Friday: Sensex 83,798.63 (down 529.96, -0.63%) and Nifty 50 25,733.40 (down 151.10, -0.58%), still trading. TCS, HCL Tech and Infosys led the losses, while metals, defence and small and mid caps rose, and oil rising on West Asia tensions weighed.",
+          "category": "markets",
+          "badge": "update",
+          "sourceUrl": "https://www.business-standard.com/markets/news/stock-market-live-november-27-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-share-price-ipo-today-126112700100_1.html"
+        },
+        {
+          "headline": "Asian markets rebound strongly on chip stocks; oil keeps climbing",
+          "summary": "At about 05:30 GMT on Friday the Kospi was up 4.2% at 4,906.93, the Nikkei 225 about 2.0% at 58,628.59, the Hang Seng about 2.1% and Shanghai 3.2%, all still trading. Brent rose 0.8% to 97.31 dollars and US crude about 3% to 86.18 dollars after a Houthi strike on a Saudi refinery.",
+          "category": "markets",
+          "badge": "update",
+          "sourceUrl": "https://www.click2houston.com/business/2026/11/27/asian-shares-mostly-rise-ahead-of-wall-streets-reopening-after-thanksgiving/"
+        },
+        {
+          "headline": "FTSE 100 jumped 1.75% on Thursday; Wall Street reopens for a half-day",
+          "summary": "Thursday 26 November close: FTSE 100 10,609.30, up 182.36 points (1.75%), led by miners, banks, Imperial Brands and Babcock. US markets were shut for Thanksgiving and reopen today for a shortened session; Wednesday 25 November close: Dow 50,182.95 (+0.33%), S&P 500 7,182.78 (-0.25%), Nasdaq Composite 23,585.80 (-0.62%).",
+          "category": "markets",
+          "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/marktberichte/ftse-100-closes-1-75-prozent-higher-as-banks-and-miners-rally/70559914"
+        }
+      ]
+    },
     {
       "id": "2026-11-26-evening",
       "type": "briefing",
