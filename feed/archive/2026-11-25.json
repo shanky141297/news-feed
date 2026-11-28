@@ -1,7 +1,183 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-25T06:55:38Z",
+  "lastUpdated": "2026-11-25T18:47:14Z",
   "entries": [
+    {
+      "id": "2026-11-25-evening",
+      "type": "briefing",
+      "edition": "evening",
+      "date": "2026-11-25",
+      "generatedAt": "2026-11-25T18:47:14Z",
+      "title": "Evening Briefing · 25 November 2026",
+      "artifactUrl": "https://claude.ai/artifact/8nKfxf1HSAHes58wwmLigd",
+      "headlines": [
+        "Wall Street claws back from an AI rout after hot inflation data; the Dow turns positive and the Nasdaq trims a 4% fall to about 1%",
+        "US proposes new tariffs on 14 economies, with up to 25% on India",
+        "Saudi-led coalition confirms strikes on Yemen's Hodeidah port as the Houthis threaten Jeddah",
+        "Supreme Court refuses Umar Khalid and Sharjeel Imam interim bail for now and sends the case towards a three-judge bench",
+        "Indian shares close up about 1.8% while the FTSE 100 slips 0.38%"
+      ],
+      "categories": [
+        {
+          "key": "world",
+          "label": "World",
+          "count": 4
+        },
+        {
+          "key": "uk",
+          "label": "UK",
+          "count": 2
+        },
+        {
+          "key": "india",
+          "label": "India",
+          "count": 2
+        },
+        {
+          "key": "immigration",
+          "label": "UK immigration",
+          "count": 1
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "count": 2
+        },
+        {
+          "key": "space",
+          "label": "Space",
+          "count": 2
+        },
+        {
+          "key": "markets",
+          "label": "Markets",
+          "count": 3
+        }
+      ],
+      "stories": [
+        {
+          "headline": "Coalition confirms Hodeidah strikes; Houthis threaten Saudi Red Sea ports",
+          "summary": "The Saudi-led coalition confirmed it struck military capabilities at Yemen's Hodeidah port and targets in Saada and Amran late on Tuesday, after warning civilians to leave. The Houthis told workers and shipping firms to leave Jeddah and other Saudi Red Sea ports. The coalition said it downed four drones over Ras Tanura with no casualties; Houthi claims of refinery fires are unconfirmed.",
+          "whyItMatters": "Hodeidah handles most of Yemen's aid imports, and a threat to Jeddah would carry the war onto the Red Sea shipping lane.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
+        },
+        {
+          "headline": "US proposes tariffs on 14 trading partners, up to 25% for India",
+          "summary": "The US Trade Representative proposed new Section 301 tariffs on 14 economies over excess industrial capacity, with reported rates of about 20% more on China, 15% for the EU and Japan, and up to 25% for India, or 17% with a trade deal. Comments are due by 5 January 2027 and hearings start on 25 January.",
+          "whyItMatters": "India's rate is among the highest on the list, raising pressure on trade talks with Washington. The plan helped drive the early market sell-off.",
+          "category": "world",
+          "badge": "proposal",
+          "sourceUrl": "https://finance.biggo.com/news/cf1604c9-dce7-4f7d-af31-0c7eef4e099c"
+        },
+        {
+          "headline": "Russia launches 112 drones at Ukraine; refinery hits still unconfirmed",
+          "summary": "Ukraine's air force said it downed 88 of 112 drones overnight, with hits in 18 places and deaths in the Kyiv, Kharkiv and Chernihiv regions. The injury toll from Tuesday's Zaporizhzhia strike rose to 50. Fires were reported at the Syzran and Novokuibyshevsk refineries, but there is no official confirmation the plants were hit.",
+          "whyItMatters": "Putin said on Tuesday that retaliation for refinery strikes is inevitable, and Trump said he is under no deadline for a peace deal.",
+          "category": "world",
+          "badge": "developing",
+          "sourceUrl": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+        },
+        {
+          "headline": "Solomon Islands signs treaty with Australia barring foreign bases",
+          "summary": "The Solomon Islands and Australia signed a treaty ruling out any foreign military base in the Solomons. Honiara said it will not renew its 2022 security pact with China.",
+          "whyItMatters": "It reverses one of Beijing's biggest security gains in the Pacific.",
+          "category": "world",
+          "sourceUrl": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+        },
+        {
+          "headline": "PMQs: Badenoch presses Burnham on EU student fees",
+          "summary": "Kemi Badenoch asked whether last week's EU reset deal will let EU students pay home fees, capped at 9,790 pounds, instead of international rates. Andy Burnham said the fees deal is not done and the issue has not been put on the table.",
+          "whyItMatters": "Universities say home-fee status for EU students could cost them hundreds of millions of pounds a year.",
+          "category": "uk",
+          "sourceUrl": "https://ncijnetwork.com/pmqs-kemi-badenoch-challenges-andy-burnham-over-university-fees-for-eu-students/"
+        },
+        {
+          "headline": "Independent panel to examine nuclear test veterans' treatment",
+          "summary": "The Prime Minister set up an independent panel chaired by Bishop James Jones, who led the Hillsborough panel, to look at how Cold War nuclear tests affected veterans and their descendants and at claims of a cover-up. An interim report is due before 3 October 2027.",
+          "whyItMatters": "Veterans have campaigned for decades, and oversight moves from the Ministry of Defence to the Cabinet Office.",
+          "category": "uk",
+          "badge": "confirmed",
+          "sourceUrl": "https://news.liverpool.ac.uk/2026/11/25/independent-panel-into-britains-nuclear-test-veterans-announced/amp/"
+        },
+        {
+          "headline": "Supreme Court refuses Umar Khalid and Sharjeel Imam interim bail for now",
+          "summary": "A bench led by Chief Justice Surya Kant refused interim bail for now in the 2020 Delhi riots UAPA case. It issued notice to Delhi Police and asked the Registry to put the case before the Chief Justice to set up a three-judge bench. No next date was given.",
+          "whyItMatters": "Both men have been jailed since 2020 without trial witnesses being examined, and a larger bench may settle how long UAPA accused can be held before trial.",
+          "category": "india",
+          "badge": "update",
+          "sourceUrl": "https://www.indiatvnews.com/news/india/supreme-court-refuses-interim-bail-to-umar-khalid-and-sharjeel-imam-seeks-delhi-police-response-latest-updates-2026-11-25-1060330"
+        },
+        {
+          "headline": "Cabinet approves 2,014 crore rupee airport at Doloo in Assam",
+          "summary": "The Union Cabinet cleared a new greenfield airport at Doloo, the second for Assam's Barak Valley, built for about 10.1 lakh passengers a year.",
+          "whyItMatters": "It adds air capacity in a poorly connected part of the northeast.",
+          "category": "india",
+          "badge": "confirmed",
+          "sourceUrl": "https://theprint.in/india/cabinet-clears-rs-2014-cr-greenfield-airport-in-doloo-2nd-for-assams-barak-valley/3108892/"
+        },
+        {
+          "headline": "No new Immigration Rules or Home Office announcements today",
+          "summary": "Nothing new on GOV.UK since this morning. Earned settlement is confirmed policy, announced on 2 November with a full consultation response on 12 November, but its Immigration Rules have not been laid and no start date is set. The plan makes 10 years the default route to settlement, 5 years for those earning over 50,271 pounds, and requires B2 English.",
+          "whyItMatters": "Skilled Worker visa holders planning for ILR should watch for the Statement of Changes expected in December. Student maintenance funds rise on 30 November 2026.",
+          "category": "immigration",
+          "badge": "status",
+          "sourceUrl": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk"
+        },
+        {
+          "headline": "Christchurch Test starts at 10pm UK time on Thursday",
+          "summary": "The second and final Test between New Zealand and India starts at 11am local on Friday at Hagley Oval, which is 22:00 GMT on Thursday. The series is level after the Wellington draw, and New Zealand are without Mitchell Santner, with Dean Foxcroft called up.",
+          "whyItMatters": "India need a win to keep their World Test Championship final hopes on track.",
+          "category": "sport",
+          "sourceUrl": "https://www.wisden.com/series/new-zealand-vs-india-m-2026/cricket-news/nz-vs-ind-tests-2026-schedule-squads-match-timings"
+        },
+        {
+          "headline": "Champions League tonight: Liverpool without Gakpo in Bruges",
+          "summary": "Liverpool visit Club Brugge and Manchester United play Sporting in Lisbon, both at 8pm UK time, with Cody Gakpo out injured for Liverpool. Roma visit PSG, Bayern play Lille and Stuttgart face Inter.",
+          "whyItMatters": "United are 17th in the league phase and need points to avoid the play-off places.",
+          "category": "sport",
+          "sourceUrl": "https://lastwordonsports.com/football/2026/11/25/club-brugge-vs-liverpool-confirmed-lineups/"
+        },
+        {
+          "headline": "ISRO chief says Gaganyaan is not delayed but gives no date",
+          "summary": "V Narayanan said on Tuesday that the uncrewed G1 flight is in its final phase, with the rocket ready and the orbital module still being worked on, and will fly at the earliest opportunity. He was responding to reports that G1 might slip to February 2027.",
+          "whyItMatters": "G1 must fly before India can attempt its first crewed spaceflight.",
+          "category": "space",
+          "sourceUrl": "https://www.indiandefensenews.in/2026/11/gaganyaan-is-on-track-says-isro-chief.html"
+        },
+        {
+          "headline": "Cygnus NG-25 cargo flight to the ISS lined up for 29 November",
+          "summary": "Launch schedules list Northrop Grumman's NG-25 resupply mission on a Falcon 9 from Cape Canaveral on Sunday, alongside a US Space Force launch from Vandenberg the same day.",
+          "whyItMatters": "It is the next cargo run to the space station.",
+          "category": "space",
+          "sourceUrl": "https://www.rocketlaunch.live/"
+        },
+        {
+          "headline": "Wall Street recovers most of a steep AI sell-off, still trading",
+          "summary": "Live at 13:37 ET (18:37 GMT): Dow 50,217.17 (+0.40%), S&P 500 7,163.29 (-0.52%), Nasdaq Composite 23,451.46 (-1.19%). October PCE inflation of 3.8%, core 3.3% against 3.2% expected, and the tariff plan sent the Nasdaq down over 4% and the Dow down more than 1,000 points early on, with the Nasdaq-100 briefly in bear-market territory. Markets now price a December Fed hike as almost certain.",
+          "whyItMatters": "A Nasdaq-100 close below 24,979.58 would confirm a bear market. US markets are shut on Thursday for Thanksgiving and the Fed meets on 8 and 9 December.",
+          "category": "markets",
+          "badge": "developing",
+          "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+        },
+        {
+          "headline": "FTSE 100 closes 0.38% lower as tech names follow the US",
+          "summary": "Wednesday close: FTSE 100 10,426.94 (-40.13, -0.38%), FTSE 250 down 0.9%. Computacenter fell 8.2% and Autotrader 3.3% after Amazon said Amazon Autos will launch in the UK in early 2027, while Imperial Brands rose 6.1% and Unilever 2.2%.",
+          "whyItMatters": "US inflation and tariff worries reached London despite its small tech weighting.",
+          "category": "markets",
+          "sourceUrl": "https://britbrief.co.uk/business/markets/ftse-100-slips-as-us-inflation-and-tariff-worries-weigh.html"
+        },
+        {
+          "headline": "Sensex and Nifty close up about 1.8% after the holiday",
+          "summary": "Wednesday close: Sensex 83,938.28 (+1,502.29, +1.82%) and Nifty 50 25,819.25 (+469.60, +1.85%), slightly below the midday highs. FMCG led, with Hindustan Unilever up about 6%, HDFC Bank and ICICI Bank rose over 3%, and Tata Steel fell 2.3%.",
+          "whyItMatters": "Foreign buying and lower crude lifted the rupee to an eight-month high.",
+          "category": "markets",
+          "badge": "update",
+          "sourceUrl": "https://www.kotakneo.com/news/market-news/sensex-nifty-recover-on-fii-buying-and-lower-crude-prices/"
+        }
+      ]
+    },
     {
       "id": "2026-11-25-morning",
       "type": "briefing",
